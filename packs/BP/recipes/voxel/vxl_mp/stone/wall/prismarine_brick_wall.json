@@ -1,0 +1,17 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {"identifier": "vxl_mp:prismarine_brick_wall_recipe"},
+    "tags": ["vxl_core_artisan_table"],
+    "pattern": [
+      "###",
+      "###"
+    ],
+    "key"   : {"#": {"item": "minecraft:prismarine_bricks","data": 4}},
+    "unlock": [{"item": "minecraft:prismarine_bricks"},{"item": "vxl_core:artisan_table"}],
+    "result": {
+      "item": "vxl_mp:prismarine_brick_wall",
+      "data": 4,"count": 6
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "format_version": [ 1,1,0 ],
+  //All Packs
+  "vxl_core:artisan_table": {
+    "sound": "wood",
+    "textures": {
+      "down": "spruce_planks",
+      "east": "vxl_core_artisan_table_side",
+      "north": "vxl_core_artisan_table_front",
+      "south": "vxl_core_artisan_table_front",
+      "up": "vxl_core_artisan_table_top",
+      "west": "vxl_core_artisan_table_side"
+    }
+  },
+  //Wood Pack
+  "vxl_mp:acacia_log_slab"            : {"sound" : "wood"},
+  "vxl_mp:birch_log_slab"             : {"sound" : "wood"},
+  "vxl_mp:cherry_log_slab"            : {"sound" : "wood"},
+  "vxl_mp:crimson_stem_slab"          : {"sound" : "wood"},
+  "vxl_mp:dark_oak_log_slab"          : {"sound" : "wood"},
+  "vxl_mp:jungle_log_slab"            : {"sound" : "wood"},
+  "vxl_mp:mangrove_log_slab"          : {"sound" : "wood"},
+  "vxl_mp:oak_log_slab"               : {"sound" : "wood"},
+  "vxl_mp:pale_oak_log_slab"          : {"sound" : "wood"},
+  "vxl_mp:spruce_log_slab"            : {"sound" : "wood"},
+  "vxl_mp:warped_stem_slab"           : {"sound" : "wood"},
+
+  "vxl_mp:stripped_acacia_log_slab"   : {"sound" : "wood"},
+  "vxl_mp:stripped_birch_log_slab"    : {"sound" : "wood"},
+  "vxl_mp:stripped_cherry_log_slab"   : {"sound" : "wood"},
+  "vxl_mp:stripped_crimson_stem_slab" : {"sound" : "wood"},
+  "vxl_mp:stripped_dark_oak_log_slab" : {"sound" : "wood"},
+  "vxl_mp:stripped_jungle_log_slab"   : {"sound" : "wood"},
+  "vxl_mp:stripped_mangrove_log_slab" : {"sound" : "wood"},
+  "vxl_mp:stripped_oak_log_slab"      : {"sound" : "wood"},
+  "vxl_mp:stripped_pale_oak_log_slab" : {"sound" : "wood"},
+  "vxl_mp:stripped_spruce_log_slab"   : {"sound" : "wood"},
+  "vxl_mp:stripped_warped_stem_slab"  : {"sound" : "wood"},
+
+  "vxl_mp:acacia_ladder"              : {"sound" : "wood"},
+  "vxl_mp:birch_ladder"               : {"sound" : "wood"},
+  "vxl_mp:cherry_ladder"              : {"sound" : "wood"},
+  "vxl_mp:crimson_ladder"             : {"sound" : "wood"},
+  "vxl_mp:dark_oak_ladder"            : {"sound" : "wood"},
+  "vxl_mp:jungle_ladder"              : {"sound" : "wood"},
+  "vxl_mp:mangrove_ladder"            : {"sound" : "wood"},
+  "vxl_mp:oak_ladder"                 : {"sound" : "wood"},
+  "vxl_mp:pale_oak_ladder"            : {"sound" : "wood"},
+  "vxl_mp:spruce_ladder"              : {"sound" : "wood"},
+  "vxl_mp:warped_ladder"              : {"sound" : "wood"},
+
+  "vxl_mp:acacia_wall"                : {"sound" : "wood"},
+  "vxl_mp:birch_wall"                 : {"sound" : "wood"},
+  "vxl_mp:cherry_wall"                : {"sound" : "wood"},
+  "vxl_mp:crimson_wall"               : {"sound" : "wood"},
+  "vxl_mp:dark_oak_wall"              : {"sound" : "wood"},
+  "vxl_mp:jungle_wall"                : {"sound" : "wood"},
+  "vxl_mp:mangrove_wall"              : {"sound" : "wood"},
+  "vxl_mp:oak_wall"                   : {"sound" : "wood"},
+  "vxl_mp:pale_oak_wall"              : {"sound" : "wood"},
+  "vxl_mp:spruce_wall"                : {"sound" : "wood"},
+  "vxl_mp:warped_wall"                : {"sound" : "wood"},
+
+  "vxl_mp:acacia_bookshelf": {
+    "sound": "wood",
+    "textures": {
+      "down": "acacia_planks",
+      "side": "vxl_mp_acacia_bookshelf",
+      "up": "acacia_planks"
+    }
+  },
+  "vxl_mp:birch_bookshelf": {
+    "sound": "wood",
+    "textures": {
+      "down": "birch_planks",
+      "side": "vxl_mp_birch_bookshelf",
+      "up": "birch_planks"
+    }
+  },
+  "vxl_mp:cherry_bookshelf": {
+    "sound": "wood",
+    "textures": {
+      "down": "cherry_planks",
+      "side": "vxl_mp_cherry_bookshelf",
+      "up": "cherry_planks"
+    }
+  },
+  "vxl_mp:crimson_bookshelf": {
+    "sound": "wood",
+    "textures": {
+      "down": "crimson_planks",
+      "side": "vxl_mp_crimson_bookshelf",
+      "up": "crimson_planks"
+    }
+  },
+  "vxl_mp:warped_bookshelf": {
+    "sound": "wood",
+    "textures": {
+      "down": "warped_planks",
+      "side": "vxl_mp_warped_bookshelf",
+      "up": "warped_planks"
+    }
+  },
+  "vxl_mp:dark_oak_bookshelf": {
+    "sound": "wood",
+    "textures": {
+      "down": "dark_oak_planks",
+      "side": "vxl_mp_dark_oak_bookshelf",
+      "up": "dark_oak_planks"
+    }
+  },
+  "vxl_mp:pale_oak_bookshelf": {
+    "sound": "wood",
+    "textures": {
+      "down": "pale_oak_planks",
+      "side": "vxl_mp_pale_oak_bookshelf",
+      "up": "pale_oak_planks"
+    }
+  },
+  "vxl_mp:jungle_bookshelf": {
+    "sound": "wood",
+    "textures": {
+      "down": "jungle_planks",
+      "side": "vxl_mp_jungle_bookshelf",
+      "up": "jungle_planks"
+    }
+  },
+  "vxl_mp:mangrove_bookshelf": {
+    "sound": "wood",
+    "textures": {
+      "down": "mangrove_planks",
+      "side": "vxl_mp_mangrove_bookshelf",
+      "up": "mangrove_planks"
+    }
+  },
+  "vxl_mp:spruce_bookshelf": {
+    "sound": "wood",
+    "textures": {
+      "down": "spruce_planks",
+      "side": "vxl_mp_spruce_bookshelf",
+      "up": "spruce_planks"
+    }
+  },
+  //Stone Pack
+  "vxl_mp:cobblestone_fence": {"sound" : "stone"},
+  "vxl_mp:mossy_cobblestone_fence": {"sound" : "stone"},
+  "vxl_mp:cobbled_deepslate_fence": {"sound" : "stone"},
+  "vxl_mp:cobblestone_fence_gate": {"sound" : "stone"},
+  "vxl_mp:mossy_cobblestone_fence_gate": {"sound" : "stone"},
+  "vxl_mp:cobbled_deepslate_fence_gate": {"sound" : "stone"},
+  "vxl_mp:prismarine_brick_wall": {"sound" : "stone"},
+  "vxl_mp:dark_prismarine_wall": {"sound" : "stone"},
+
+  //Copper Pack
+  "vxl_mp:copper_bars": {"sound" : "metal"}
+}

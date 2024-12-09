@@ -1,0 +1,17 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {"identifier": "vxl_mp:dark_oak_wall_recipe"},
+    "tags": ["vxl_core_artisan_table"],
+    "pattern": [
+      "###",
+      "###"
+    ],
+    "key"   : {"#": {"item": "minecraft:planks","data": 5}},
+    "unlock": [{"item": "minecraft:planks","data": 5},{"item": "vxl_core:artisan_table"}],
+    "result": {
+      "item": "vxl_mp:dark_oak_wall",
+      "data": 4,"count": 6
+    }
+  }
+}

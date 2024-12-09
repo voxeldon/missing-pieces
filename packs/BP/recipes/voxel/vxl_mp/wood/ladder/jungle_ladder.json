@@ -1,0 +1,22 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "vxl_mp:jungle_ladder_recipe"
+    },
+    "tags": ["vxl_core_artisan_table"],
+    "ingredients": [
+      {"item": "minecraft:ladder"},
+      {"item": "minecraft:planks","data": 3}
+    ],
+    "unlock": [
+      {"item": "minecraft:ladder"},
+      {"item": "minecraft:planks","data": 3},
+      {"item": "vxl_core:artisan_table"}
+    ],
+    "result": {
+      "item": "vxl_mp:jungle_ladder",
+      "count": 3
+    }
+  }
+}

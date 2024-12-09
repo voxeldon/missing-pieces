@@ -1,0 +1,18 @@
+{
+  "format_version": "1.20.20",
+  "minecraft:block": {
+    "description": {
+      "identifier": "vxl_mp:dark_oak_bookshelf",
+      "menu_category": {
+        "category": "construction",
+        "group": "itemGroup.name.ladder",
+        "is_hidden_in_commands": false
+      }
+    },
+    "components": {
+      "minecraft:map_color": "#ffffff",
+      "minecraft:destructible_by_mining":{"seconds_to_destroy":1},
+      "minecraft:destructible_by_explosion":{"explosion_resistance":30}
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "format_version": "1.20.20",
+  "minecraft:block": {
+    "description": {
+      "identifier": "vxl_mp:crimson_wall",
+      "menu_category": {
+        "category": "construction",
+        "group": "itemGroup.name.walls",
+        "is_hidden_in_commands": false
+      },
+      "states": {
+        "vxl_mp:placed_bit":[false, true],
+        "vxl_mp:wall_post_bit":[true, false],
+        "vxl_mp:connection_type_north":[false, true],
+        "vxl_mp:connection_type_south":[false, true],
+        "vxl_mp:connection_type_east":[false, true],
+        "vxl_mp:connection_type_west":[false, true],
+        "vxl_mp:connection_type_above":[false, true],
+        "vxl_mp:connection_type_below":[false, true]
+      }
+    },
+    "components": {
+      "tag:vxl_mp_wall": {},
+      "minecraft:custom_components": ["vxl_mp:wall"],
+      "minecraft:map_color": "#ffffff",
+      "minecraft:destructible_by_mining":{"seconds_to_destroy":1},
+      "minecraft:destructible_by_explosion":{"explosion_resistance":30},
+      "minecraft:material_instances": {"*": {"texture": "crimson_planks","render_method": "opaque"}},
+      "minecraft:geometry": {
+        "identifier": "geometry.vxl_mp.wall",
+        "bone_visibility": {
+          "base_large": "q.block_state('vxl_mp:placed_bit') && (((!q.block_state('vxl_mp:connection_type_north') + !q.block_state('vxl_mp:connection_type_south') + !q.block_state('vxl_mp:connection_type_east') + !q.block_state('vxl_mp:connection_type_west')) >= 3) || (!q.block_state('vxl_mp:connection_type_north') + !q.block_state('vxl_mp:connection_type_south') + !q.block_state('vxl_mp:connection_type_east') + !q.block_state('vxl_mp:connection_type_west')) != 2 && (!q.block_state('vxl_mp:connection_type_north') + !q.block_state('vxl_mp:connection_type_south') + !q.block_state('vxl_mp:connection_type_east') + !q.block_state('vxl_mp:connection_type_west')) != 3 || ((q.block_state('vxl_mp:connection_type_north') && q.block_state('vxl_mp:connection_type_east')) || (q.block_state('vxl_mp:connection_type_north') && q.block_state('vxl_mp:connection_type_west')) || (q.block_state('vxl_mp:connection_type_south') && q.block_state('vxl_mp:connection_type_east')) || (q.block_state('vxl_mp:connection_type_south') && q.block_state('vxl_mp:connection_type_west'))))",
+          "base_small": "q.block_state('vxl_mp:placed_bit') && ((!q.block_state('vxl_mp:connection_type_north') + !q.block_state('vxl_mp:connection_type_south') + !q.block_state('vxl_mp:connection_type_east') + !q.block_state('vxl_mp:connection_type_west')) < 3)",
+          "base_small_top": "q.block_state('vxl_mp:placed_bit') && (q.block_state('vxl_mp:connection_type_above') && ((!q.block_state('vxl_mp:connection_type_north') + !q.block_state('vxl_mp:connection_type_south') + !q.block_state('vxl_mp:connection_type_east') + !q.block_state('vxl_mp:connection_type_west')) < 3))",
+          "north_post": "q.block_state('vxl_mp:placed_bit') && (q.block_state('vxl_mp:connection_type_north'))",
+          "north_post_top": "q.block_state('vxl_mp:placed_bit') && (q.block_state('vxl_mp:connection_type_north') && q.block_state('vxl_mp:connection_type_above'))",
+          "south_post": "q.block_state('vxl_mp:placed_bit') && (q.block_state('vxl_mp:connection_type_south'))",
+          "south_post_top": "q.block_state('vxl_mp:placed_bit') && (q.block_state('vxl_mp:connection_type_south') && q.block_state('vxl_mp:connection_type_above'))",
+          "west_post": "q.block_state('vxl_mp:placed_bit') && (q.block_state('vxl_mp:connection_type_west'))",
+          "west_post_top": "q.block_state('vxl_mp:placed_bit') && (q.block_state('vxl_mp:connection_type_west') && q.block_state('vxl_mp:connection_type_above'))",
+          "east_post": "q.block_state('vxl_mp:placed_bit') && (q.block_state('vxl_mp:connection_type_east'))",
+          "east_post_top": "q.block_state('vxl_mp:placed_bit') && (q.block_state('vxl_mp:connection_type_east') && q.block_state('vxl_mp:connection_type_above'))",
+          "render": "!q.block_state('vxl_mp:placed_bit')"
+        }
+      }
+    },
+    "permutations": [
+      {
+        "condition": "!q.block_state('vxl_mp:connection_type_north') && !q.block_state('vxl_mp:connection_type_south') && !q.block_state('vxl_mp:connection_type_east') && !q.block_state('vxl_mp:connection_type_west')",
+        "components": {
+          "minecraft:collision_box":{"origin":[-4, 0, -4],"size":[8, 16, 8]},
+          "minecraft:selection_box":{"origin":[-4, 0, -4],"size":[8, 16, 8]}
+        }
+      },
+      //North
+      {
+        "condition": "q.block_state('vxl_mp:connection_type_north') && !q.block_state('vxl_mp:connection_type_south') && !q.block_state('vxl_mp:connection_type_east') && !q.block_state('vxl_mp:connection_type_west')",
+        "components": {
+          "minecraft:collision_box":{"origin":[-4, 0, -8],"size":[8, 16, 12]},
+          "minecraft:selection_box":{"origin":[-4, 0, -8],"size":[8, 16, 12]}
+        }
+      },
+      //South
+      {
+        "condition": "!q.block_state('vxl_mp:connection_type_north') && q.block_state('vxl_mp:connection_type_south') && !q.block_state('vxl_mp:connection_type_east') && !q.block_state('vxl_mp:connection_type_west')",
+        "components": {
+          "minecraft:collision_box":{"origin":[-4, 0, -4],"size":[8, 16, 12]},
+          "minecraft:selection_box":{"origin":[-4, 0, -4],"size":[8, 16, 12]}
+        }
+      },
+      //East
+      {
+        "condition": "!q.block_state('vxl_mp:connection_type_north') && !q.block_state('vxl_mp:connection_type_south') && q.block_state('vxl_mp:connection_type_east') && !q.block_state('vxl_mp:connection_type_west')",
+        "components": {
+          "minecraft:collision_box":{"origin":[-8, 0, -4],"size":[12, 16, 8]},
+          "minecraft:selection_box":{"origin":[-8, 0, -4],"size":[12, 16, 8]}
+        }
+      },
+      //West
+      {
+        "condition": "!q.block_state('vxl_mp:connection_type_north') && !q.block_state('vxl_mp:connection_type_south') && !q.block_state('vxl_mp:connection_type_east') && q.block_state('vxl_mp:connection_type_west')",
+        "components": {
+          "minecraft:collision_box":{"origin":[-4, 0, -4],"size":[12, 16, 8]},
+          "minecraft:selection_box":{"origin":[-4, 0, -4],"size":[12, 16, 8]}
+        }
+      },
+      //NorthSouth
+      {
+        "condition": "q.block_state('vxl_mp:connection_type_north') && q.block_state('vxl_mp:connection_type_south') && !q.block_state('vxl_mp:connection_type_east') && !q.block_state('vxl_mp:connection_type_west')",
+        "components": {
+          "minecraft:collision_box":{"origin":[-4, 0, -8],"size":[8, 16, 16]},
+          "minecraft:selection_box":{"origin":[-4, 0, -8],"size":[8, 16, 16]}
+        }
+      },
+      //EastWest
+      {
+        "condition": "!q.block_state('vxl_mp:connection_type_north') && !q.block_state('vxl_mp:connection_type_south') && q.block_state('vxl_mp:connection_type_east') && q.block_state('vxl_mp:connection_type_west')",
+        "components": {
+          "minecraft:collision_box":{"origin": [-8, 0, -4],"size": [16, 16, 8]},
+          "minecraft:selection_box":{"origin": [-8, 0, -4],"size": [16, 16, 8]}
+        }
+      },
+      //NorthEast
+      {
+        "condition": "q.block_state('vxl_mp:connection_type_north') && !q.block_state('vxl_mp:connection_type_south') && q.block_state('vxl_mp:connection_type_east') && !q.block_state('vxl_mp:connection_type_west')",
+        "components": {
+          "minecraft:collision_box":{"origin":[-8, 0, -8],"size":[12, 16, 12]},
+          "minecraft:selection_box":{"origin":[-8, 0, -8],"size":[12, 16, 12]}
+        }
+      },
+      //NorthWest
+      {
+        "condition": "q.block_state('vxl_mp:connection_type_north') && !q.block_state('vxl_mp:connection_type_south') && !q.block_state('vxl_mp:connection_type_east') && q.block_state('vxl_mp:connection_type_west')",
+        "components": {
+          "minecraft:collision_box":{"origin": [-4, 0, -8],"size": [12, 16, 12]},
+          "minecraft:selection_box":{"origin": [-4, 0, -8],"size": [12, 16, 12]}
+        }
+      },
+      //SouthEast
+      {
+        "condition": "!q.block_state('vxl_mp:connection_type_north') && q.block_state('vxl_mp:connection_type_south') && q.block_state('vxl_mp:connection_type_east') && !q.block_state('vxl_mp:connection_type_west')",
+        "components": {
+          "minecraft:collision_box":{"origin": [-8, 0, -4],"size": [12, 16, 12]},
+          "minecraft:selection_box":{"origin": [-8, 0, -4],"size": [12, 16, 12]}
+        }
+      },
+      //SouthWest
+      {
+        "condition": "!q.block_state('vxl_mp:connection_type_north') && q.block_state('vxl_mp:connection_type_south') && !q.block_state('vxl_mp:connection_type_east') && q.block_state('vxl_mp:connection_type_west')",
+        "components": {
+          "minecraft:collision_box":{"origin": [-4, 0, -4],"size": [12, 16, 12]},
+          "minecraft:selection_box":{"origin": [-4, 0, -4],"size": [12, 16, 12]}
+        }
+      },
+      //NorthSouthEast
+      {
+        "condition": "q.block_state('vxl_mp:connection_type_north') && q.block_state('vxl_mp:connection_type_south') && q.block_state('vxl_mp:connection_type_east') && !q.block_state('vxl_mp:connection_type_west')",
+        "components": {
+          "minecraft:collision_box":{"origin": [-8, 0, -8],"size": [12, 16, 16]},
+          "minecraft:selection_box":{"origin": [-8, 0, -8],"size": [12, 16, 16]}
+        }
+      },
+      //NorthSouthWest
+      {
+        "condition": "q.block_state('vxl_mp:connection_type_north') && q.block_state('vxl_mp:connection_type_south') && !q.block_state('vxl_mp:connection_type_east') && q.block_state('vxl_mp:connection_type_west')",
+        "components": {
+          "minecraft:collision_box":{"origin": [-4, 0, -8],"size": [12, 16, 16]},
+          "minecraft:selection_box":{"origin": [-4, 0, -8],"size": [12, 16, 16]}
+        }
+      },
+      //NorthEastWest
+      {
+        "condition": "q.block_state('vxl_mp:connection_type_north') && !q.block_state('vxl_mp:connection_type_south') && q.block_state('vxl_mp:connection_type_east') && q.block_state('vxl_mp:connection_type_west')",
+        "components": {
+          "minecraft:collision_box":{"origin": [-8, 0, -8],"size": [16, 16, 12]},
+          "minecraft:selection_box":{"origin": [-8, 0, -8],"size": [16, 16, 12]}
+        }
+      },
+      //SouthEastWest
+      {
+        "condition": "!q.block_state('vxl_mp:connection_type_north') && q.block_state('vxl_mp:connection_type_south') && q.block_state('vxl_mp:connection_type_east') && q.block_state('vxl_mp:connection_type_west')",
+        "components": {
+          "minecraft:collision_box":{"origin": [-8, 0, -4],"size": [16, 16, 12]},
+          "minecraft:selection_box":{"origin": [-8, 0, -4],"size": [16, 16, 12]}
+        }
+      }
+    ]
+  }
+}

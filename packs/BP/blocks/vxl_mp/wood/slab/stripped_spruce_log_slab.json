@@ -1,0 +1,75 @@
+{
+  "format_version": "1.20.20",
+  "minecraft:block": {
+    "description": {
+      "identifier": "vxl_mp:stripped_spruce_log_slab",
+      "menu_category": {
+        "category": "construction",
+        "group": "itemGroup.name.slab",
+        "is_hidden_in_commands": false
+      },
+      "states": {
+        "vxl_mp:vertical_half":["bottom","top","double"]
+      },
+      "traits": {
+        "minecraft:placement_direction": {
+          "enabled_states": ["minecraft:cardinal_direction"]
+        }
+      }
+    },
+    "components": {
+      //"minecraft:custom_components": ["vxl_mp:slab"],
+      "minecraft:map_color": "#ffffff",
+      "minecraft:destructible_by_mining":{"seconds_to_destroy":1},
+      "minecraft:destructible_by_explosion":{"explosion_resistance":30},
+      "minecraft:material_instances": {"*": {"texture": "stripped_spruce_log_side","render_method": "opaque"}},
+      "minecraft:geometry": {
+        "identifier": "geometry.vxl_mp.slab",
+        "bone_visibility": {
+          "bottom_slab": "q.block_state('vxl_mp:vertical_half') == 'bottom' || q.block_state('vxl_mp:vertical_half') == 'double'",
+          "top_slab": "q.block_state('vxl_mp:vertical_half') == 'top' || q.block_state('vxl_mp:vertical_half') == 'double'"
+        }
+      }
+    },
+    "permutations": [
+      {
+        "condition": "q.block_state('vxl_mp:vertical_half') == 'top'",
+        "components": {
+          "minecraft:collision_box":{"origin":[-8,8,-8],"size":[16,8,16]},
+          "minecraft:selection_box": true
+        }
+      },
+      {
+        "condition": "q.block_state('vxl_mp:vertical_half') == 'bottom'",
+        "components": {
+          "minecraft:collision_box":{"origin":[-8,0,-8],"size":[16,8,16]},
+          "minecraft:selection_box":{"origin":[-8,0,-8],"size":[16,8,16]}
+        }
+      },
+      {
+        "condition": "q.block_state('vxl_mp:vertical_half') == 'double'",
+        "components": {
+          "minecraft:loot": "loot_tables/blocks/vxl_mp/wood/stripped_spruce_log_double_slab.json",
+          "minecraft:collision_box": true,
+          "minecraft:selection_box": true
+        }
+      },
+      {
+				"condition": "q.block_state('minecraft:cardinal_direction') == 'north'",
+				"components": {"minecraft:transformation": {"rotation": [0, 180, 0]}}
+			},
+			{
+				"condition": "q.block_state('minecraft:cardinal_direction') == 'south'",
+				"components": {"minecraft:transformation": {"rotation": [0, 0, 0]}}
+			},
+			{
+				"condition": "q.block_state('minecraft:cardinal_direction') == 'east'",
+				"components": {"minecraft:transformation": {"rotation": [0, 90, 0]}}
+			},
+			{
+				"condition": "q.block_state('minecraft:cardinal_direction') == 'west'",
+				"components": {"minecraft:transformation": {"rotation": [0, 270, 0]}}
+			}
+    ]
+  }
+}

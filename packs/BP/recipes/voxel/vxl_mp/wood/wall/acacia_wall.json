@@ -1,0 +1,17 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {"identifier": "vxl_mp:acacia_wall_recipe"},
+    "tags": ["vxl_core_artisan_table"],
+    "pattern": [
+      "###",
+      "###"
+    ],
+    "key"   : {"#": {"item": "minecraft:planks","data": 4}},
+    "unlock": [{"item": "minecraft:planks","data": 4},{"item": "vxl_core:artisan_table"}],
+    "result": {
+      "item": "vxl_mp:acacia_wall",
+      "data": 4,"count": 6
+    }
+  }
+}

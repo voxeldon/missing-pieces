@@ -1,0 +1,28 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "vxl_mp:mangrove_log_slab_recipe"
+    },
+    "tags": ["vxl_core_artisan_table"],
+    "group": "wooden_slab",
+    "pattern": [
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:mangrove_log"
+      }
+    },
+	"unlock": [
+      {
+        "item": "minecraft:mangrove_log"
+      },
+      {"item": "vxl_core:artisan_table"}
+    ],
+    "result": {
+      "item": "vxl_mp:mangrove_log_slab",
+      "count": 6
+    }
+  }
+}

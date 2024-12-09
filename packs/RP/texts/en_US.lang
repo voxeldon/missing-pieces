@@ -1,0 +1,91 @@
+pack.name=Missing Pieces
+pack.description=Missing Pieces
+
+## All Packs
+tile.vxl_core:artisan_table.name=Artisan Table
+
+## ACM
+acm.vxl_mp.pack_name=Missing Pieces
+acm.vxl_mp.author_name=Donthedev
+acm.vxl_mp.description=An series of missing Blocks, Items & Recipes that should be in vanilla.
+
+## Wood Pack
+tile.vxl_mp:acacia_log_slab.name=Acacia Log Slab
+tile.vxl_mp:birch_log_slab.name=Birch Log Slab
+tile.vxl_mp:cherry_log_slab.name=Cherry Log Slab
+tile.vxl_mp:crimson_stem_slab.name=Crimson Stem Slab
+tile.vxl_mp:dark_oak_log_slab.name= Dark Oak Log Slab 
+tile.vxl_mp:jungle_log_slab.name=Jungle Log Slab 
+tile.vxl_mp:mangrove_log_slab.name=Mangrove Log Slab
+tile.vxl_mp:oak_log_slab.name=Oak Log Slab
+tile.vxl_mp:pale_oak_log_slab.name=Pale Oak Log Slab
+tile.vxl_mp:spruce_log_slab.name=Spruce Log Slab
+tile.vxl_mp:warped_stem_slab.name=Warped Stem Slab
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Stripped Acacia Log Slab
+tile.vxl_mp:stripped_birch_log_slab.name=Stripped Birch Log Slab
+tile.vxl_mp:stripped_cherry_log_slab.name=Stripped Cherry Log Slab
+tile.vxl_mp:stripped_crimson_stem_slab.name=Stripped Crimson Stem Slab
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Stripped  Dark Oak Log Slab 
+tile.vxl_mp:stripped_jungle_log_slab.name=Stripped Jungle Log Slab 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Stripped Mangrove Log Slab
+tile.vxl_mp:stripped_oak_log_slab.name=Stripped Oak Log Slab
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Stripped Pale Oak Log Slab
+tile.vxl_mp:stripped_spruce_log_slab.name=Stripped Spruce Log Slab
+tile.vxl_mp:stripped_warped_stem_slab.name=Stripped Warped Stem Slab
+
+tile.vxl_mp:acacia_ladder.name=Acacia Ladder
+tile.vxl_mp:birch_ladder.name=Birch Ladder
+tile.vxl_mp:cherry_ladder.name=Cherry Ladder
+tile.vxl_mp:crimson_ladder.name=Crimson Ladder
+tile.vxl_mp:dark_oak_ladder.name= Dark Oak Ladder 
+tile.vxl_mp:jungle_ladder.name=Jungle Ladder 
+tile.vxl_mp:mangrove_ladder.name=Mangrove Ladder
+tile.vxl_mp:oak_ladder.name=Oak Ladder
+tile.vxl_mp:pale_oak_ladder.name=Pale Oak Ladder
+tile.vxl_mp:spruce_ladder.name=Spruce Ladder
+tile.vxl_mp:warped_ladder.name=Warped Ladder
+
+tile.vxl_mp:acacia_bookshelf.name=Acacia Bookshelf
+tile.vxl_mp:birch_bookshelf.name=Birch Bookshelf
+tile.vxl_mp:cherry_bookshelf.name=Cherry Bookshelf
+tile.vxl_mp:crimson_bookshelf.name=Crimson Bookshelf
+tile.vxl_mp:dark_oak_bookshelf.name= Dark Oak Bookshelf 
+tile.vxl_mp:jungle_bookshelf.name=Jungle Bookshelf 
+tile.vxl_mp:mangrove_bookshelf.name=Mangrove Bookshelf
+tile.vxl_mp:pale_oak_bookshelf.name=Pale Oak Bookshelf
+tile.vxl_mp:spruce_bookshelf.name=Spruce Bookshelf
+tile.vxl_mp:warped_bookshelf.name=Warped Bookshelf
+
+tile.vxl_mp:acacia_wall.name=Acacia Wall
+tile.vxl_mp:birch_wall.name=Birch Wall
+tile.vxl_mp:cherry_wall.name=Cherry Wall
+tile.vxl_mp:crimson_wall.name=Crimson Wall
+tile.vxl_mp:dark_oak_wall.name= Dark Oak Wall 
+tile.vxl_mp:jungle_wall.name=Jungle Wall 
+tile.vxl_mp:mangrove_wall.name=Mangrove Wall
+tile.vxl_mp:oak_wall.name=Oak Wall
+tile.vxl_mp:pale_oak_wall.name=Pale Oak Wall
+tile.vxl_mp:spruce_wall.name=Spruce Wall
+tile.vxl_mp:warped_wall.name=Warped Wall
+
+##Stone Pack
+tile.vxl_mp:cobblestone_fence.name=Cobblestone Fence
+tile.vxl_mp:mossy_cobblestone_fence.name=Mossy Cobblestone Fence
+tile.vxl_mp:cobbled_deepslate_fence.name=Cobbled Deepslate Fence
+
+tile.vxl_mp:cobblestone_fence_gate.name=Cobblestone Fence Gate
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Mossy Cobblestone Fence Gate
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Cobbled Deepslate Fence Gate
+
+tile.vxl_mp:prismarine_brick_wall.name=Prismarine Brick Wall
+tile.vxl_mp:dark_prismarine_wall.name=Dark Prismarine Wall
+
+### Copper Pack
+tile.vxl_mp:copper_bars.name=Copper Bars
+tile.vxl_mp:exposed_copper_bars.name=Exposed Copper Bars
+tile.vxl_mp:oxidized_copper_bars.name=Oxidized Copper Bars
+tile.vxl_mp:weathered_copper_bars.name=Weathered Copper Bars
+
+### Extra
+item.vxl_mp:cooked_egg=Cooked Egg

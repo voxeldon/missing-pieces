@@ -1,0 +1,18 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "vxl_mp:furnace_egg"
+    },
+
+    "unlock": [
+      {
+        "item": "minecraft:egg"
+      }
+    ],
+    "tags": ["furnace", "smoker", "campfire", "soul_campfire"],
+    "input": "minecraft:egg",
+    "output": "vxl_mp:cooked_egg"
+  }
+  
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "vxl_mp:cobbled_deepslate_fence_gate_recipe"
+    },
+    "tags": [
+      "vxl_core_artisan_table"
+    ],
+    "pattern": [
+      "$#$",
+      "$#$"
+    ],
+    "key": {
+      "#":{"item":"minecraft:cobbled_deepslate"},
+      "$":{"item":"minecraft:stick"}
+    },
+    "unlock": [
+      {"item": "minecraft:cobbled_deepslate"},
+      {"item": "vxl_core:artisan_table"}
+    ],
+    "result": {
+      "item": "vxl_mp:cobbled_deepslate_fence_gate"
+    }
+  }
+}

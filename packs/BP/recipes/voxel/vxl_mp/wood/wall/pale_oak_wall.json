@@ -1,0 +1,17 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {"identifier": "vxl_mp:pale_oak_wall_recipe"},
+    "tags": ["vxl_core_artisan_table"],
+    "pattern": [
+      "###",
+      "###"
+    ],
+    "key"   : {"#": {"item": "minecraft:pale_oak_planks"}},
+    "unlock": [{"item": "minecraft:pale_oak_planks"},{"item": "vxl_core:artisan_table"}],
+    "result": {
+      "item": "vxl_mp:pale_oak_wall",
+      "data": 4,"count": 6
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "resource_pack_name": "vxl_mp",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "vxl_core_artisan_table_front": {"textures": "textures/voxel/vxl_core/blocks/artisan_table_front"},
+    "vxl_core_artisan_table_side": {"textures": "textures/voxel/vxl_core/blocks/artisan_table_side"},
+    "vxl_core_artisan_table_top": {"textures": "textures/voxel/vxl_core/blocks/artisan_table_top"},
+    //Wood Pack
+    "vxl_mp_acacia_ladder": {"textures": "textures/voxel/vxl_mp/blocks/wood/acacia_ladder"},
+    "vxl_mp_birch_ladder": {"textures": "textures/voxel/vxl_mp/blocks/wood/birch_ladder"},
+    "vxl_mp_cherry_ladder": {"textures": "textures/voxel/vxl_mp/blocks/wood/cherry_ladder"},
+    "vxl_mp_crimson_ladder": {"textures": "textures/voxel/vxl_mp/blocks/wood/crimson_ladder"},
+    "vxl_mp_dark_oak_ladder": {"textures": "textures/voxel/vxl_mp/blocks/wood/dark_oak_ladder"},
+    "vxl_mp_jungle_ladder": {"textures": "textures/voxel/vxl_mp/blocks/wood/jungle_ladder"},
+    "vxl_mp_mangrove_ladder": {"textures": "textures/voxel/vxl_mp/blocks/wood/mangrove_ladder"},
+    "vxl_mp_oak_ladder": {"textures": "textures/voxel/vxl_mp/blocks/wood/oak_ladder"},
+    "vxl_mp_pale_oak_ladder": {"textures": "textures/voxel/vxl_mp/blocks/wood/pale_oak_ladder"},
+    "vxl_mp_spruce_ladder": {"textures": "textures/voxel/vxl_mp/blocks/wood/spruce_ladder"},
+    "vxl_mp_warped_ladder": {"textures": "textures/voxel/vxl_mp/blocks/wood/warped_ladder"},
+    "vxl_mp_acacia_bookshelf": {"textures": "textures/voxel/vxl_mp/blocks/wood/acacia_bookshelf"},
+    "vxl_mp_birch_bookshelf": {"textures": "textures/voxel/vxl_mp/blocks/wood/birch_bookshelf"},
+    "vxl_mp_cherry_bookshelf": {"textures": "textures/voxel/vxl_mp/blocks/wood/cherry_bookshelf"},
+    "vxl_mp_crimson_bookshelf": {"textures": "textures/voxel/vxl_mp/blocks/wood/crimson_bookshelf"},
+    "vxl_mp_dark_oak_bookshelf": {"textures": "textures/voxel/vxl_mp/blocks/wood/dark_oak_bookshelf"},
+    "vxl_mp_jungle_bookshelf": {"textures": "textures/voxel/vxl_mp/blocks/wood/jungle_bookshelf"},
+    "vxl_mp_mangrove_bookshelf": {"textures": "textures/voxel/vxl_mp/blocks/wood/mangrove_bookshelf"},
+    "vxl_mp_oak_bookshelf": {"textures": "textures/voxel/vxl_mp/blocks/wood/oak_bookshelf"},
+    "vxl_mp_spruce_bookshelf": {"textures": "textures/voxel/vxl_mp/blocks/wood/spruce_bookshelf"},
+    "vxl_mp_warped_bookshelf": {"textures": "textures/voxel/vxl_mp/blocks/wood/warped_bookshelf"},
+    "vxl_mp_pale_oak_bookshelf": {"textures": "textures/voxel/vxl_mp/blocks/wood/pale_oak_bookshelf"},
+    "vxl_mp_dark_oak": {"textures": "textures/blocks/log_big_oak"},
+    "vxl_mp_stripped_dark_oak": {"textures": "textures/blocks/stripped_dark_oak_log"},
+    "vxl_mp_dark_oak_planks": {"textures": "textures/blocks/planks_big_oak"},
+    //Copper Pack
+    "vxl_mp_copper_bars": {"textures": "textures/voxel/vxl_mp/blocks/copper/copper_bars"},
+    "vxl_mp_exposed_copper_bars": {"textures": "textures/voxel/vxl_mp/blocks/copper/exposed_copper_bars"},
+    "vxl_mp_oxidized_copper_bars": {"textures": "textures/voxel/vxl_mp/blocks/copper/oxidized_copper_bars"},
+    "vxl_mp_weathered_copper_bars": {"textures": "textures/voxel/vxl_mp/blocks/copper/weathered_copper_bars"}
+    
+  }
+}

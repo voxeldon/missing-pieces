@@ -1,0 +1,57 @@
+{
+  "format_version": "1.20.20",
+  "minecraft:block": {
+    "description": {
+      "identifier": "vxl_mp:cherry_ladder",
+      "menu_category": {
+        "category": "construction",
+        "group": "itemGroup.name.ladder",
+        "is_hidden_in_commands": false
+      },
+      "traits": {
+				"minecraft:placement_direction": {
+					"enabled_states": ["minecraft:cardinal_direction"]
+				}
+			}
+    },
+    "components": {
+      "minecraft:custom_components": ["vxl_mp:climbable"],
+      "minecraft:map_color": "#ffffff",
+      "minecraft:destructible_by_mining":{"seconds_to_destroy":1},
+      "minecraft:destructible_by_explosion":{"explosion_resistance":30},
+      "minecraft:material_instances": {"*": {"texture": "vxl_mp_cherry_ladder","render_method": "opaque"}},
+      "minecraft:geometry": {
+        "identifier": "geometry.vxl_mp.ladder"
+      },
+      "minecraft:collision_box": {
+      	"origin": [-8, 0, 6],
+	      "size": [16, 16, 2]
+      },
+      "minecraft:selection_box": {
+      	"origin": [-8, 0, 6],
+	      "size": [16, 16, 2]
+      },
+      "minecraft:tick": {
+        "interval_range": [0,0]
+      }
+    },
+    "permutations": [
+      {
+				"condition": "q.block_state('minecraft:cardinal_direction') == 'north' ",
+				"components": {"minecraft:transformation": {"rotation": [0, 180, 0]}}
+			},
+			{
+				"condition": "q.block_state('minecraft:cardinal_direction') == 'south' ",
+				"components": {"minecraft:transformation": {"rotation": [0, 0, 0]}}
+			},
+			{
+				"condition": "q.block_state('minecraft:cardinal_direction') == 'east' ",
+				"components": {"minecraft:transformation": {"rotation": [0, 90, 0]}}
+			},
+			{
+				"condition": "q.block_state('minecraft:cardinal_direction') == 'west' ",
+				"components": {"minecraft:transformation": {"rotation": [0, 270, 0]}}
+			}
+    ]
+  }
+}
