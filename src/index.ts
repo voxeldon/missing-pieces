@@ -52,9 +52,51 @@ world.beforeEvents.worldInitialize.subscribe(initEvent => {
 Wall.initialize('vxl_mp_wall');
 Fence.initialize('vxl_mp_fence');
 
-const spawnManager: AddonConfiguration = {
+const missingPieces: AddonConfiguration = {
     authorId: 'vxl',
     packId: 'mp',
-    iconPath: 'voxel/vxl_mp/pack_icon'
+    iconPath: 'voxel/vxl_mp/pack_icon',
+    guideKeys: [
+        "guide.title",
+        "guide.recipes.title",
+        "guide.recipes.desc",
+        "guide.items.title",
+        "guide.items.desc",
+        "guide.blocks.title",
+        "guide.ac.title",
+        "guide.ac.desc",
+        "guide.bi.title",
+        "guide.bi.desc",
+        "guide.ch.title",
+        "guide.ch.desc",
+        "guide.cr.title",
+        "guide.cr.desc",
+        "guide.do.title",
+        "guide.do.desc",
+        "guide.ju.title",
+        "guide.ju.desc",
+        "guide.ma.title",
+        "guide.ma.desc",
+        "guide.oak.title",
+        "guide.oak.desc",
+        "guide.po.title",
+        "guide.po.desc",
+        "guide.sp.title",
+        "guide.sp.desc",
+        "guide.wa.title",
+        "guide.wa.desc",
+        "guide.cd.title",
+        "guide.cd.desc",
+        "guide.cb.title",
+        "guide.cb.desc",
+        "guide.mc.title",
+        "guide.mc.desc",
+        "guide.da_pr.title",
+        "guide.da_pr.desc",
+        "guide.pr_br.title",
+        "guide.pr_br.desc",
+        "guide.co.title",
+        "guide.co.desc"
+    ]
 }
-AcmApi.generateAddonProfile(spawnManager);
+AcmApi.generateAddonProfile(missingPieces);

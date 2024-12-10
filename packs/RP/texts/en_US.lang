@@ -4,11 +4,6 @@ pack.description=Missing Pieces
 ## All Packs
 tile.vxl_core:artisan_table.name=Artisan Table
 
-## ACM
-acm.vxl_mp.pack_name=Missing Pieces
-acm.vxl_mp.author_name=Donthedev
-acm.vxl_mp.description=An series of missing Blocks, Items & Recipes that should be in vanilla.
-
 ## Wood Pack
 tile.vxl_mp:acacia_log_slab.name=Acacia Log Slab
 tile.vxl_mp:birch_log_slab.name=Birch Log Slab
@@ -89,3 +84,49 @@ tile.vxl_mp:weathered_copper_bars.name=Weathered Copper Bars
 
 ### Extra
 item.vxl_mp:cooked_egg=Cooked Egg
+
+## ACM
+acm.vxl_mp.pack_name=§3Missing Pieces
+acm.vxl_mp.author_name=Donthedev
+acm.vxl_mp.description=An series of missing Blocks, Items & Recipes that should be in vanilla.
+
+acm.vxl_mp.guide.title=§l§3Missing Pieces Guide!§r
+acm.vxl_mp.guide.recipes.title=§5Recipes
+acm.vxl_mp.guide.recipes.desc=- Craftable Saddles.
+acm.vxl_mp.guide.items.title=§6Items
+acm.vxl_mp.guide.items.desc=- Cooked Egg.
+acm.vxl_mp.guide.blocks.title=§4Blocks§r
+acm.vxl_mp.guide.ac.title=§l§2- Acacia:§r
+acm.vxl_mp.guide.ac.desc=§oAcacia Bookshelf, Acacia Ladder, Acacia Log Slab, Acacia Wall.§r
+acm.vxl_mp.guide.bi.title=§l§2- Birch:§r
+acm.vxl_mp.guide.bi.desc=§oBirch Bookshelf, Birch Ladder, Birch Log Slab, Birch Wall.§r
+acm.vxl_mp.guide.ch.title=§l§2- Cherry:§r
+acm.vxl_mp.guide.ch.desc=§oCherry Bookshelf, Cherry Ladder, Cherry Log Slab, Cherry Wall.§r
+acm.vxl_mp.guide.cr.title=§l§2- Crimson:§r
+acm.vxl_mp.guide.cr.desc=§oCrimson Bookshelf, Crimson Ladder, Crimson Stem Slab, Crimson Wall.§r
+acm.vxl_mp.guide.do.title=§l§2- Dark Oak:§r
+acm.vxl_mp.guide.do.desc=§oDark Oak Bookshelf, Dark Oak Ladder, Dark Oak Log Slab, Dark Oak Wall.§r
+acm.vxl_mp.guide.ju.title=§l§2- Jungle:§r
+acm.vxl_mp.guide.ju.desc=§oJungle Bookshelf, Jungle Ladder, Jungle Log Slab, Jungle Wall.§r
+acm.vxl_mp.guide.ma.title=§l§2- Mangrove:§r
+acm.vxl_mp.guide.ma.desc=§oMangrove Bookshelf, Mangrove Ladder, Mangrove Log Slab, Mangrove Wall.§r
+acm.vxl_mp.guide.oak.title=§l§2- Oak:§r
+acm.vxl_mp.guide.oak.desc=§oOak Ladder, Oak Log Slab, Oak Wall.§r
+acm.vxl_mp.guide.po.title=§l§2- Pale Oak:§r
+acm.vxl_mp.guide.po.desc=§oPale Oak Bookshelf, Pale Oak Ladder, Pale Oak Log Slab, Pale Oak Wall.§r
+acm.vxl_mp.guide.sp.title=§l§2- Spruce:§r
+acm.vxl_mp.guide.sp.desc=§oSpruce Bookshelf, Spruce Ladder, Spruce Log Slab, Spruce Wall.§r
+acm.vxl_mp.guide.wa.title=§l§2- Warped:§r
+acm.vxl_mp.guide.wa.desc=§oWarped Bookshelf, Warped Ladder, Warped Stem Slab, Warped Wall.§r
+acm.vxl_mp.guide.cd.title=§l§2- Cobbled Deepslate:§r
+acm.vxl_mp.guide.cd.desc=§oCobbled Deepslate Fence & Fence Gate.§r
+acm.vxl_mp.guide.cb.title=§l§2- Cobblestone:§r
+acm.vxl_mp.guide.cb.desc=§oCobblestone Fence & Fence Gate.§r
+acm.vxl_mp.guide.mc.title=§l§2- Mossy Cobblestone:§r
+acm.vxl_mp.guide.mc.desc=§oMossy Cobblestone Fence & Fence Gate.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Dark Prismarine:§r
+acm.vxl_mp.guide.da_pr.desc=§oDark Prismarine Wall.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Prismarine Brick:§r
+acm.vxl_mp.guide.pr_br.desc=§oPrismarine Brick Wall.§r
+acm.vxl_mp.guide.co.title=§l§2- Copper:§r
+acm.vxl_mp.guide.co.desc=§oCopper Bars.§r
