@@ -1,0 +1,126 @@
+pack.name=欠けている部分
+pack.description=欠けている部分
+
+tile.vxl_core:artisan_table.name=アーティザンテーブル
+
+tile.vxl_mp:acacia_log_slab.name=アカシアの丸太板
+tile.vxl_mp:birch_log_slab.name=白樺の丸太板
+tile.vxl_mp:cherry_log_slab.name=チェリー丸太スラブ
+tile.vxl_mp:crimson_stem_slab.name=深紅の幹板
+tile.vxl_mp:dark_oak_log_slab.name= ダークオークの丸太板 
+tile.vxl_mp:jungle_log_slab.name=ジャングルの丸太スラブ 
+tile.vxl_mp:mangrove_log_slab.name=マングローブ原木スラブ
+tile.vxl_mp:oak_log_slab.name=オークの丸太スラブ
+tile.vxl_mp:pale_oak_log_slab.name=ペールオークの丸太板
+tile.vxl_mp:spruce_log_slab.name=トウヒの丸太スラブ
+tile.vxl_mp:warped_stem_slab.name=歪んだステムスラブ
+
+tile.vxl_mp:stripped_acacia_log_slab.name=剥ぎ取ったアカシア丸太板
+tile.vxl_mp:stripped_birch_log_slab.name=皮を剥いだ樺の丸太スラブ
+tile.vxl_mp:stripped_cherry_log_slab.name=皮を剥いたチェリー丸太のスラブ
+tile.vxl_mp:stripped_crimson_stem_slab.name=剥ぎ取られた深紅の幹板
+tile.vxl_mp:stripped_dark_oak_log_slab.name=剥ぎ取られたダークオークの丸太板 
+tile.vxl_mp:stripped_jungle_log_slab.name=剥ぎ取られたジャングルの丸太スラブ 
+tile.vxl_mp:stripped_mangrove_log_slab.name=剥ぎ取られたマングローブ原木スラブ
+tile.vxl_mp:stripped_oak_log_slab.name=皮を剥いだオーク丸太スラブ
+tile.vxl_mp:stripped_pale_oak_log_slab.name=皮を剥いだペールオークの丸太スラブ
+tile.vxl_mp:stripped_spruce_log_slab.name=皮を剥いだスプルース丸太スラブ
+tile.vxl_mp:stripped_warped_stem_slab.name=剥がされた歪んだステムスラブ
+
+tile.vxl_mp:acacia_ladder.name=アカシアのはしご
+tile.vxl_mp:birch_ladder.name=白樺のはしご
+tile.vxl_mp:cherry_ladder.name=チェリーラダー
+tile.vxl_mp:crimson_ladder.name=クリムゾンラダー
+tile.vxl_mp:dark_oak_ladder.name= ダークオークのはしご 
+tile.vxl_mp:jungle_ladder.name=ジャングルラダー 
+tile.vxl_mp:mangrove_ladder.name=マングローブのはしご
+tile.vxl_mp:oak_ladder.name=オークラダー
+tile.vxl_mp:pale_oak_ladder.name=ペールオークのはしご
+tile.vxl_mp:spruce_ladder.name=トウヒのはしご
+tile.vxl_mp:warped_ladder.name=歪んだはしご
+
+tile.vxl_mp:acacia_bookshelf.name=アカシアの本棚
+tile.vxl_mp:birch_bookshelf.name=白樺の本棚
+tile.vxl_mp:cherry_bookshelf.name=チェリーの本棚
+tile.vxl_mp:crimson_bookshelf.name=深紅の本棚
+tile.vxl_mp:dark_oak_bookshelf.name= ダークオークの本棚 
+tile.vxl_mp:jungle_bookshelf.name=ジャングルの本棚 
+tile.vxl_mp:mangrove_bookshelf.name=マングローブの本棚
+tile.vxl_mp:pale_oak_bookshelf.name=ペールオークの本棚
+tile.vxl_mp:spruce_bookshelf.name=トウヒの本棚
+tile.vxl_mp:warped_bookshelf.name=歪んだ本棚
+
+tile.vxl_mp:acacia_wall.name=アカシアの壁
+tile.vxl_mp:birch_wall.name=白樺の壁
+tile.vxl_mp:cherry_wall.name=チェリーウォール
+tile.vxl_mp:crimson_wall.name=クリムゾンウォール
+tile.vxl_mp:dark_oak_wall.name= ダークオークの壁 
+tile.vxl_mp:jungle_wall.name=ジャングルの壁 
+tile.vxl_mp:mangrove_wall.name=マングローブの壁
+tile.vxl_mp:oak_wall.name=オークウォール
+tile.vxl_mp:pale_oak_wall.name=ペールオークの壁
+tile.vxl_mp:spruce_wall.name=トウヒの壁
+tile.vxl_mp:warped_wall.name=歪んだ壁
+
+tile.vxl_mp:cobblestone_fence.name=石畳のフェンス
+tile.vxl_mp:mossy_cobblestone_fence.name=苔むした石畳のフェンス
+tile.vxl_mp:cobbled_deepslate_fence.name=石畳のディープスレートフェンス
+
+tile.vxl_mp:cobblestone_fence_gate.name=石畳のフェンスの門
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=苔むした石畳のフェンスの門
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=石畳のディープスレート フェンス ゲート
+
+tile.vxl_mp:prismarine_brick_wall.name=プリズマリンのレンガの壁
+tile.vxl_mp:dark_prismarine_wall.name=ダークプリズマリンウォール
+
+tile.vxl_mp:copper_bars.name=銅棒
+tile.vxl_mp:exposed_copper_bars.name=露出銅棒
+tile.vxl_mp:oxidized_copper_bars.name=酸化銅棒
+tile.vxl_mp:weathered_copper_bars.name=風化した銅の棒
+
+item.vxl_mp:cooked_egg=ゆで卵
+
+acm.vxl_mp.pack_name=§3欠けている部分
+acm.vxl_mp.author_name=ドンテデフ
+acm.vxl_mp.description=バニラにはあるはずの一連の欠落しているブロック、アイテム、レシピ。
+
+acm.vxl_mp.guide.title=§l§3ミッシングピースガイド!§r
+acm.vxl_mp.guide.recipes.title=§5レシピ
+acm.vxl_mp.guide.recipes.desc=- クラフト可能なサドル。
+acm.vxl_mp.guide.items.title=§6項目
+acm.vxl_mp.guide.items.desc=- ゆで卵。
+acm.vxl_mp.guide.blocks.title=§4ブロック§r
+acm.vxl_mp.guide.ac.title=§l§2- アカシア:§r
+acm.vxl_mp.guide.ac.desc=§oアカシアの本棚、アカシアのはしご、アカシアの丸太板、アカシアの壁。§r
+acm.vxl_mp.guide.bi.title=§l§2- カバ材:§r
+acm.vxl_mp.guide.bi.desc=§o樺の本棚、樺のはしご、樺の丸太スラブ、樺の壁。§r
+acm.vxl_mp.guide.ch.title=§l§2- チェリー:§r
+acm.vxl_mp.guide.ch.desc=§oチェリーの本棚、チェリーのはしご、チェリーの丸太スラブ、チェリーの壁。§r
+acm.vxl_mp.guide.cr.title=§l§2- クリムゾン:§r
+acm.vxl_mp.guide.cr.desc=§o紅の本棚、紅の梯子、紅の幹板、紅の壁。§r
+acm.vxl_mp.guide.do.title=§l§2- ダークオーク:§r
+acm.vxl_mp.guide.do.desc=§oダークオークの本棚、ダークオークのはしご、ダークオークの丸太板、ダークオークの壁。§r
+acm.vxl_mp.guide.ju.title=§l§2- ジャングル:§r
+acm.vxl_mp.guide.ju.desc=§oジャングルの本棚、ジャングルのはしご、ジャングルの丸太板、ジャングルの壁。§r
+acm.vxl_mp.guide.ma.title=§l§2- マングローブ:§r
+acm.vxl_mp.guide.ma.desc=§oマングローブの本棚、マングローブのはしご、マングローブの丸太スラブ、マングローブの壁。§r
+acm.vxl_mp.guide.oak.title=§l§2- オーク:§r
+acm.vxl_mp.guide.oak.desc=§oオークのはしご、オークの丸太スラブ、オークの壁。§r
+acm.vxl_mp.guide.po.title=§l§2- ペールオーク:§r
+acm.vxl_mp.guide.po.desc=§oペールオークの本棚、ペールオークのはしご、ペールオークの丸太スラブ、ペールオークの壁。§r
+acm.vxl_mp.guide.sp.title=§l§2- スプルース:§r
+acm.vxl_mp.guide.sp.desc=§oスプルースの本棚、スプルースのはしご、スプルースの丸太スラブ、スプルースの壁。§r
+acm.vxl_mp.guide.wa.title=§l§2- ワープ:§r
+acm.vxl_mp.guide.wa.desc=§o歪んだ本棚、歪んだはしご、歪んだ幹スラブ、歪んだ壁。§r
+acm.vxl_mp.guide.cd.title=§l§2- 石畳のディープスレート:§r
+acm.vxl_mp.guide.cd.desc=§o石畳のディープスレートフェンスとフェンスゲート。§r
+acm.vxl_mp.guide.cb.title=§l§2- 石畳:§r
+acm.vxl_mp.guide.cb.desc=§o石畳のフェンスとフェンスの門。§r
+acm.vxl_mp.guide.mc.title=§l§2- 苔むした丸石:§r
+acm.vxl_mp.guide.mc.desc=§o苔むした丸石のフェンスとフェンスの門。§r
+acm.vxl_mp.guide.da_pr.title=§l§2- ダークプリズマリン:§r
+acm.vxl_mp.guide.da_pr.desc=§oダークプリズマリンウォール§r
+acm.vxl_mp.guide.pr_br.title=§l§2- プリズマリンレンガ:§r
+acm.vxl_mp.guide.pr_br.desc=§oプリズマリンレンガの壁§r
+acm.vxl_mp.guide.co.title=§l§2- 銅:§r
+acm.vxl_mp.guide.co.desc=§o銅の延べ棒.§r

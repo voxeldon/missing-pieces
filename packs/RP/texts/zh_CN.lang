@@ -1,0 +1,126 @@
+pack.name=缺失的部分
+pack.description=缺失的部分
+
+tile.vxl_core:artisan_table.name=工匠桌
+
+tile.vxl_mp:acacia_log_slab.name=金合欢原木板
+tile.vxl_mp:birch_log_slab.name=桦木原木板
+tile.vxl_mp:cherry_log_slab.name=樱桃原木板
+tile.vxl_mp:crimson_stem_slab.name=深红色茎板
+tile.vxl_mp:dark_oak_log_slab.name= 深色橡木原木板 
+tile.vxl_mp:jungle_log_slab.name=丛林原木板 
+tile.vxl_mp:mangrove_log_slab.name=红树林原木板
+tile.vxl_mp:oak_log_slab.name=橡木原木板
+tile.vxl_mp:pale_oak_log_slab.name=浅橡木原木板
+tile.vxl_mp:spruce_log_slab.name=云杉原木大板
+tile.vxl_mp:warped_stem_slab.name=翘曲的茎板
+
+tile.vxl_mp:stripped_acacia_log_slab.name=去皮金合欢原木板
+tile.vxl_mp:stripped_birch_log_slab.name=去皮桦木大板
+tile.vxl_mp:stripped_cherry_log_slab.name=去皮樱桃原木板
+tile.vxl_mp:stripped_crimson_stem_slab.name=剥去的深红色茎板
+tile.vxl_mp:stripped_dark_oak_log_slab.name=去皮深色橡木原木板 
+tile.vxl_mp:stripped_jungle_log_slab.name=去皮的丛林原木板 
+tile.vxl_mp:stripped_mangrove_log_slab.name=去皮红树林原木板
+tile.vxl_mp:stripped_oak_log_slab.name=去皮橡木原木板
+tile.vxl_mp:stripped_pale_oak_log_slab.name=去皮浅橡木原木板
+tile.vxl_mp:stripped_spruce_log_slab.name=去皮云杉原木大板
+tile.vxl_mp:stripped_warped_stem_slab.name=剥离翘曲茎板
+
+tile.vxl_mp:acacia_ladder.name=相思梯
+tile.vxl_mp:birch_ladder.name=桦木梯子
+tile.vxl_mp:cherry_ladder.name=樱桃梯
+tile.vxl_mp:crimson_ladder.name=猩红天梯
+tile.vxl_mp:dark_oak_ladder.name= 深色橡木梯 
+tile.vxl_mp:jungle_ladder.name=丛林阶梯 
+tile.vxl_mp:mangrove_ladder.name=红树林阶梯
+tile.vxl_mp:oak_ladder.name=橡木梯
+tile.vxl_mp:pale_oak_ladder.name=淡橡木梯
+tile.vxl_mp:spruce_ladder.name=云杉梯子
+tile.vxl_mp:warped_ladder.name=扭曲的梯子
+
+tile.vxl_mp:acacia_bookshelf.name=相思书架
+tile.vxl_mp:birch_bookshelf.name=桦木书架
+tile.vxl_mp:cherry_bookshelf.name=樱桃书架
+tile.vxl_mp:crimson_bookshelf.name=深红色书架
+tile.vxl_mp:dark_oak_bookshelf.name= 深色橡木书架 
+tile.vxl_mp:jungle_bookshelf.name=丛林书架 
+tile.vxl_mp:mangrove_bookshelf.name=红树林书架
+tile.vxl_mp:pale_oak_bookshelf.name=淡橡木书架
+tile.vxl_mp:spruce_bookshelf.name=云杉书架
+tile.vxl_mp:warped_bookshelf.name=扭曲的书架
+
+tile.vxl_mp:acacia_wall.name=相思墙
+tile.vxl_mp:birch_wall.name=桦木墙
+tile.vxl_mp:cherry_wall.name=樱桃墙
+tile.vxl_mp:crimson_wall.name=猩红之墙
+tile.vxl_mp:dark_oak_wall.name= 深色橡木墙 
+tile.vxl_mp:jungle_wall.name=丛林墙 
+tile.vxl_mp:mangrove_wall.name=红树林墙
+tile.vxl_mp:oak_wall.name=橡木墙
+tile.vxl_mp:pale_oak_wall.name=淡橡木墙
+tile.vxl_mp:spruce_wall.name=云杉墙
+tile.vxl_mp:warped_wall.name=扭曲的墙
+
+tile.vxl_mp:cobblestone_fence.name=鹅卵石围栏
+tile.vxl_mp:mossy_cobblestone_fence.name=长满青苔的鹅卵石栅栏
+tile.vxl_mp:cobbled_deepslate_fence.name=鹅卵石深板岩栅栏
+
+tile.vxl_mp:cobblestone_fence_gate.name=鹅卵石栅栏门
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=长满青苔的鹅卵石栅栏门
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=鹅卵石深板岩栅栏门
+
+tile.vxl_mp:prismarine_brick_wall.name=海晶石砖墙
+tile.vxl_mp:dark_prismarine_wall.name=黑暗海晶石墙
+
+tile.vxl_mp:copper_bars.name=铜条
+tile.vxl_mp:exposed_copper_bars.name=裸露铜条
+tile.vxl_mp:oxidized_copper_bars.name=氧化铜棒
+tile.vxl_mp:weathered_copper_bars.name=风化铜条
+
+item.vxl_mp:cooked_egg=煮熟的鸡蛋
+
+acm.vxl_mp.pack_name=§3缺失件
+acm.vxl_mp.author_name=顿泰德夫
+acm.vxl_mp.description=一系列缺失的方块、物品和食谱应该是原版的。
+
+acm.vxl_mp.guide.title=§l§3缺件指南！§r
+acm.vxl_mp.guide.recipes.title=§5食谱
+acm.vxl_mp.guide.recipes.desc=- 可制作的马鞍。
+acm.vxl_mp.guide.items.title=§6项目
+acm.vxl_mp.guide.items.desc=- 煮熟的鸡蛋。
+acm.vxl_mp.guide.blocks.title=§4块§r
+acm.vxl_mp.guide.ac.title=§l§2- 金合欢:§r
+acm.vxl_mp.guide.ac.desc=§o金合欢书架、金合欢梯子、金合欢木板、金合欢墙。§r
+acm.vxl_mp.guide.bi.title=§l§2- 桦木：§r
+acm.vxl_mp.guide.bi.desc=§o桦木书架、桦木梯子、桦木原木板、桦木墙。§r
+acm.vxl_mp.guide.ch.title=§l§2- 樱桃：§r
+acm.vxl_mp.guide.ch.desc=§o樱桃木书架、樱桃木梯子、樱桃木原木板、樱桃木墙。§​​r
+acm.vxl_mp.guide.cr.title=§l§2- 猩红：§r
+acm.vxl_mp.guide.cr.desc=§o猩红书架、猩红梯子、猩红茎板、猩红墙。§r
+acm.vxl_mp.guide.do.title=§l§2- 深色橡木：§r
+acm.vxl_mp.guide.do.desc=§o深色橡木书架、深色橡木梯子、深色橡木原木板、深色橡木墙。§r
+acm.vxl_mp.guide.ju.title=§l§2- 丛林：§r
+acm.vxl_mp.guide.ju.desc=§o丛林书架、丛林梯子、丛林原木板、丛林墙。§r
+acm.vxl_mp.guide.ma.title=§l§2- 红树林：§r
+acm.vxl_mp.guide.ma.desc=§o红树林书架、红树林梯子、红树林木板、红树林墙。§r
+acm.vxl_mp.guide.oak.title=§l§2- 橡木：§r
+acm.vxl_mp.guide.oak.desc=§o橡木梯、橡木原木板、橡木墙。§r
+acm.vxl_mp.guide.po.title=§l§2- 淡橡木：§r
+acm.vxl_mp.guide.po.desc=§o浅色橡木书架、浅色橡木梯子、浅色橡木原木板、浅色橡木墙。§r
+acm.vxl_mp.guide.sp.title=§l§2- 云杉:§r
+acm.vxl_mp.guide.sp.desc=§o云杉书架、云杉梯子、云杉原木板、云杉墙。§r
+acm.vxl_mp.guide.wa.title=§l§2- 扭曲：§r
+acm.vxl_mp.guide.wa.desc=§o扭曲的书架、扭曲的梯子、扭曲的茎板、扭曲的墙。§r
+acm.vxl_mp.guide.cd.title=§l§2- 鹅卵石深板岩：§r
+acm.vxl_mp.guide.cd.desc=§o鹅卵石深板岩栅栏和栅栏门。§r
+acm.vxl_mp.guide.cb.title=§l§2- 鹅卵石：§r
+acm.vxl_mp.guide.cb.desc=§o鹅卵石栅栏和栅栏门。§r
+acm.vxl_mp.guide.mc.title=§l§2- 长满青苔的鹅卵石：§r
+acm.vxl_mp.guide.mc.desc=§o长满青苔的鹅卵石栅栏和栅栏门。§r
+acm.vxl_mp.guide.da_pr.title=§l§2- 暗海晶石：§r
+acm.vxl_mp.guide.da_pr.desc=§o暗海晶石墙。§r
+acm.vxl_mp.guide.pr_br.title=§l§2- 海晶砖：§r
+acm.vxl_mp.guide.pr_br.desc=§o海晶石砖墙.§r
+acm.vxl_mp.guide.co.title=§l§2- 铜：§r
+acm.vxl_mp.guide.co.desc=§o铜棒。§r

@@ -1,0 +1,126 @@
+pack.name=Chýbajúce kusy
+pack.description=Chýbajúce kusy
+
+tile.vxl_core:artisan_table.name=Remeselnícky stôl
+
+tile.vxl_mp:acacia_log_slab.name=Akáciová zrubová doska
+tile.vxl_mp:birch_log_slab.name=Brezová zrubová doska
+tile.vxl_mp:cherry_log_slab.name=Čerešňová doska
+tile.vxl_mp:crimson_stem_slab.name=Karmínová kmeňová doska
+tile.vxl_mp:dark_oak_log_slab.name= Zrubová doska z tmavého dubu 
+tile.vxl_mp:jungle_log_slab.name=Zrubová doska z džungle 
+tile.vxl_mp:mangrove_log_slab.name=Zrubová doska z mangrovníkov
+tile.vxl_mp:oak_log_slab.name=Dubová zrubová doska
+tile.vxl_mp:pale_oak_log_slab.name=Svetlá dubová zrubová doska
+tile.vxl_mp:spruce_log_slab.name=Smreková zrubová doska
+tile.vxl_mp:warped_stem_slab.name=Skrútená kmeňová doska
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Odizolovaná akáciová doska
+tile.vxl_mp:stripped_birch_log_slab.name=Odizolovaná brezová zrubová doska
+tile.vxl_mp:stripped_cherry_log_slab.name=Odizolovaná čerešňová doska
+tile.vxl_mp:stripped_crimson_stem_slab.name=Odizolovaná karmínová kmeňová doska
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Odizolovaná zrubová doska z tmavého dubu 
+tile.vxl_mp:stripped_jungle_log_slab.name=Odizolovaná doska z džungle 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Odizolovaná mangrovová doska
+tile.vxl_mp:stripped_oak_log_slab.name=Drevená dubová zrubová doska
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Odizolovaná svetlá dubová zrubová doska
+tile.vxl_mp:stripped_spruce_log_slab.name=Odizolovaná smreková guľatina
+tile.vxl_mp:stripped_warped_stem_slab.name=Odizolovaná deformovaná kmeňová doska
+
+tile.vxl_mp:acacia_ladder.name=Akáciový rebrík
+tile.vxl_mp:birch_ladder.name=Brezový rebrík
+tile.vxl_mp:cherry_ladder.name=Čerešňový rebrík
+tile.vxl_mp:crimson_ladder.name=Karmínový rebrík
+tile.vxl_mp:dark_oak_ladder.name= Tmavý dubový rebrík 
+tile.vxl_mp:jungle_ladder.name=Rebrík z džungle 
+tile.vxl_mp:mangrove_ladder.name=Mangrovníkový rebrík
+tile.vxl_mp:oak_ladder.name=Dubový rebrík
+tile.vxl_mp:pale_oak_ladder.name=Svetlý dubový rebrík
+tile.vxl_mp:spruce_ladder.name=Smrekový rebrík
+tile.vxl_mp:warped_ladder.name=Skrútený rebrík
+
+tile.vxl_mp:acacia_bookshelf.name=Polička na knihy z akácie
+tile.vxl_mp:birch_bookshelf.name=Brezová knižnica
+tile.vxl_mp:cherry_bookshelf.name=Polička na knihy Cherry
+tile.vxl_mp:crimson_bookshelf.name=Karmínová polica na knihy
+tile.vxl_mp:dark_oak_bookshelf.name= Polička na knihy z tmavého dubu 
+tile.vxl_mp:jungle_bookshelf.name=Knižnica džungle 
+tile.vxl_mp:mangrove_bookshelf.name=Mangrovová polica
+tile.vxl_mp:pale_oak_bookshelf.name=Polička na knihy z svetlého dubu
+tile.vxl_mp:spruce_bookshelf.name=Smrek knižnica
+tile.vxl_mp:warped_bookshelf.name=Skrútená polica na knihy
+
+tile.vxl_mp:acacia_wall.name=Akáciová stena
+tile.vxl_mp:birch_wall.name=Brezová stena
+tile.vxl_mp:cherry_wall.name=Čerešňová stena
+tile.vxl_mp:crimson_wall.name=Karmínová stena
+tile.vxl_mp:dark_oak_wall.name= Stena z tmavého dubu 
+tile.vxl_mp:jungle_wall.name=Múr džungle 
+tile.vxl_mp:mangrove_wall.name=Mangrovová stena
+tile.vxl_mp:oak_wall.name=Dubová stena
+tile.vxl_mp:pale_oak_wall.name=Svetlá dubová stena
+tile.vxl_mp:spruce_wall.name=Smreková stena
+tile.vxl_mp:warped_wall.name=Skrútená stena
+
+tile.vxl_mp:cobblestone_fence.name=Dláždený plot
+tile.vxl_mp:mossy_cobblestone_fence.name=Machový dláždený plot
+tile.vxl_mp:cobbled_deepslate_fence.name=Dláždený plot Deepslate
+
+tile.vxl_mp:cobblestone_fence_gate.name=Brána z dláždeného plotu
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Brána z machového dláždeného plotu
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Brána dláždeného plotu Deepslate
+
+tile.vxl_mp:prismarine_brick_wall.name=Prismarine Tehlová múr
+tile.vxl_mp:dark_prismarine_wall.name=Dark Prismarine Wall
+
+tile.vxl_mp:copper_bars.name=Medené tyče
+tile.vxl_mp:exposed_copper_bars.name=Odkryté medené tyče
+tile.vxl_mp:oxidized_copper_bars.name=Oxidované medené tyče
+tile.vxl_mp:weathered_copper_bars.name=Zvetrané medené tyče
+
+item.vxl_mp:cooked_egg=Varené vajce
+
+acm.vxl_mp.pack_name=§3 Chýbajúce kusy
+acm.vxl_mp.author_name=Donthedev
+acm.vxl_mp.description=Séria chýbajúcich blokov, predmetov a receptov, ktoré by mali byť vo vanilke.
+
+acm.vxl_mp.guide.title=§l§3Sprievodca chýbajúcimi kúskami!§r
+acm.vxl_mp.guide.recipes.title=§5 Recepty
+acm.vxl_mp.guide.recipes.desc=- Vyrobiteľné sedlá.
+acm.vxl_mp.guide.items.title=§6 Položky
+acm.vxl_mp.guide.items.desc=- Varené vajce.
+acm.vxl_mp.guide.blocks.title=§4Bloky§r
+acm.vxl_mp.guide.ac.title=§l§2- Akácia:§r
+acm.vxl_mp.guide.ac.desc=§oAgátová polica na knihy, Akáciový rebrík, Akáciová zrubová doska, Akáciová stena.§r
+acm.vxl_mp.guide.bi.title=§l§2- Breza:§r
+acm.vxl_mp.guide.bi.desc=§oBrezová polica na knihy, Brezový rebrík, Brezová zrubová doska, Brezová stena.§r
+acm.vxl_mp.guide.ch.title=§l§2- Čerešňa:§r
+acm.vxl_mp.guide.ch.desc=§oČerešňová polica, Čerešňový rebrík, Čerešňová doska, Čerešňová stena.§r
+acm.vxl_mp.guide.cr.title=§l§2- Crimson:§r
+acm.vxl_mp.guide.cr.desc=§oCrimson Bookshell, Crimson Ladder, Crimson Stem Doska, Crimson Wall.§r
+acm.vxl_mp.guide.do.title=§l§2- Dub tmavý:§r
+acm.vxl_mp.guide.do.desc=§oKnižnica z tmavého dubu, rebrík z tmavého dubu, zrubová doska z tmavého dubu, stena z tmavého dubu.§r
+acm.vxl_mp.guide.ju.title=§l§2- Džungle:§r
+acm.vxl_mp.guide.ju.desc=§oPolička do džungle, rebrík z džungle, doska z guľatiny z džungle, stena z džungle.§r
+acm.vxl_mp.guide.ma.title=§l§2- Mangrovník:§r
+acm.vxl_mp.guide.ma.desc=§oPolička na mangrovníky, rebrík z mangrovníkov, doska z guľatiny z mangrovníkov, stena z mangrovníkov.§r
+acm.vxl_mp.guide.oak.title=§l§2- Dub:§r
+acm.vxl_mp.guide.oak.desc=§oDubový rebrík, Dubová zrubová doska, Dubová stena.§r
+acm.vxl_mp.guide.po.title=§l§2- Svetlý dub:§r
+acm.vxl_mp.guide.po.desc=§oPolička na knihy z bledého duba, rebrík z svetlého dubu, zrubová doska z svetlého dubu, stena z svetlého dubu.§r
+acm.vxl_mp.guide.sp.title=§l§2- Smrek:§r
+acm.vxl_mp.guide.sp.desc=§oSmreková polica na knihy, Smrekový rebrík, Smreková zrubová doska, Smreková stena.§r
+acm.vxl_mp.guide.wa.title=§l§2- Skrútené:§r
+acm.vxl_mp.guide.wa.desc=§oPoskrútená polica na knihy, zdeformovaný rebrík, pokrivená doska stonky, pokrivená stena.§r
+acm.vxl_mp.guide.cd.title=§l§2- Cobbled Deepslate:§r
+acm.vxl_mp.guide.cd.desc=§oCobbled Deepslate Fence & Fence Gate.§r
+acm.vxl_mp.guide.cb.title=§l§2- Dlažobný kameň:§r
+acm.vxl_mp.guide.cb.desc=§oDlažobný plot a plotová brána.§r
+acm.vxl_mp.guide.mc.title=§l§2- Mossy Cobblestone:§r
+acm.vxl_mp.guide.mc.desc=§oMossy Cobblestone Fence & Fence Gate.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Dark Prismarine:§r
+acm.vxl_mp.guide.da_pr.desc=§oDark Prismarine Wall.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Prismarine Brick:§r
+acm.vxl_mp.guide.pr_br.desc=§oPrismarine Brick Wall.§r
+acm.vxl_mp.guide.co.title=§l§2- Meď:§r
+acm.vxl_mp.guide.co.desc=§oMedené tyče.§r

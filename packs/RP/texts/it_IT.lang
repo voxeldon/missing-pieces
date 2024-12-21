@@ -1,0 +1,126 @@
+pack.name=Pezzi mancanti
+pack.description=Pezzi mancanti
+
+tile.vxl_core:artisan_table.name=Tavolo Artigianale
+
+tile.vxl_mp:acacia_log_slab.name=Lastra di tronchi di acacia
+tile.vxl_mp:birch_log_slab.name=Lastra di tronchi di betulla
+tile.vxl_mp:cherry_log_slab.name=Lastra di tronco di ciliegio
+tile.vxl_mp:crimson_stem_slab.name=Lastra di stelo cremisi
+tile.vxl_mp:dark_oak_log_slab.name= Lastra di tronchi di quercia scura 
+tile.vxl_mp:jungle_log_slab.name=Lastra di tronchi della giungla 
+tile.vxl_mp:mangrove_log_slab.name=Lastra di tronchi di mangrovie
+tile.vxl_mp:oak_log_slab.name=Lastra di tronchi di quercia
+tile.vxl_mp:pale_oak_log_slab.name=Lastra di tronchi di quercia pallida
+tile.vxl_mp:spruce_log_slab.name=Lastra di tronchi di abete rosso
+tile.vxl_mp:warped_stem_slab.name=Lastra con stelo deformato
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Lastra di tronchi di acacia spogliata
+tile.vxl_mp:stripped_birch_log_slab.name=Lastra di tronchi di betulla spogliata
+tile.vxl_mp:stripped_cherry_log_slab.name=Lastra di tronco di ciliegio spogliata
+tile.vxl_mp:stripped_crimson_stem_slab.name=Lastra di stelo cremisi spogliato
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Lastra di tronchi di rovere scuro spogliato 
+tile.vxl_mp:stripped_jungle_log_slab.name=Lastra di registro della giungla spogliata 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Lastra di tronchi di mangrovia spogliata
+tile.vxl_mp:stripped_oak_log_slab.name=Lastra di tronchi di quercia spogliata
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Lastra di tronchi di quercia pallida spogliata
+tile.vxl_mp:stripped_spruce_log_slab.name=Lastra di tronchi di abete rosso spogliato
+tile.vxl_mp:stripped_warped_stem_slab.name=Lastra con stelo deformato spogliato
+
+tile.vxl_mp:acacia_ladder.name=Scala di acacia
+tile.vxl_mp:birch_ladder.name=Scala di betulla
+tile.vxl_mp:cherry_ladder.name=Scaletta Di Ciliegio
+tile.vxl_mp:crimson_ladder.name=Scala Cremisi
+tile.vxl_mp:dark_oak_ladder.name= Scala in rovere scuro 
+tile.vxl_mp:jungle_ladder.name=Scala della giungla 
+tile.vxl_mp:mangrove_ladder.name=Scala di mangrovie
+tile.vxl_mp:oak_ladder.name=Scala in quercia
+tile.vxl_mp:pale_oak_ladder.name=Scala in rovere pallido
+tile.vxl_mp:spruce_ladder.name=Scala in abete rosso
+tile.vxl_mp:warped_ladder.name=Scala deformata
+
+tile.vxl_mp:acacia_bookshelf.name=Libreria in acacia
+tile.vxl_mp:birch_bookshelf.name=Libreria in betulla
+tile.vxl_mp:cherry_bookshelf.name=Libreria in ciliegio
+tile.vxl_mp:crimson_bookshelf.name=Libreria cremisi
+tile.vxl_mp:dark_oak_bookshelf.name= Libreria in rovere scuro 
+tile.vxl_mp:jungle_bookshelf.name=Libreria della giungla 
+tile.vxl_mp:mangrove_bookshelf.name=Libreria di mangrovie
+tile.vxl_mp:pale_oak_bookshelf.name=Libreria in rovere chiaro
+tile.vxl_mp:spruce_bookshelf.name=Libreria in abete rosso
+tile.vxl_mp:warped_bookshelf.name=Libreria deformata
+
+tile.vxl_mp:acacia_wall.name=Muro di acacia
+tile.vxl_mp:birch_wall.name=Muro di betulla
+tile.vxl_mp:cherry_wall.name=Muro di ciliegie
+tile.vxl_mp:crimson_wall.name=Muro Cremisi
+tile.vxl_mp:dark_oak_wall.name= Parete in rovere scuro 
+tile.vxl_mp:jungle_wall.name=Muro della giungla 
+tile.vxl_mp:mangrove_wall.name=Muro di mangrovie
+tile.vxl_mp:oak_wall.name=Muro di quercia
+tile.vxl_mp:pale_oak_wall.name=Parete in rovere chiaro
+tile.vxl_mp:spruce_wall.name=Muro di abete rosso
+tile.vxl_mp:warped_wall.name=Muro deformato
+
+tile.vxl_mp:cobblestone_fence.name=Recinzione di ciottoli
+tile.vxl_mp:mossy_cobblestone_fence.name=Recinto di ciottoli muschioso
+tile.vxl_mp:cobbled_deepslate_fence.name=Recinzione in ardesia profonda acciottolata
+
+tile.vxl_mp:cobblestone_fence_gate.name=Cancello di recinzione in ciottoli
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Cancello del recinto di ciottoli muschiosi
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Cancello di recinzione in ardesia profonda acciottolato
+
+tile.vxl_mp:prismarine_brick_wall.name=Muro di mattoni di Prismarine
+tile.vxl_mp:dark_prismarine_wall.name=Muro Prismarine Scuro
+
+tile.vxl_mp:copper_bars.name=Barre di rame
+tile.vxl_mp:exposed_copper_bars.name=Barre di rame esposte
+tile.vxl_mp:oxidized_copper_bars.name=Barre di Rame Ossidato
+tile.vxl_mp:weathered_copper_bars.name=Barre di rame stagionate
+
+item.vxl_mp:cooked_egg=Uovo Cotto
+
+acm.vxl_mp.pack_name=§3Pezzi mancanti
+acm.vxl_mp.author_name=Donthedev
+acm.vxl_mp.description=Una serie di blocchi, oggetti e ricette mancanti che dovrebbero essere in Vanilla.
+
+acm.vxl_mp.guide.title=§l§3Guida ai pezzi mancanti!§r
+acm.vxl_mp.guide.recipes.title=§5Ricette
+acm.vxl_mp.guide.recipes.desc=- Selle realizzabili.
+acm.vxl_mp.guide.items.title=§6Articoli
+acm.vxl_mp.guide.items.desc=- Uovo Cotto.
+acm.vxl_mp.guide.blocks.title=§4Blocchi§r
+acm.vxl_mp.guide.ac.title=§l§2- Acacia:§r
+acm.vxl_mp.guide.ac.desc=§oLibreria in acacia, Scala in acacia, Lastra in tronchi di acacia, Parete in acacia.§r
+acm.vxl_mp.guide.bi.title=§l§2- Betulla:§r
+acm.vxl_mp.guide.bi.desc=§oLibreria in betulla, Scala in betulla, Lastra in tronchi di betulla, Parete in betulla.§r
+acm.vxl_mp.guide.ch.title=§l§2- Ciliegio:§r
+acm.vxl_mp.guide.ch.desc=§oLibreria in ciliegio, Scala in ciliegio, Lastra in legno di ciliegio, Parete in ciliegio.§r
+acm.vxl_mp.guide.cr.title=§l§2- Cremisi:§r
+acm.vxl_mp.guide.cr.desc=§oLibreria cremisi, scala cremisi, lastra con stelo cremisi, muro cremisi.§r
+acm.vxl_mp.guide.do.title=§l§2- Quercia Moro:§r
+acm.vxl_mp.guide.do.desc=§oLibreria in rovere scuro, scala in rovere scuro, lastra in legno di rovere scuro, parete in rovere scuro.§r
+acm.vxl_mp.guide.ju.title=§l§2- Giungla:§r
+acm.vxl_mp.guide.ju.desc=§oLibreria della giungla, Scala della giungla, Lastra di tronchi della giungla, Muro della giungla.§r
+acm.vxl_mp.guide.ma.title=§l§2- Mangrovia:§r
+acm.vxl_mp.guide.ma.desc=§oLibreria di mangrovie, Scala di mangrovie, Lastra di tronchi di mangrovie, Muro di mangrovie.§r
+acm.vxl_mp.guide.oak.title=§l§2- Quercia:§r
+acm.vxl_mp.guide.oak.desc=§oScala Di Quercia, Lastra Di Tronchi Di Quercia, Parete Di Quercia.§r
+acm.vxl_mp.guide.po.title=§l§2- Quercia pallida:§r
+acm.vxl_mp.guide.po.desc=§oLibreria in rovere chiaro, scala in rovere chiaro, lastra di tronchi in rovere chiaro, parete in rovere chiaro.§r
+acm.vxl_mp.guide.sp.title=§l§2- Abete rosso:§r
+acm.vxl_mp.guide.sp.desc=§oLibreria in abete rosso, scala in abete rosso, lastra in legno di abete rosso, parete in abete rosso.§r
+acm.vxl_mp.guide.wa.title=§l§2- Deformato:§r
+acm.vxl_mp.guide.wa.desc=§oLibreria deformata, Scala deformata, Lastra con stelo deformato, Parete deformata.§r
+acm.vxl_mp.guide.cd.title=§l§2- Ardesia profonda acciottolata:§r
+acm.vxl_mp.guide.cd.desc=§oRecinzione in ardesia profonda e cancello di recinzione.§r
+acm.vxl_mp.guide.cb.title=§l§2- Ciottolo:§r
+acm.vxl_mp.guide.cb.desc=§oRecinzione in ciottoli e cancello di recinzione.§r
+acm.vxl_mp.guide.mc.title=§l§2- Ciottolo muschioso:§r
+acm.vxl_mp.guide.mc.desc=§oRecinzione in ciottoli e cancello di recinzione.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Prismarino scuro:§r
+acm.vxl_mp.guide.da_pr.desc=§oMuro Prismarine Scuro.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Mattone Prismarine:§r
+acm.vxl_mp.guide.pr_br.desc=§oMuro di mattoni Prismarine.§r
+acm.vxl_mp.guide.co.title=§l§2- Rame:§r
+acm.vxl_mp.guide.co.desc=§obarre di rame.§r

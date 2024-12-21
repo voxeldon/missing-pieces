@@ -1,0 +1,126 @@
+pack.name=Manglende stykker
+pack.description=Manglende stykker
+
+tile.vxl_core:artisan_table.name=Håndværkerbord
+
+tile.vxl_mp:acacia_log_slab.name=Akacie træplade
+tile.vxl_mp:birch_log_slab.name=Birketræplade
+tile.vxl_mp:cherry_log_slab.name=Kirsebærtræplade
+tile.vxl_mp:crimson_stem_slab.name=Crimson stammeplade
+tile.vxl_mp:dark_oak_log_slab.name= Mørk egetræ bjælkeplade 
+tile.vxl_mp:jungle_log_slab.name=Jungletømmerplade 
+tile.vxl_mp:mangrove_log_slab.name=Mangrove bjælkeplade
+tile.vxl_mp:oak_log_slab.name=Egetævleplade
+tile.vxl_mp:pale_oak_log_slab.name=Bleg eg bjælkeplade
+tile.vxl_mp:spruce_log_slab.name=Træplade af gran
+tile.vxl_mp:warped_stem_slab.name=Forvredet stængelplade
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Strippet akacietræplade
+tile.vxl_mp:stripped_birch_log_slab.name=Strippet Birch Log Plade
+tile.vxl_mp:stripped_cherry_log_slab.name=Strippet Cherry Log Slab
+tile.vxl_mp:stripped_crimson_stem_slab.name=Afskallet Crimson Stamplade
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Afstribet mørk eg bjælkeplade 
+tile.vxl_mp:stripped_jungle_log_slab.name=Stripped Jungle Log Slab 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Stripped Mangrove Log Slab
+tile.vxl_mp:stripped_oak_log_slab.name=Strippet Egetævleplade
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Afskallet Bleg eg-bjælkeplade
+tile.vxl_mp:stripped_spruce_log_slab.name=Afskallet granbjælkeplade
+tile.vxl_mp:stripped_warped_stem_slab.name=Afskallet skæv stængelplade
+
+tile.vxl_mp:acacia_ladder.name=Akacie stige
+tile.vxl_mp:birch_ladder.name=Birkestige
+tile.vxl_mp:cherry_ladder.name=Kirsebærstige
+tile.vxl_mp:crimson_ladder.name=Crimson Ladder
+tile.vxl_mp:dark_oak_ladder.name= Mørk egetræsstige 
+tile.vxl_mp:jungle_ladder.name=Junglestige 
+tile.vxl_mp:mangrove_ladder.name=Mangrove stige
+tile.vxl_mp:oak_ladder.name=Eg stige
+tile.vxl_mp:pale_oak_ladder.name=Bleg eg stige
+tile.vxl_mp:spruce_ladder.name=Gran stige
+tile.vxl_mp:warped_ladder.name=skæv stige
+
+tile.vxl_mp:acacia_bookshelf.name=Acacia boghylde
+tile.vxl_mp:birch_bookshelf.name=Birk boghylde
+tile.vxl_mp:cherry_bookshelf.name=Cherry boghylde
+tile.vxl_mp:crimson_bookshelf.name=Crimson boghylde
+tile.vxl_mp:dark_oak_bookshelf.name= Mørk Eg Bogreol 
+tile.vxl_mp:jungle_bookshelf.name=Jungle boghylde 
+tile.vxl_mp:mangrove_bookshelf.name=Mangrove boghylde
+tile.vxl_mp:pale_oak_bookshelf.name=Bleg eg bogreol
+tile.vxl_mp:spruce_bookshelf.name=Gran Bogreol
+tile.vxl_mp:warped_bookshelf.name=Forvredet bogreol
+
+tile.vxl_mp:acacia_wall.name=Akacie væg
+tile.vxl_mp:birch_wall.name=Birkevæg
+tile.vxl_mp:cherry_wall.name=Kirsebær væg
+tile.vxl_mp:crimson_wall.name=Crimson Wall
+tile.vxl_mp:dark_oak_wall.name= Mørk Eg Væg 
+tile.vxl_mp:jungle_wall.name=Jungle væg 
+tile.vxl_mp:mangrove_wall.name=Mangrove væg
+tile.vxl_mp:oak_wall.name=Eg væg
+tile.vxl_mp:pale_oak_wall.name=Bleg eg væg
+tile.vxl_mp:spruce_wall.name=Gran Væg
+tile.vxl_mp:warped_wall.name=skæv væg
+
+tile.vxl_mp:cobblestone_fence.name=Brostenshegn
+tile.vxl_mp:mossy_cobblestone_fence.name=Mossy brostensbelagt hegn
+tile.vxl_mp:cobbled_deepslate_fence.name=Brostensbelagt Deepslate Hegn
+
+tile.vxl_mp:cobblestone_fence_gate.name=Brostensbelagt hegnsport
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Mossy brostensbelagt hegnsport
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Brostensbelagte Deepslate Hegnsport
+
+tile.vxl_mp:prismarine_brick_wall.name=Prismarine murstensvæg
+tile.vxl_mp:dark_prismarine_wall.name=Mørk Prismarine væg
+
+tile.vxl_mp:copper_bars.name=Kobberstænger
+tile.vxl_mp:exposed_copper_bars.name=Udsatte kobberstænger
+tile.vxl_mp:oxidized_copper_bars.name=Oxiderede kobberstænger
+tile.vxl_mp:weathered_copper_bars.name=Forvitrede kobberstænger
+
+item.vxl_mp:cooked_egg=Kogt æg
+
+acm.vxl_mp.pack_name=§3Manglende stykker
+acm.vxl_mp.author_name=Donthedev
+acm.vxl_mp.description=En række manglende blokke, varer og opskrifter, der burde være i vanilje.
+
+acm.vxl_mp.guide.title=§l§3Manglende stykker Vejledning!§r
+acm.vxl_mp.guide.recipes.title=§5Opskrifter
+acm.vxl_mp.guide.recipes.desc=- Craftable sadler.
+acm.vxl_mp.guide.items.title=§6 Varer
+acm.vxl_mp.guide.items.desc=- Kogt æg.
+acm.vxl_mp.guide.blocks.title=§4Blokker§r
+acm.vxl_mp.guide.ac.title=§l§2- Akacie:§r
+acm.vxl_mp.guide.ac.desc=§oAcacia boghylde, Acacia Ladder, Acacia Log Slab, Acacia Wall.§r
+acm.vxl_mp.guide.bi.title=§l§2- Birk:§r
+acm.vxl_mp.guide.bi.desc=§oBirkebogshylde, Birkestige, Birkebjælkeplade, Birkevæg.§r
+acm.vxl_mp.guide.ch.title=§l§2- Kirsebær:§r
+acm.vxl_mp.guide.ch.desc=§oCherry Boghylde, Cherry Ladder, Cherry Log Slab, Cherry Wall.§r
+acm.vxl_mp.guide.cr.title=§l§2- Crimson:§r
+acm.vxl_mp.guide.cr.desc=§oCrimson bogreol, Crimson Ladder, Crimson Stem Slab, Crimson Wall.§r
+acm.vxl_mp.guide.do.title=§l§2- Mørk Eg:§r
+acm.vxl_mp.guide.do.desc=§oMørk Eg Bogreol, Mørk Eg Stige, Mørk Eg Brændeplade, Mørk Eg Væg.§r
+acm.vxl_mp.guide.ju.title=§l§2- Jungle:§r
+acm.vxl_mp.guide.ju.desc=§oJungleboghylde, Junglestige, Junglebjælkeplade, Junglevæg.§r
+acm.vxl_mp.guide.ma.title=§l§2- Mangrove:§r
+acm.vxl_mp.guide.ma.desc=§oMangrove-bogreol, Mangrove-stige, Mangrove-bjælkeplade, Mangrove-væg.§r
+acm.vxl_mp.guide.oak.title=§l§2- Eg:§r
+acm.vxl_mp.guide.oak.desc=§oEgestige, Egetævleplade, Egevæg.§r
+acm.vxl_mp.guide.po.title=§l§2- Bleg Eg:§r
+acm.vxl_mp.guide.po.desc=§o Bleg eg bogreol, lys eg stige, lys eg log plade, lys eg væg.§r
+acm.vxl_mp.guide.sp.title=§l§2- Gran:§r
+acm.vxl_mp.guide.sp.desc=§oSpruce bogreol, granstige, granbjælkeplade, granvæg.§r
+acm.vxl_mp.guide.wa.title=§l§2- Forvredet:§r
+acm.vxl_mp.guide.wa.desc=§oSkruet bogreol, skæv stige, skæv stilkplade, skæv væg.§r
+acm.vxl_mp.guide.cd.title=§l§2- Brostensbelagte Deepslate:§r
+acm.vxl_mp.guide.cd.desc=§oCobbled Deepslate Hegn & Hegnsport.§r
+acm.vxl_mp.guide.cb.title=§l§2- Brosten:§r
+acm.vxl_mp.guide.cb.desc=§oBrossestenshegn & hegnslåge.§r
+acm.vxl_mp.guide.mc.title=§l§2- Mosset Brosten:§r
+acm.vxl_mp.guide.mc.desc=§oMosset brostenshegn & hegnslåge.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Dark Prismarine:§r
+acm.vxl_mp.guide.da_pr.desc=§oDark Prismarine Wall.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Prismarine Mursten:§r
+acm.vxl_mp.guide.pr_br.desc=§oPrismarine murstensvæg.§r
+acm.vxl_mp.guide.co.title=§l§2- Kobber:§r
+acm.vxl_mp.guide.co.desc=§oKobberstænger.§r

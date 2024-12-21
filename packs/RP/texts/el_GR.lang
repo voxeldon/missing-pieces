@@ -1,0 +1,126 @@
+pack.name=Κομμάτια που λείπουν
+pack.description=Κομμάτια που λείπουν
+
+tile.vxl_core:artisan_table.name=Τραπέζι χειροτεχνίας
+
+tile.vxl_mp:acacia_log_slab.name=Πλάκα κορμού ακακίας
+tile.vxl_mp:birch_log_slab.name=Πλάκα κορμού σημύδας
+tile.vxl_mp:cherry_log_slab.name=Πλάκα κορμού κερασιών
+tile.vxl_mp:crimson_stem_slab.name=Κατακόκκινη πλάκα στελέχους
+tile.vxl_mp:dark_oak_log_slab.name= Πλάκα σκούρου ξύλου δρυός 
+tile.vxl_mp:jungle_log_slab.name=Πλάκα κορμού ζούγκλας 
+tile.vxl_mp:mangrove_log_slab.name=Πλάκα κορμού Mangrove
+tile.vxl_mp:oak_log_slab.name=Δρυς πλάκα κορμού
+tile.vxl_mp:pale_oak_log_slab.name=Πλάκα χλωμή δρυς κορμού
+tile.vxl_mp:spruce_log_slab.name=Spruce Log Slab
+tile.vxl_mp:warped_stem_slab.name=Στρεβλωμένη πλάκα στελέχους
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Απογυμνωμένη πλάκα κορμού ακακίας
+tile.vxl_mp:stripped_birch_log_slab.name=Απογυμνωμένη πλάκα κορμού σημύδας
+tile.vxl_mp:stripped_cherry_log_slab.name=Απογυμνωμένη πλάκα κορμού κερασιών
+tile.vxl_mp:stripped_crimson_stem_slab.name=Απογυμνωμένη κατακόκκινη πλάκα στελέχους
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Απογυμνωμένη πλάκα σκούρου ξύλου δρυός 
+tile.vxl_mp:stripped_jungle_log_slab.name=Απογυμνωμένη πλάκα κορμού ζούγκλας 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Απογυμνωμένη πλάκα κορμού Mangrove
+tile.vxl_mp:stripped_oak_log_slab.name=Απογυμνωμένη πλάκα δρυός κορμού
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Απογυμνωμένη πλάκα χλωμή δρυός κορμού
+tile.vxl_mp:stripped_spruce_log_slab.name=Απογυμνωμένη πλάκα έλατου κορμού
+tile.vxl_mp:stripped_warped_stem_slab.name=Απογυμνωμένη στρεβλή πλάκα στελέχους
+
+tile.vxl_mp:acacia_ladder.name=Σκάλα Ακακίας
+tile.vxl_mp:birch_ladder.name=Σκάλα σημύδας
+tile.vxl_mp:cherry_ladder.name=Cherry Ladder
+tile.vxl_mp:crimson_ladder.name=Κατακόκκινη Σκάλα
+tile.vxl_mp:dark_oak_ladder.name= Dark Oak Ladder 
+tile.vxl_mp:jungle_ladder.name=Σκάλα της ζούγκλας 
+tile.vxl_mp:mangrove_ladder.name=Mangrove Ladder
+tile.vxl_mp:oak_ladder.name=Δρυς Σκάλα
+tile.vxl_mp:pale_oak_ladder.name=Pale Oak Ladder
+tile.vxl_mp:spruce_ladder.name=Spruce Ladder
+tile.vxl_mp:warped_ladder.name=Στρεβλωμένη Σκάλα
+
+tile.vxl_mp:acacia_bookshelf.name=Βιβλιοθήκη Acacia
+tile.vxl_mp:birch_bookshelf.name=Βιβλιοθήκη Birch
+tile.vxl_mp:cherry_bookshelf.name=Βιβλιοθήκη Cherry
+tile.vxl_mp:crimson_bookshelf.name=Βυσσινί Βιβλιοθήκη
+tile.vxl_mp:dark_oak_bookshelf.name= Βιβλιοθήκη Dark Oak 
+tile.vxl_mp:jungle_bookshelf.name=Ράφι της Ζούγκλας 
+tile.vxl_mp:mangrove_bookshelf.name=Βιβλιοθήκη Mangrove
+tile.vxl_mp:pale_oak_bookshelf.name=Ράφι Pale Oak
+tile.vxl_mp:spruce_bookshelf.name=Ράφι Spruce
+tile.vxl_mp:warped_bookshelf.name=Στρεβλωμένο ράφι
+
+tile.vxl_mp:acacia_wall.name=Τοίχος Ακακίας
+tile.vxl_mp:birch_wall.name=Τοίχος σημύδας
+tile.vxl_mp:cherry_wall.name=Τοίχο κερασιών
+tile.vxl_mp:crimson_wall.name=Κατακόκκινος τοίχος
+tile.vxl_mp:dark_oak_wall.name= Dark Oak Wall 
+tile.vxl_mp:jungle_wall.name=Τοίχος της ζούγκλας 
+tile.vxl_mp:mangrove_wall.name=Μαγκρόβιο Τείχος
+tile.vxl_mp:oak_wall.name=Τοίχος βελανιδιάς
+tile.vxl_mp:pale_oak_wall.name=Pale Oak Wall
+tile.vxl_mp:spruce_wall.name=Τοίχος Ελάτης
+tile.vxl_mp:warped_wall.name=Στρεβλωμένος τοίχος
+
+tile.vxl_mp:cobblestone_fence.name=Πλακόστρωτο Φράχτη
+tile.vxl_mp:mossy_cobblestone_fence.name=Ποώδης Πλακόστρωτος Φράχτης
+tile.vxl_mp:cobbled_deepslate_fence.name=Λιθόστρωτος φράχτης από βαθύ πλάκες
+
+tile.vxl_mp:cobblestone_fence_gate.name=Πλακόστρωτη Πύλη Φράχτη
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Πύλη φράχτη με ποώδη λιθόστρωτα
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Λιθόστρωτη Πύλη Φράχτη Βαθύς
+
+tile.vxl_mp:prismarine_brick_wall.name=Τοίχο από τούβλα Prismarine
+tile.vxl_mp:dark_prismarine_wall.name=Dark Prismarine Wall
+
+tile.vxl_mp:copper_bars.name=Ράβδοι Χαλκού
+tile.vxl_mp:exposed_copper_bars.name=Εκτεθειμένες ράβδοι χαλκού
+tile.vxl_mp:oxidized_copper_bars.name=Οξειδωμένες ράβδοι χαλκού
+tile.vxl_mp:weathered_copper_bars.name=Ξεπερασμένες ράβδους χαλκού
+
+item.vxl_mp:cooked_egg=Μαγειρεμένο αυγό
+
+acm.vxl_mp.pack_name=§3 Κομμάτια που λείπουν
+acm.vxl_mp.author_name=Ο Ντοντέντεφ
+acm.vxl_mp.description=Μια σειρά από μπλοκ, είδη και συνταγές που λείπουν που πρέπει να είναι σε βανίλια.
+
+acm.vxl_mp.guide.title=§l§3 Οδηγός κομματιών που λείπουν!§r
+acm.vxl_mp.guide.recipes.title=§5 Συνταγές
+acm.vxl_mp.guide.recipes.desc=- Craftable σέλες.
+acm.vxl_mp.guide.items.title=§6 Είδη
+acm.vxl_mp.guide.items.desc=- Μαγειρεμένο αυγό.
+acm.vxl_mp.guide.blocks.title=§4Μπλοκ§ρ
+acm.vxl_mp.guide.ac.title=§l§2- Ακακία:§ρ
+acm.vxl_mp.guide.ac.desc=§o Ράφι Βιβλιοθήκης Ακακίας, Σκάλα Ακακίας, Πλάκα κορμών Ακακίας, Τοίχος Ακακίας.§r
+acm.vxl_mp.guide.bi.title=§l§2- Σημύδα:§ρ
+acm.vxl_mp.guide.bi.desc=§oΒιβλιοθήκη Birch, Birch Ladder, Birch Log Slab, Birch Wall.§r
+acm.vxl_mp.guide.ch.title=§l§2- Κεράσι:§ρ
+acm.vxl_mp.guide.ch.desc=§o Βιβλιοθήκη Cherry, Cherry Ladder, Cherry Log Slab, Cherry Wall.§r
+acm.vxl_mp.guide.cr.title=§l§2- Βυσσινί:§ρ
+acm.vxl_mp.guide.cr.desc=§o Βυσσινί Βιβλιοθήκη, Βυσσινί Σκάλα, Βυσσινί Στέλεχος Πλάκα, Βυσσινί Τοίχος.§r
+acm.vxl_mp.guide.do.title=§l§2- Dark Oak:§r
+acm.vxl_mp.guide.do.desc=§o Βιβλιοθήκη Dark Oak, Dark Oak Ladder, Dark Oak Log Slab, Dark Oak Wall.§r
+acm.vxl_mp.guide.ju.title=§l§2- Ζούγκλα:§ρ
+acm.vxl_mp.guide.ju.desc=§o Ράφι Βιβλιοθήκης Ζούγκλας, Σκάλα Ζούγκλας, Πλάκα Κορμών Ζούγκλας, Τοίχος της Ζούγκλας.§r
+acm.vxl_mp.guide.ma.title=§l§2- Mangrove:§r
+acm.vxl_mp.guide.ma.desc=§o Βιβλιοθήκη Mangrove, Mangrove Ladder, Mangrove Log Slab, Mangrove Wall.§r
+acm.vxl_mp.guide.oak.title=§l§2- Δρυς:§ρ
+acm.vxl_mp.guide.oak.desc=§o Oak Ladder, Oak Log Slab, Oak Wall.§r
+acm.vxl_mp.guide.po.title=§l§2- Pale Oak:§r
+acm.vxl_mp.guide.po.desc=§o Βιβλιοθήκη Pale Oak, Pale Oak Ladder, Pale Oak Log Slab, Pale Oak Wall.§r
+acm.vxl_mp.guide.sp.title=§l§2- Ερυθρελάτη:§ρ
+acm.vxl_mp.guide.sp.desc=§oSpruce Book ράφι, Spruce Ladder, Spruce Log Slab, Spruce Wall.§r
+acm.vxl_mp.guide.wa.title=§l§2- Στρεβλωμένο:§r
+acm.vxl_mp.guide.wa.desc=§o Στρεβλωμένο ράφι, Στρεβλωμένη σκάλα, Στρεβλωμένη πλάκα στελέχους, Στρεβλωμένος τοίχος.§r
+acm.vxl_mp.guide.cd.title=§l§2- Πλακόστρωτο Βαθύ:§ρ
+acm.vxl_mp.guide.cd.desc=§o Λιθόστρωτος φράχτης & πύλη φράχτη.§ρ
+acm.vxl_mp.guide.cb.title=§l§2- Πλακόστρωτο:§ρ
+acm.vxl_mp.guide.cb.desc=§o Πλακόστρωτο Φράχτη & Πύλη Φράχτη.§ρ
+acm.vxl_mp.guide.mc.title=§l§2- Mossy Cobblestone:§r
+acm.vxl_mp.guide.mc.desc=§oMossy Cobblestone Fence & Fence Gate.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Dark Prismarine:§r
+acm.vxl_mp.guide.da_pr.desc=§oDark Prismarine Wall.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Prismarine Brick:§r
+acm.vxl_mp.guide.pr_br.desc=§oPrismarine Brick Wall.§r
+acm.vxl_mp.guide.co.title=§l§2- Χαλκός:§ρ
+acm.vxl_mp.guide.co.desc=§o Ράβδοι Χαλκού.§ρ

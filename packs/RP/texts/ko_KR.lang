@@ -1,0 +1,126 @@
+pack.name=누락된 조각
+pack.description=누락된 조각
+
+tile.vxl_core:artisan_table.name=장인 테이블
+
+tile.vxl_mp:acacia_log_slab.name=아카시아 통나무 석판
+tile.vxl_mp:birch_log_slab.name=자작나무 통나무 석판
+tile.vxl_mp:cherry_log_slab.name=체리 로그 슬래브
+tile.vxl_mp:crimson_stem_slab.name=진홍색 줄기 석판
+tile.vxl_mp:dark_oak_log_slab.name= 다크 오크 로그 슬래브 
+tile.vxl_mp:jungle_log_slab.name=정글 통나무 석판 
+tile.vxl_mp:mangrove_log_slab.name=맹그로브 통나무 석판
+tile.vxl_mp:oak_log_slab.name=참나무 통나무 석판
+tile.vxl_mp:pale_oak_log_slab.name=창백한 참나무 통나무 석판
+tile.vxl_mp:spruce_log_slab.name=가문비나무 통나무 석판
+tile.vxl_mp:warped_stem_slab.name=뒤틀린 줄기 반 블록
+
+tile.vxl_mp:stripped_acacia_log_slab.name=벗겨진 아카시아 통나무 석판
+tile.vxl_mp:stripped_birch_log_slab.name=벗겨진 자작나무 통나무 석판
+tile.vxl_mp:stripped_cherry_log_slab.name=벗겨진 체리 통나무 석판
+tile.vxl_mp:stripped_crimson_stem_slab.name=벗겨진 진홍색 줄기 석판
+tile.vxl_mp:stripped_dark_oak_log_slab.name=벗겨진 짙은 참나무 통나무 석판 
+tile.vxl_mp:stripped_jungle_log_slab.name=벗겨진 정글 통나무 석판 
+tile.vxl_mp:stripped_mangrove_log_slab.name=벗겨진 맹그로브 통나무 석판
+tile.vxl_mp:stripped_oak_log_slab.name=벗겨진 참나무 통나무 석판
+tile.vxl_mp:stripped_pale_oak_log_slab.name=벗겨진 창백한 참나무 통나무 석판
+tile.vxl_mp:stripped_spruce_log_slab.name=벗겨진 가문비나무 통나무 슬래브
+tile.vxl_mp:stripped_warped_stem_slab.name=벗겨진 뒤틀린 줄기 석판
+
+tile.vxl_mp:acacia_ladder.name=아카시아 사다리
+tile.vxl_mp:birch_ladder.name=자작나무 사다리
+tile.vxl_mp:cherry_ladder.name=체리 사다리
+tile.vxl_mp:crimson_ladder.name=진홍색 사다리
+tile.vxl_mp:dark_oak_ladder.name= 다크 오크 사다리 
+tile.vxl_mp:jungle_ladder.name=정글 사다리 
+tile.vxl_mp:mangrove_ladder.name=맹그로브 사다리
+tile.vxl_mp:oak_ladder.name=참나무 사다리
+tile.vxl_mp:pale_oak_ladder.name=창백한 참나무 사다리
+tile.vxl_mp:spruce_ladder.name=가문비나무 사다리
+tile.vxl_mp:warped_ladder.name=뒤틀린 사다리
+
+tile.vxl_mp:acacia_bookshelf.name=아카시아 책장
+tile.vxl_mp:birch_bookshelf.name=자작나무 책장
+tile.vxl_mp:cherry_bookshelf.name=체리 책장
+tile.vxl_mp:crimson_bookshelf.name=진홍색 책장
+tile.vxl_mp:dark_oak_bookshelf.name= 다크 오크 책장 
+tile.vxl_mp:jungle_bookshelf.name=정글 책장 
+tile.vxl_mp:mangrove_bookshelf.name=맹그로브 책장
+tile.vxl_mp:pale_oak_bookshelf.name=창백한 참나무 책장
+tile.vxl_mp:spruce_bookshelf.name=가문비나무 책장
+tile.vxl_mp:warped_bookshelf.name=뒤틀린 책장
+
+tile.vxl_mp:acacia_wall.name=아카시아 벽
+tile.vxl_mp:birch_wall.name=자작나무 벽
+tile.vxl_mp:cherry_wall.name=체리 월
+tile.vxl_mp:crimson_wall.name=크림슨 월
+tile.vxl_mp:dark_oak_wall.name= 다크 오크 벽 
+tile.vxl_mp:jungle_wall.name=정글 월 
+tile.vxl_mp:mangrove_wall.name=맹그로브 벽
+tile.vxl_mp:oak_wall.name=참나무 벽
+tile.vxl_mp:pale_oak_wall.name=창백한 참나무 벽
+tile.vxl_mp:spruce_wall.name=가문비나무 벽
+tile.vxl_mp:warped_wall.name=뒤틀린 벽
+
+tile.vxl_mp:cobblestone_fence.name=조약돌 울타리
+tile.vxl_mp:mossy_cobblestone_fence.name=이끼 낀 조약돌 울타리
+tile.vxl_mp:cobbled_deepslate_fence.name=자갈이 깔린 심판 울타리
+
+tile.vxl_mp:cobblestone_fence_gate.name=조약돌 울타리 게이트
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=이끼 낀 조약돌 울타리 게이트
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=자갈이 깔린 깊은슬레이트 울타리 문
+
+tile.vxl_mp:prismarine_brick_wall.name=프리즈머린 벽돌 벽
+tile.vxl_mp:dark_prismarine_wall.name=다크 프리즈머린 벽
+
+tile.vxl_mp:copper_bars.name=구리 바
+tile.vxl_mp:exposed_copper_bars.name=노출된 구리 바
+tile.vxl_mp:oxidized_copper_bars.name=산화된 구리 바
+tile.vxl_mp:weathered_copper_bars.name=풍화된 구리 막대
+
+item.vxl_mp:cooked_egg=삶은 계란
+
+acm.vxl_mp.pack_name=§3누락된 조각
+acm.vxl_mp.author_name=돈테데프
+acm.vxl_mp.description=바닐라에 있어야 할 일련의 누락된 블록, 아이템 및 레시피.
+
+acm.vxl_mp.guide.title=§l§3누락된 조각 안내!§r
+acm.vxl_mp.guide.recipes.title=§5레시피
+acm.vxl_mp.guide.recipes.desc=- 제작 가능한 안장.
+acm.vxl_mp.guide.items.title=§6아이템
+acm.vxl_mp.guide.items.desc=- 삶은 계란.
+acm.vxl_mp.guide.blocks.title=§4블록§r
+acm.vxl_mp.guide.ac.title=§l§2- 아카시아:§r
+acm.vxl_mp.guide.ac.desc=§o아카시아 책장, 아카시아 사다리, 아카시아 통나무 석판, 아카시아 벽.§r
+acm.vxl_mp.guide.bi.title=§l§2- 자작나무:§r
+acm.vxl_mp.guide.bi.desc=§o자작나무 책장, 자작나무 사다리, 자작나무 통나무 반판, 자작나무 벽.§r
+acm.vxl_mp.guide.ch.title=§l§2- 체리:§r
+acm.vxl_mp.guide.ch.desc=§o체리 책장, 체리 사다리, 체리 통나무 반판, 체리 벽.§r
+acm.vxl_mp.guide.cr.title=§l§2- 크림슨:§r
+acm.vxl_mp.guide.cr.desc=§o진홍빛 책장, 진홍빛 사다리, 진홍빛 줄기 반판, 진홍빛 벽.§r
+acm.vxl_mp.guide.do.title=§l§2- 다크 오크:§r
+acm.vxl_mp.guide.do.desc=§o짙은 참나무 책장, 짙은 참나무 사다리, 짙은 참나무 통나무 반판, 짙은 참나무 벽.§r
+acm.vxl_mp.guide.ju.title=§l§2- 정글:§r
+acm.vxl_mp.guide.ju.desc=§o정글 책장, 정글 사다리, 정글 통나무 반 블록, 정글 벽.§r
+acm.vxl_mp.guide.ma.title=§l§2- 맹그로브:§r
+acm.vxl_mp.guide.ma.desc=§o맹그로브 책장, 맹그로브 사다리, 맹그로브 통나무 석판, 맹그로브 벽.§r
+acm.vxl_mp.guide.oak.title=§l§2- 참나무:§r
+acm.vxl_mp.guide.oak.desc=§o참나무 사다리, 참나무 통나무 석판, 참나무 벽.§r
+acm.vxl_mp.guide.po.title=§l§2- 창백한 참나무:§r
+acm.vxl_mp.guide.po.desc=§o창백한 참나무 책장, 창백한 참나무 사다리, 창백한 참나무 통나무 반판, 창백한 참나무 벽.§r
+acm.vxl_mp.guide.sp.title=§l§2- 가문비나무:§r
+acm.vxl_mp.guide.sp.desc=§o가문비나무 책장, 가문비나무 사다리, 가문비나무 통나무 반판, 가문비나무 벽.§r
+acm.vxl_mp.guide.wa.title=§l§2- 뒤틀림:§r
+acm.vxl_mp.guide.wa.desc=§o뒤틀린 책장, 뒤틀린 사다리, 뒤틀린 줄기 반 블록, 뒤틀린 벽.§r
+acm.vxl_mp.guide.cd.title=§l§2- 자갈이 깔린 심판:§r
+acm.vxl_mp.guide.cd.desc=§o자갈이 깊은 슬레이트 울타리 및 울타리 문.§r
+acm.vxl_mp.guide.cb.title=§l§2- 조약돌:§r
+acm.vxl_mp.guide.cb.desc=§o조약돌 울타리 및 울타리 문.§r
+acm.vxl_mp.guide.mc.title=§l§2- 이끼 낀 조약돌:§r
+acm.vxl_mp.guide.mc.desc=§o이끼 낀 조약돌 울타리 및 울타리 문.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- 다크 프리즈머린:§r
+acm.vxl_mp.guide.da_pr.desc=§o다크 프리즈머린 벽.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- 프리즈머린 브릭:§r
+acm.vxl_mp.guide.pr_br.desc=§o프리즈마린 벽돌 벽.§r
+acm.vxl_mp.guide.co.title=§l§2- 구리:§r
+acm.vxl_mp.guide.co.desc=§o구리 막대.§r

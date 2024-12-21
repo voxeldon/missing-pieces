@@ -1,0 +1,126 @@
+pack.name=Відсутні частини
+pack.description=Відсутні частини
+
+tile.vxl_core:artisan_table.name=Ремісничий стіл
+
+tile.vxl_mp:acacia_log_slab.name=Плита з акації
+tile.vxl_mp:birch_log_slab.name=Березовий брус
+tile.vxl_mp:cherry_log_slab.name=Вишнева колода
+tile.vxl_mp:crimson_stem_slab.name=Багряна стовбурова плита
+tile.vxl_mp:dark_oak_log_slab.name= Дерев'яна плита темного дуба 
+tile.vxl_mp:jungle_log_slab.name=Плита джунглів 
+tile.vxl_mp:mangrove_log_slab.name=Mangrove Log Slab
+tile.vxl_mp:oak_log_slab.name=Дубова дерев'яна плита
+tile.vxl_mp:pale_oak_log_slab.name=Дерев'яна плита з блідого дуба
+tile.vxl_mp:spruce_log_slab.name=Плита з бруса ялини
+tile.vxl_mp:warped_stem_slab.name=Деформована стовбурова плита
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Плита з колод акації
+tile.vxl_mp:stripped_birch_log_slab.name=Обрізана березова колода
+tile.vxl_mp:stripped_cherry_log_slab.name=Вишнева дерев'яна плита
+tile.vxl_mp:stripped_crimson_stem_slab.name=Плита багряного стебла
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Дерев'яна плита з темного дуба 
+tile.vxl_mp:stripped_jungle_log_slab.name=Зачищена дерев'яна плита джунглів 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Плита з колод мангрового дерева
+tile.vxl_mp:stripped_oak_log_slab.name=Плита з оголеної дубової колоди
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Дерев'яна плита з блідого дуба
+tile.vxl_mp:stripped_spruce_log_slab.name=Плита з обрізаної ялини
+tile.vxl_mp:stripped_warped_stem_slab.name=Зачищена викривлена ​​плита стовбура
+
+tile.vxl_mp:acacia_ladder.name=Сходи з акації
+tile.vxl_mp:birch_ladder.name=Березові сходи
+tile.vxl_mp:cherry_ladder.name=Вишнева драбина
+tile.vxl_mp:crimson_ladder.name=Багряна драбина
+tile.vxl_mp:dark_oak_ladder.name= Сходи темного дуба 
+tile.vxl_mp:jungle_ladder.name=Сходи джунглів 
+tile.vxl_mp:mangrove_ladder.name=Мангрові сходи
+tile.vxl_mp:oak_ladder.name=Дубова драбина
+tile.vxl_mp:pale_oak_ladder.name=Драбина з блідого дуба
+tile.vxl_mp:spruce_ladder.name=Ялина Сходи
+tile.vxl_mp:warped_ladder.name=Викривлена ​​драбина
+
+tile.vxl_mp:acacia_bookshelf.name=Книжкова полиця з акації
+tile.vxl_mp:birch_bookshelf.name=Береза ​​Книжкова полиця
+tile.vxl_mp:cherry_bookshelf.name=Вишнева книжкова полиця
+tile.vxl_mp:crimson_bookshelf.name=Багряна книжкова полиця
+tile.vxl_mp:dark_oak_bookshelf.name= Книжкова полиця з темного дуба 
+tile.vxl_mp:jungle_bookshelf.name=Книжкова полиця джунглів 
+tile.vxl_mp:mangrove_bookshelf.name=Мангрова книжкова полиця
+tile.vxl_mp:pale_oak_bookshelf.name=Книжкова полиця з блідого дуба
+tile.vxl_mp:spruce_bookshelf.name=Ялина Книжкова полиця
+tile.vxl_mp:warped_bookshelf.name=Викривлена ​​книжкова полиця
+
+tile.vxl_mp:acacia_wall.name=Акацієва стіна
+tile.vxl_mp:birch_wall.name=Березова стіна
+tile.vxl_mp:cherry_wall.name=Вишнева стіна
+tile.vxl_mp:crimson_wall.name=Багряна стіна
+tile.vxl_mp:dark_oak_wall.name= Стіна темного дуба 
+tile.vxl_mp:jungle_wall.name=Стіна джунглів 
+tile.vxl_mp:mangrove_wall.name=Мангрова стіна
+tile.vxl_mp:oak_wall.name=Дубова стіна
+tile.vxl_mp:pale_oak_wall.name=Бліда дубова стіна
+tile.vxl_mp:spruce_wall.name=Стіна ялина
+tile.vxl_mp:warped_wall.name=Викривлена ​​стіна
+
+tile.vxl_mp:cobblestone_fence.name=Паркан з бруківки
+tile.vxl_mp:mossy_cobblestone_fence.name=Моховий кругляний паркан
+tile.vxl_mp:cobbled_deepslate_fence.name=Брукована огорожа Deepslate
+
+tile.vxl_mp:cobblestone_fence_gate.name=Ворота паркану з бруківки
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Ворота паркану з мохової бруківки
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Ворота паркану з бруківки
+
+tile.vxl_mp:prismarine_brick_wall.name=Prismarine Brick Wall
+tile.vxl_mp:dark_prismarine_wall.name=Стіна темного призмарина
+
+tile.vxl_mp:copper_bars.name=Мідні злитки
+tile.vxl_mp:exposed_copper_bars.name=Оголені мідні злитки
+tile.vxl_mp:oxidized_copper_bars.name=Оксидовані мідні злитки
+tile.vxl_mp:weathered_copper_bars.name=Вивітрені мідні злитки
+
+item.vxl_mp:cooked_egg=Варене яйце
+
+acm.vxl_mp.pack_name=§3 Відсутні частини
+acm.vxl_mp.author_name=Донтедев
+acm.vxl_mp.description=Серія відсутніх блоків, предметів і рецептів, які повинні бути ванільними.
+
+acm.vxl_mp.guide.title=§l§3 Посібник із відсутніми елементами!§r
+acm.vxl_mp.guide.recipes.title=§5 Рецепти
+acm.vxl_mp.guide.recipes.desc=- Крафтові сідла.
+acm.vxl_mp.guide.items.title=§6 Предмети
+acm.vxl_mp.guide.items.desc=- Варене яйце.
+acm.vxl_mp.guide.blocks.title=§4Блоки§r
+acm.vxl_mp.guide.ac.title=§l§2- Акація:§r
+acm.vxl_mp.guide.ac.desc=§oКнижкова полиця з акації, драбина з акації, колода з акації, стіна з акації.§r
+acm.vxl_mp.guide.bi.title=§l§2- Береза:§r
+acm.vxl_mp.guide.bi.desc=§oКнижкова полиця з берези, березова драбина, плита з березової колоди, березова стіна.§r
+acm.vxl_mp.guide.ch.title=§l§2- Вишня:§r
+acm.vxl_mp.guide.ch.desc=§oВишнева полиця, вишнева драбина, вишнева колода, вишнева стіна.§r
+acm.vxl_mp.guide.cr.title=§l§2- Багряний:§r
+acm.vxl_mp.guide.cr.desc=§oБагряна книжкова полиця, Багряна драбина, Багряна плита стебла, Багряна стіна.§r
+acm.vxl_mp.guide.do.title=§l§2- Темний дуб:§r
+acm.vxl_mp.guide.do.desc=§oКнижкова полиця з темного дуба, драбина з темного дуба, колода з темного дуба, стіна з темного дуба.§r
+acm.vxl_mp.guide.ju.title=§l§2- Джунглі:§r
+acm.vxl_mp.guide.ju.desc=§oКнижкова полиця в джунглях, драбина в джунглях, плита колоди в джунглях, стіна в джунглях.§r
+acm.vxl_mp.guide.ma.title=§l§2- Мангрові ліси:§r
+acm.vxl_mp.guide.ma.desc=§oКнижкова полиця з мангрового дерева, драбина з мангрового дерева, плита з колоди з мангрового дерева, стіна з мангрового дерева.§r
+acm.vxl_mp.guide.oak.title=§l§2- Дуб:§r
+acm.vxl_mp.guide.oak.desc=§oДубова драбина, дубова колода, дубова стіна.§р
+acm.vxl_mp.guide.po.title=§l§2- Блідий дуб:§r
+acm.vxl_mp.guide.po.desc=§oКнижкова полиця з блідого дуба, драбина з блідого дуба, дерев'яна плита з блідого дуба, стіна з блідого дуба.§r
+acm.vxl_mp.guide.sp.title=§l§2- Ялина:§r
+acm.vxl_mp.guide.sp.desc=§oКнижкова полиця з ялини, драбина з ялини, плита з колоди з ялини, стіна з ялини.§r
+acm.vxl_mp.guide.wa.title=§l§2- Деформований:§r
+acm.vxl_mp.guide.wa.desc=§oВикривлена ​​книжкова полиця, викривлена ​​драбина, викривлена ​​плита стрижня, викривлена ​​стіна.§r
+acm.vxl_mp.guide.cd.title=§l§2- Брукована плита:§r
+acm.vxl_mp.guide.cd.desc=§oБрукована плитна огорожа та ворота.§r
+acm.vxl_mp.guide.cb.title=§l§2- Бруківка:§r
+acm.vxl_mp.guide.cb.desc=§oБрукована огорожа та ворота.§r
+acm.vxl_mp.guide.mc.title=§l§2- Мохова бруківка:§r
+acm.vxl_mp.guide.mc.desc=§oМоховий кругляний паркан і ворота для паркану.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Темний призмарин:§r
+acm.vxl_mp.guide.da_pr.desc=§oТемна призмаринова стіна.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Prismarine Brick:§r
+acm.vxl_mp.guide.pr_br.desc=§oPrismarine Brick Wall.§r
+acm.vxl_mp.guide.co.title=§l§2- Мідь:§r
+acm.vxl_mp.guide.co.desc=§oМідні злитки.§r

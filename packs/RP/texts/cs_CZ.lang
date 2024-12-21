@@ -1,0 +1,126 @@
+pack.name=Chybějící kusy
+pack.description=Chybějící kusy
+
+tile.vxl_core:artisan_table.name=Řemeslnický stůl
+
+tile.vxl_mp:acacia_log_slab.name=Akátová kulatá deska
+tile.vxl_mp:birch_log_slab.name=Březová kulatá deska
+tile.vxl_mp:cherry_log_slab.name=Třešňová kulatá deska
+tile.vxl_mp:crimson_stem_slab.name=Karmínová kmenová deska
+tile.vxl_mp:dark_oak_log_slab.name= Dřevěná deska z tmavého dubu 
+tile.vxl_mp:jungle_log_slab.name=Deska z džungle 
+tile.vxl_mp:mangrove_log_slab.name=Deska z mangrovových klád
+tile.vxl_mp:oak_log_slab.name=Dubová kulatá deska
+tile.vxl_mp:pale_oak_log_slab.name=Dřevěná dubová deska
+tile.vxl_mp:spruce_log_slab.name=Smrková kulatá deska
+tile.vxl_mp:warped_stem_slab.name=Deformovaná kmenová deska
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Odizolovaná akátová kulatá deska
+tile.vxl_mp:stripped_birch_log_slab.name=Obnažená březová kulatá deska
+tile.vxl_mp:stripped_cherry_log_slab.name=Odizolovaná třešňová kulatá deska
+tile.vxl_mp:stripped_crimson_stem_slab.name=Odizolovaná karmínová kmenová deska
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Dřevěná deska z tmavého dubu 
+tile.vxl_mp:stripped_jungle_log_slab.name=Odizolovaná deska z džungle 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Odizolovaná mangrovová kulatá deska
+tile.vxl_mp:stripped_oak_log_slab.name=Dřevěná deska z dubového dřeva
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Dřevěná kulatá deska z světlého dubu
+tile.vxl_mp:stripped_spruce_log_slab.name=Odizolovaná smrková kulatá deska
+tile.vxl_mp:stripped_warped_stem_slab.name=Odizolovaná pokroucená kmenová deska
+
+tile.vxl_mp:acacia_ladder.name=Akátový žebřík
+tile.vxl_mp:birch_ladder.name=Březový žebřík
+tile.vxl_mp:cherry_ladder.name=Třešňový žebřík
+tile.vxl_mp:crimson_ladder.name=Karmínový žebřík
+tile.vxl_mp:dark_oak_ladder.name= Tmavý dub žebřík 
+tile.vxl_mp:jungle_ladder.name=Žebřík z džungle 
+tile.vxl_mp:mangrove_ladder.name=Mangrovníkový žebřík
+tile.vxl_mp:oak_ladder.name=Dubový žebřík
+tile.vxl_mp:pale_oak_ladder.name=Světlý dubový žebřík
+tile.vxl_mp:spruce_ladder.name=Smrkový žebřík
+tile.vxl_mp:warped_ladder.name=Pokřivený žebřík
+
+tile.vxl_mp:acacia_bookshelf.name=Knihovnička z akátu
+tile.vxl_mp:birch_bookshelf.name=Březová knihovnička
+tile.vxl_mp:cherry_bookshelf.name=Knihovnička Cherry
+tile.vxl_mp:crimson_bookshelf.name=Karmínová knihovnička
+tile.vxl_mp:dark_oak_bookshelf.name= Knihovna z tmavého dubu 
+tile.vxl_mp:jungle_bookshelf.name=Knihovna džungle 
+tile.vxl_mp:mangrove_bookshelf.name=Mangrovová knihovna
+tile.vxl_mp:pale_oak_bookshelf.name=Knihovna z světlého dubu
+tile.vxl_mp:spruce_bookshelf.name=Smrková knihovna
+tile.vxl_mp:warped_bookshelf.name=Pokřivená knihovna
+
+tile.vxl_mp:acacia_wall.name=Akátová stěna
+tile.vxl_mp:birch_wall.name=Březová zeď
+tile.vxl_mp:cherry_wall.name=Třešňová zeď
+tile.vxl_mp:crimson_wall.name=Karmínová zeď
+tile.vxl_mp:dark_oak_wall.name= Tmavá dubová stěna 
+tile.vxl_mp:jungle_wall.name=Zeď džungle 
+tile.vxl_mp:mangrove_wall.name=Mangrovová zeď
+tile.vxl_mp:oak_wall.name=Dubová stěna
+tile.vxl_mp:pale_oak_wall.name=Světlá dubová stěna
+tile.vxl_mp:spruce_wall.name=Smrková zeď
+tile.vxl_mp:warped_wall.name=Pokřivená zeď
+
+tile.vxl_mp:cobblestone_fence.name=Dlážděný plot
+tile.vxl_mp:mossy_cobblestone_fence.name=Mechový dlážděný plot
+tile.vxl_mp:cobbled_deepslate_fence.name=Dlážděné Deepslate Plot
+
+tile.vxl_mp:cobblestone_fence_gate.name=Brána z dlážděného plotu
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Brána z mechového dlážděného plotu
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Brána dlážděného plotu Deepslate
+
+tile.vxl_mp:prismarine_brick_wall.name=Prismarine Cihlová zeď
+tile.vxl_mp:dark_prismarine_wall.name=Dark Prismarine Wall
+
+tile.vxl_mp:copper_bars.name=Měděné tyče
+tile.vxl_mp:exposed_copper_bars.name=Odkryté měděné tyče
+tile.vxl_mp:oxidized_copper_bars.name=Tyčinky z oxidované mědi
+tile.vxl_mp:weathered_copper_bars.name=Zvětralé měděné tyče
+
+item.vxl_mp:cooked_egg=Vařené vejce
+
+acm.vxl_mp.pack_name=§3 Chybějící kusy
+acm.vxl_mp.author_name=Dontheděv
+acm.vxl_mp.description=Série chybějících bloků, předmětů a receptů, které by měly být ve vanilce.
+
+acm.vxl_mp.guide.title=§l§3Průvodce chybějícími díly!§r
+acm.vxl_mp.guide.recipes.title=§5 Recepty
+acm.vxl_mp.guide.recipes.desc=- Řemeslná sedla.
+acm.vxl_mp.guide.items.title=§6Položky
+acm.vxl_mp.guide.items.desc=- Vařené vejce.
+acm.vxl_mp.guide.blocks.title=§4Blocks§r
+acm.vxl_mp.guide.ac.title=§l§2- Akát:§r
+acm.vxl_mp.guide.ac.desc=§oAkátová knihovna, žebřík z akátu, deska z akátu, zeď z akátu.§r
+acm.vxl_mp.guide.bi.title=§l§2- Bříza:§r
+acm.vxl_mp.guide.bi.desc=§oBřezová knihovna, březový žebřík, březová kulatá deska, březová stěna.§r
+acm.vxl_mp.guide.ch.title=§l§2- Třešeň:§r
+acm.vxl_mp.guide.ch.desc=§oPolička na knihy z třešní, žebřík z třešní, deska z třešňového kmene, zeď z třešní.§r
+acm.vxl_mp.guide.cr.title=§l§2- Crimson:§r
+acm.vxl_mp.guide.cr.desc=§oCrimson Bookshell, Crimson Ladder, Crimson Stem Slab, Crimson Wall.§r
+acm.vxl_mp.guide.do.title=§l§2- Dub tmavý:§r
+acm.vxl_mp.guide.do.desc=§o Knihovna z tmavého dubu, žebřík z tmavého dubu, srubová deska z tmavého dubu, stěna z tmavého dubu.§r
+acm.vxl_mp.guide.ju.title=§l§2- Džungle:§r
+acm.vxl_mp.guide.ju.desc=§o Knihovna džungle, žebřík v džungli, deska z džungle, stěna z džungle.§r
+acm.vxl_mp.guide.ma.title=§l§2- Mangrove:§r
+acm.vxl_mp.guide.ma.desc=§oPolička na mangrovníky, žebřík z mangrovů, deska z mangrovových klád, mangrovová zeď.§r
+acm.vxl_mp.guide.oak.title=§l§2- Dub:§r
+acm.vxl_mp.guide.oak.desc=§oDubový žebřík, Dubová kulatá deska, Dubová stěna.§r
+acm.vxl_mp.guide.po.title=§l§2- Světlý dub:§r
+acm.vxl_mp.guide.po.desc=§o Knihovna z světlého dubu, žebřík z světlého dubu, srubová deska z světlého dubu, zeď z světlého dubu.§r
+acm.vxl_mp.guide.sp.title=§l§2- Smrk:§r
+acm.vxl_mp.guide.sp.desc=§oSmrková knihovna, Smrkový žebřík, Smrková kulatá deska, Smrková stěna.§r
+acm.vxl_mp.guide.wa.title=§l§2- Pokřivený:§r
+acm.vxl_mp.guide.wa.desc=§oPokřivená knihovna, pokřivený žebřík, pokřivená deska kmene, pokřivená stěna.§r
+acm.vxl_mp.guide.cd.title=§l§2- Cobbled Deepslate:§r
+acm.vxl_mp.guide.cd.desc=§oCobbled Deepslate Fence & Fence Gate.§r
+acm.vxl_mp.guide.cb.title=§l§2- Dlažební kámen:§r
+acm.vxl_mp.guide.cb.desc=§oDlažební plot a plotová brána.§r
+acm.vxl_mp.guide.mc.title=§l§2- Mechový dlažební kámen:§r
+acm.vxl_mp.guide.mc.desc=§oMossy Cobblestone Fence & Fence Gate.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Dark Prismarine:§r
+acm.vxl_mp.guide.da_pr.desc=§oDark Prismarine Wall.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Prismarine Brick:§r
+acm.vxl_mp.guide.pr_br.desc=§oPrismarine Cihlová zeď.§r
+acm.vxl_mp.guide.co.title=§l§2- Měď:§r
+acm.vxl_mp.guide.co.desc=§oMěděné tyče.§r

@@ -1,0 +1,126 @@
+pack.name=Peças faltando
+pack.description=Peças faltando
+
+tile.vxl_core:artisan_table.name=Mesa Artesanal
+
+tile.vxl_mp:acacia_log_slab.name=Laje de toras de acácia
+tile.vxl_mp:birch_log_slab.name=Laje de toras de bétula
+tile.vxl_mp:cherry_log_slab.name=Laje de toras de cereja
+tile.vxl_mp:crimson_stem_slab.name=Laje de caule carmesim
+tile.vxl_mp:dark_oak_log_slab.name= Laje de toras de carvalho escuro 
+tile.vxl_mp:jungle_log_slab.name=Laje de toras de selva 
+tile.vxl_mp:mangrove_log_slab.name=Laje de toras de mangue
+tile.vxl_mp:oak_log_slab.name=Laje de toras de carvalho
+tile.vxl_mp:pale_oak_log_slab.name=Laje de toras de carvalho pálido
+tile.vxl_mp:spruce_log_slab.name=Laje de toras de abeto
+tile.vxl_mp:warped_stem_slab.name=Laje de Haste Deformada
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Laje de toras de acácia descascada
+tile.vxl_mp:stripped_birch_log_slab.name=Laje de toras de bétula descascada
+tile.vxl_mp:stripped_cherry_log_slab.name=Laje de toras de cereja descascada
+tile.vxl_mp:stripped_crimson_stem_slab.name=Laje de haste carmesim descascada
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Laje de toras de carvalho escuro descascado 
+tile.vxl_mp:stripped_jungle_log_slab.name=Laje de toras de selva descascada 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Laje de toras de mangue descascada
+tile.vxl_mp:stripped_oak_log_slab.name=Laje de toras de carvalho descascado
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Laje de toras de carvalho claro descascado
+tile.vxl_mp:stripped_spruce_log_slab.name=Laje de toras de abeto descascado
+tile.vxl_mp:stripped_warped_stem_slab.name=Laje de haste deformada despojada
+
+tile.vxl_mp:acacia_ladder.name=Escada de Acácia
+tile.vxl_mp:birch_ladder.name=Escada de Bétula
+tile.vxl_mp:cherry_ladder.name=Escada de cereja
+tile.vxl_mp:crimson_ladder.name=Escada Carmesim
+tile.vxl_mp:dark_oak_ladder.name= Escada de Carvalho Escuro 
+tile.vxl_mp:jungle_ladder.name=Escada da Selva 
+tile.vxl_mp:mangrove_ladder.name=Escada de mangue
+tile.vxl_mp:oak_ladder.name=Escada de Carvalho
+tile.vxl_mp:pale_oak_ladder.name=Escada de Carvalho Pálido
+tile.vxl_mp:spruce_ladder.name=Escada de abeto
+tile.vxl_mp:warped_ladder.name=Escada Deformada
+
+tile.vxl_mp:acacia_bookshelf.name=Estante de Acácia
+tile.vxl_mp:birch_bookshelf.name=Estante de bétula
+tile.vxl_mp:cherry_bookshelf.name=Estante Cereja
+tile.vxl_mp:crimson_bookshelf.name=Estante Carmesim
+tile.vxl_mp:dark_oak_bookshelf.name= Estante de carvalho escuro 
+tile.vxl_mp:jungle_bookshelf.name=Estante Selva 
+tile.vxl_mp:mangrove_bookshelf.name=Estante Mangue
+tile.vxl_mp:pale_oak_bookshelf.name=Estante de carvalho claro
+tile.vxl_mp:spruce_bookshelf.name=Estante de abeto
+tile.vxl_mp:warped_bookshelf.name=Estante Deformada
+
+tile.vxl_mp:acacia_wall.name=Parede de Acácia
+tile.vxl_mp:birch_wall.name=Parede de bétula
+tile.vxl_mp:cherry_wall.name=Parede Cereja
+tile.vxl_mp:crimson_wall.name=Parede Carmesim
+tile.vxl_mp:dark_oak_wall.name= Parede de carvalho escuro 
+tile.vxl_mp:jungle_wall.name=Parede da Selva 
+tile.vxl_mp:mangrove_wall.name=Muro de Mangue
+tile.vxl_mp:oak_wall.name=Parede de carvalho
+tile.vxl_mp:pale_oak_wall.name=Parede de carvalho claro
+tile.vxl_mp:spruce_wall.name=Parede de abeto
+tile.vxl_mp:warped_wall.name=Parede Deformada
+
+tile.vxl_mp:cobblestone_fence.name=Cerca de paralelepípedos
+tile.vxl_mp:mossy_cobblestone_fence.name=Cerca de paralelepípedo coberto de musgo
+tile.vxl_mp:cobbled_deepslate_fence.name=Cerca de ardósia de paralelepípedos
+
+tile.vxl_mp:cobblestone_fence_gate.name=Portão de cerca de paralelepípedos
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Portão de cerca de paralelepípedo coberto de musgo
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Portão de cerca de ardósia paralelepípedo
+
+tile.vxl_mp:prismarine_brick_wall.name=Parede de tijolos prismarinos
+tile.vxl_mp:dark_prismarine_wall.name=Parede Prismarina Escura
+
+tile.vxl_mp:copper_bars.name=Barras de cobre
+tile.vxl_mp:exposed_copper_bars.name=Barras de cobre expostas
+tile.vxl_mp:oxidized_copper_bars.name=Barras de cobre oxidado
+tile.vxl_mp:weathered_copper_bars.name=Barras de cobre resistidas
+
+item.vxl_mp:cooked_egg=Ovo Cozido
+
+acm.vxl_mp.pack_name=§3Peças faltantes
+acm.vxl_mp.author_name=Donthedev
+acm.vxl_mp.description=Uma série de blocos, itens e receitas ausentes que deveriam estar no vanilla.
+
+acm.vxl_mp.guide.title=§l§3Guia das peças que faltam!§r
+acm.vxl_mp.guide.recipes.title=§5Receitas
+acm.vxl_mp.guide.recipes.desc=- Selas artesanais.
+acm.vxl_mp.guide.items.title=§6Itens
+acm.vxl_mp.guide.items.desc=- Ovo Cozido.
+acm.vxl_mp.guide.blocks.title=§4Blocos§r
+acm.vxl_mp.guide.ac.title=§l§2- Acácia:§r
+acm.vxl_mp.guide.ac.desc=§oEstante de acácia, escada de acácia, laje de toras de acácia, parede de acácia.§r
+acm.vxl_mp.guide.bi.title=§l§2- Bétula:§r
+acm.vxl_mp.guide.bi.desc=§oEstante de bétula, escada de bétula, laje de toras de bétula, parede de bétula.§r
+acm.vxl_mp.guide.ch.title=§l§2- Cereja:§r
+acm.vxl_mp.guide.ch.desc=§oEstante de cerejeira, escada de cerejeira, laje de toras de cerejeira, parede de cerejeira.§r
+acm.vxl_mp.guide.cr.title=§l§2- Carmesim:§r
+acm.vxl_mp.guide.cr.desc=§oEstante Carmesim, Escada Carmesim, Laje de Haste Carmesim, Parede Carmesim.§r
+acm.vxl_mp.guide.do.title=§l§2- Carvalho Escuro:§r
+acm.vxl_mp.guide.do.desc=§oEstante de carvalho escuro, escada de carvalho escuro, laje de toras de carvalho escuro, parede de carvalho escuro.§r
+acm.vxl_mp.guide.ju.title=§l§2- Selva:§r
+acm.vxl_mp.guide.ju.desc=§oEstante da selva, escada da selva, laje de toras da selva, parede da selva.§r
+acm.vxl_mp.guide.ma.title=§l§2- Mangue:§r
+acm.vxl_mp.guide.ma.desc=§oEstante de Mangue, Escada de Mangue, Laje de Tronco de Mangue, Parede de Mangue.§r
+acm.vxl_mp.guide.oak.title=§l§2- Carvalho:§r
+acm.vxl_mp.guide.oak.desc=§oEscada de carvalho, laje de tronco de carvalho, parede de carvalho.§r
+acm.vxl_mp.guide.po.title=§l§2- Carvalho Pálido:§r
+acm.vxl_mp.guide.po.desc=§oEstante de carvalho pálido, escada de carvalho pálido, laje de toras de carvalho pálido, parede de carvalho pálido.§r
+acm.vxl_mp.guide.sp.title=§l§2- Abeto:§r
+acm.vxl_mp.guide.sp.desc=§oEstante de abeto, escada de abeto, laje de toras de abeto, parede de abeto.§r
+acm.vxl_mp.guide.wa.title=§l§2- Deformado:§r
+acm.vxl_mp.guide.wa.desc=§oEstante empenada, escada empenada, laje de haste empenada, parede empenada.§r
+acm.vxl_mp.guide.cd.title=§l§2- Ardósia Paralelepípeda:§r
+acm.vxl_mp.guide.cd.desc=§oCerca de ardósia e portão de paralelepípedos.§r
+acm.vxl_mp.guide.cb.title=§l§2- Paralelepípedo:§r
+acm.vxl_mp.guide.cb.desc=§oCerca de paralelepípedos e portão de vedação.§r
+acm.vxl_mp.guide.mc.title=§l§2- Paralelepípedo musgoso:§r
+acm.vxl_mp.guide.mc.desc=§oCerca de paralelepípedos coberta de musgo e portão de vedação.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Prismarino Escuro:§r
+acm.vxl_mp.guide.da_pr.desc=§oParede Prismarina Escura.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Tijolo Prismarino:§r
+acm.vxl_mp.guide.pr_br.desc=§oParede de tijolos prismarinos.§r
+acm.vxl_mp.guide.co.title=§l§2- Cobre:§r
+acm.vxl_mp.guide.co.desc=§oBarras de Cobre.§r

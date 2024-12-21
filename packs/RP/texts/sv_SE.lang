@@ -1,0 +1,126 @@
+pack.name=Saknade bitar
+pack.description=Saknade bitar
+
+tile.vxl_core:artisan_table.name=Hantverksbord
+
+tile.vxl_mp:acacia_log_slab.name=Acacia timmerplatta
+tile.vxl_mp:birch_log_slab.name=Björk timmerplatta
+tile.vxl_mp:cherry_log_slab.name=Körsbärsstockskiva
+tile.vxl_mp:crimson_stem_slab.name=Crimson stamplatta
+tile.vxl_mp:dark_oak_log_slab.name= Timmerplatta av mörk ek 
+tile.vxl_mp:jungle_log_slab.name=Djungelloggskiva 
+tile.vxl_mp:mangrove_log_slab.name=Mangrove timmerplatta
+tile.vxl_mp:oak_log_slab.name=Ek timmerplatta
+tile.vxl_mp:pale_oak_log_slab.name=Blek ek timmerplatta
+tile.vxl_mp:spruce_log_slab.name=Grantimmerplatta
+tile.vxl_mp:warped_stem_slab.name=Skev stamplatta
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Avskalad akacialoggplatta
+tile.vxl_mp:stripped_birch_log_slab.name=Avskalad björkstockskiva
+tile.vxl_mp:stripped_cherry_log_slab.name=Avskalad Cherry Log Slab
+tile.vxl_mp:stripped_crimson_stem_slab.name=Avskalad Crimson Stamplatta
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Avskalad mörk ek timmerplatta 
+tile.vxl_mp:stripped_jungle_log_slab.name=Avskalad djungelstock 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Avskalad mangrove timmerplatta
+tile.vxl_mp:stripped_oak_log_slab.name=Skalad ektimmerplatta
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Skalad blek ek timmerplatta
+tile.vxl_mp:stripped_spruce_log_slab.name=Avskalad grantimmerplatta
+tile.vxl_mp:stripped_warped_stem_slab.name=Avskalad skev stamplatta
+
+tile.vxl_mp:acacia_ladder.name=Acacia stege
+tile.vxl_mp:birch_ladder.name=Björkstege
+tile.vxl_mp:cherry_ladder.name=Körsbärsstege
+tile.vxl_mp:crimson_ladder.name=Crimson stege
+tile.vxl_mp:dark_oak_ladder.name= Mörk ek stege 
+tile.vxl_mp:jungle_ladder.name=Djungelstege 
+tile.vxl_mp:mangrove_ladder.name=Mangrove stege
+tile.vxl_mp:oak_ladder.name=Ek Stege
+tile.vxl_mp:pale_oak_ladder.name=Stege av blek ek
+tile.vxl_mp:spruce_ladder.name=Gran Stege
+tile.vxl_mp:warped_ladder.name=Skev stege
+
+tile.vxl_mp:acacia_bookshelf.name=Acacia bokhylla
+tile.vxl_mp:birch_bookshelf.name=Bokhylla i björk
+tile.vxl_mp:cherry_bookshelf.name=Cherry bokhylla
+tile.vxl_mp:crimson_bookshelf.name=Crimson bokhylla
+tile.vxl_mp:dark_oak_bookshelf.name= Bokhylla i mörk ek 
+tile.vxl_mp:jungle_bookshelf.name=Djungelbokhylla 
+tile.vxl_mp:mangrove_bookshelf.name=Mangrove bokhylla
+tile.vxl_mp:pale_oak_bookshelf.name=Bokhylla i blek ek
+tile.vxl_mp:spruce_bookshelf.name=Bokhylla i gran
+tile.vxl_mp:warped_bookshelf.name=Skev bokhylla
+
+tile.vxl_mp:acacia_wall.name=Acacia vägg
+tile.vxl_mp:birch_wall.name=Björkvägg
+tile.vxl_mp:cherry_wall.name=Körsbärsvägg
+tile.vxl_mp:crimson_wall.name=Crimson Wall
+tile.vxl_mp:dark_oak_wall.name= Mörk ekvägg 
+tile.vxl_mp:jungle_wall.name=Djungelvägg 
+tile.vxl_mp:mangrove_wall.name=Mangrovevägg
+tile.vxl_mp:oak_wall.name=Ekvägg
+tile.vxl_mp:pale_oak_wall.name=Blek ekvägg
+tile.vxl_mp:spruce_wall.name=Granvägg
+tile.vxl_mp:warped_wall.name=Skev vägg
+
+tile.vxl_mp:cobblestone_fence.name=Kullerstensstaket
+tile.vxl_mp:mossy_cobblestone_fence.name=Mossigt kullerstensstaket
+tile.vxl_mp:cobbled_deepslate_fence.name=Kullerstensbelagt Deepslate staket
+
+tile.vxl_mp:cobblestone_fence_gate.name=Kullerstensstaketport
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Mossig kullerstensstaketport
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Cobbled Deepslate staketsport
+
+tile.vxl_mp:prismarine_brick_wall.name=Prismarin tegelvägg
+tile.vxl_mp:dark_prismarine_wall.name=Dark Prismarine Wall
+
+tile.vxl_mp:copper_bars.name=Kopparstänger
+tile.vxl_mp:exposed_copper_bars.name=Exponerade kopparstänger
+tile.vxl_mp:oxidized_copper_bars.name=Oxiderade kopparstänger
+tile.vxl_mp:weathered_copper_bars.name=Vittrade kopparstänger
+
+item.vxl_mp:cooked_egg=Kokt ägg
+
+acm.vxl_mp.pack_name=§3 Saknade bitar
+acm.vxl_mp.author_name=Donthedev
+acm.vxl_mp.description=En serie saknade block, föremål & recept som borde vara i vanilj.
+
+acm.vxl_mp.guide.title=§l§3 Saknade bitar Guide!§r
+acm.vxl_mp.guide.recipes.title=§5Recept
+acm.vxl_mp.guide.recipes.desc=- Hantverksbara sadlar.
+acm.vxl_mp.guide.items.title=§6Artiklar
+acm.vxl_mp.guide.items.desc=- Kokt ägg.
+acm.vxl_mp.guide.blocks.title=§4Blockar§r
+acm.vxl_mp.guide.ac.title=§l§2- Acacia:§r
+acm.vxl_mp.guide.ac.desc=§oAcacia bokhylla, Acacia Ladder, Acacia Log Slab, Acacia Wall.§r
+acm.vxl_mp.guide.bi.title=§l§2- Björk:§r
+acm.vxl_mp.guide.bi.desc=§oBjörkbokhylla, Björkstege, Björkstockskiva, Björkvägg.§r
+acm.vxl_mp.guide.ch.title=§l§2- Cherry:§r
+acm.vxl_mp.guide.ch.desc=§oCherry Bokhylla, Cherry Ladder, Cherry Log Slab, Cherry Wall.§r
+acm.vxl_mp.guide.cr.title=§l§2- Crimson:§r
+acm.vxl_mp.guide.cr.desc=§oCrimson bokhylla, Crimson Ladder, Crimson Stem Slab, Crimson Wall.§r
+acm.vxl_mp.guide.do.title=§l§2- Mörk Ek:§r
+acm.vxl_mp.guide.do.desc=§oBokhylla i mörk ek, stege av mörk ek, timmerplatta av mörk ek, vägg i mörk ek.§r
+acm.vxl_mp.guide.ju.title=§l§2- Djungel:§r
+acm.vxl_mp.guide.ju.desc=§oDjungelbokhylla, Djungelstege, Djungelstockskiva, Djungelvägg.§r
+acm.vxl_mp.guide.ma.title=§l§2- Mangrove:§r
+acm.vxl_mp.guide.ma.desc=§oMangrovebokhylla, Mangrovestege, Mangroveloggplatta, Mangrovevägg.§r
+acm.vxl_mp.guide.oak.title=§l§2- Ek:§r
+acm.vxl_mp.guide.oak.desc=§oEkstege, Ektimmerplatta, Ekvägg.§r
+acm.vxl_mp.guide.po.title=§l§2- Blek Ek:§r
+acm.vxl_mp.guide.po.desc=§oBlek ek bokhylla, blek ek stege, blek ek timmerplatta, blek ek vägg.§r
+acm.vxl_mp.guide.sp.title=§l§2- Gran:§r
+acm.vxl_mp.guide.sp.desc=§oSpruce bokhylla, granstege, grantimmerplatta, granvägg.§r
+acm.vxl_mp.guide.wa.title=§l§2- Skev:§r
+acm.vxl_mp.guide.wa.desc=§o Skev bokhylla, skev stege, skev stamplatta, skev vägg.§r
+acm.vxl_mp.guide.cd.title=§l§2- Cobbled Deepslate:§r
+acm.vxl_mp.guide.cd.desc=§oCobbled Deepslate Fence & Fence Gate.§r
+acm.vxl_mp.guide.cb.title=§l§2- Kullersten:§r
+acm.vxl_mp.guide.cb.desc=§oKlerstensstaket & staketport.§r
+acm.vxl_mp.guide.mc.title=§l§2- Mossig kullersten:§r
+acm.vxl_mp.guide.mc.desc=§oMossig kullerstensstaket & staketport.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Dark Prismarine:§r
+acm.vxl_mp.guide.da_pr.desc=§oDark Prismarine Wall.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Prismarintegel:§r
+acm.vxl_mp.guide.pr_br.desc=§oPrismarine tegelvägg.§r
+acm.vxl_mp.guide.co.title=§l§2- Koppar:§r
+acm.vxl_mp.guide.co.desc=§oKopparstänger.§r

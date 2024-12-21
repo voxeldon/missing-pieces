@@ -1,0 +1,126 @@
+pack.name=Eksik Parçalar
+pack.description=Eksik Parçalar
+
+tile.vxl_core:artisan_table.name=Esnaf Masası
+
+tile.vxl_mp:acacia_log_slab.name=Akasya Kütük Döşeme
+tile.vxl_mp:birch_log_slab.name=Huş Kütük Döşeme
+tile.vxl_mp:cherry_log_slab.name=Kiraz Kütük Döşeme
+tile.vxl_mp:crimson_stem_slab.name=Kızıl Kök Döşeme
+tile.vxl_mp:dark_oak_log_slab.name= Koyu Meşe Kütük Döşeme 
+tile.vxl_mp:jungle_log_slab.name=Orman Kütüğü Döşemesi 
+tile.vxl_mp:mangrove_log_slab.name=Mangrov Kütük Döşeme
+tile.vxl_mp:oak_log_slab.name=Meşe Kütük Döşeme
+tile.vxl_mp:pale_oak_log_slab.name=Soluk Meşe Kütük Döşeme
+tile.vxl_mp:spruce_log_slab.name=Ladin Kütük Döşeme
+tile.vxl_mp:warped_stem_slab.name=Çarpık Kök Döşeme
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Soyulmuş Akasya Kütük Döşeme
+tile.vxl_mp:stripped_birch_log_slab.name=Soyulmuş Huş Kütük Döşeme
+tile.vxl_mp:stripped_cherry_log_slab.name=Soyulmuş Kiraz Kütük Döşeme
+tile.vxl_mp:stripped_crimson_stem_slab.name=Soyulmuş Kızıl Kök Döşeme
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Soyulmuş Koyu Meşe Kütük Döşeme 
+tile.vxl_mp:stripped_jungle_log_slab.name=Soyulmuş Orman Kütük Döşeme 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Soyulmuş Mangrov Kütük Döşeme
+tile.vxl_mp:stripped_oak_log_slab.name=Soyulmuş Meşe Kütük Döşeme
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Soyulmuş Soluk Meşe Kütük Döşeme
+tile.vxl_mp:stripped_spruce_log_slab.name=Soyulmuş Ladin Kütük Döşeme
+tile.vxl_mp:stripped_warped_stem_slab.name=Soyulmuş Çarpık Kök Döşeme
+
+tile.vxl_mp:acacia_ladder.name=Akasya Merdiveni
+tile.vxl_mp:birch_ladder.name=Huş Merdiveni
+tile.vxl_mp:cherry_ladder.name=Kiraz Merdiveni
+tile.vxl_mp:crimson_ladder.name=Kızıl Merdiven
+tile.vxl_mp:dark_oak_ladder.name= Koyu Meşe Merdiveni 
+tile.vxl_mp:jungle_ladder.name=Orman Merdiveni 
+tile.vxl_mp:mangrove_ladder.name=Mangrov Merdiveni
+tile.vxl_mp:oak_ladder.name=Meşe Merdiveni
+tile.vxl_mp:pale_oak_ladder.name=Soluk Meşe Merdiveni
+tile.vxl_mp:spruce_ladder.name=Ladin Merdiveni
+tile.vxl_mp:warped_ladder.name=Çarpık Merdiven
+
+tile.vxl_mp:acacia_bookshelf.name=Akasya Kitaplık
+tile.vxl_mp:birch_bookshelf.name=Huş Kitaplık
+tile.vxl_mp:cherry_bookshelf.name=Kiraz Kitaplık
+tile.vxl_mp:crimson_bookshelf.name=Kızıl Kitaplık
+tile.vxl_mp:dark_oak_bookshelf.name= Koyu Meşe Kitaplık 
+tile.vxl_mp:jungle_bookshelf.name=Orman Kitaplığı 
+tile.vxl_mp:mangrove_bookshelf.name=Mangrov Kitaplığı
+tile.vxl_mp:pale_oak_bookshelf.name=Soluk Meşe Kitaplık
+tile.vxl_mp:spruce_bookshelf.name=Ladin Kitaplık
+tile.vxl_mp:warped_bookshelf.name=Çarpık Kitaplık
+
+tile.vxl_mp:acacia_wall.name=Akasya Duvarı
+tile.vxl_mp:birch_wall.name=Huş Duvarı
+tile.vxl_mp:cherry_wall.name=Kiraz Duvarı
+tile.vxl_mp:crimson_wall.name=Kızıl Duvar
+tile.vxl_mp:dark_oak_wall.name= Koyu Meşe Duvar 
+tile.vxl_mp:jungle_wall.name=Orman Duvarı 
+tile.vxl_mp:mangrove_wall.name=Mangrov Duvarı
+tile.vxl_mp:oak_wall.name=Meşe Duvarı
+tile.vxl_mp:pale_oak_wall.name=Soluk Meşe Duvar
+tile.vxl_mp:spruce_wall.name=Ladin Duvarı
+tile.vxl_mp:warped_wall.name=Çarpık Duvar
+
+tile.vxl_mp:cobblestone_fence.name=Arnavut kaldırımlı çit
+tile.vxl_mp:mossy_cobblestone_fence.name=Yosunlu Arnavut Kaldırımı Çiti
+tile.vxl_mp:cobbled_deepslate_fence.name=Arnavut kaldırımlı derin kayrak çit
+
+tile.vxl_mp:cobblestone_fence_gate.name=Arnavut kaldırımlı çit kapısı
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Yosunlu Arnavut Kaldırımı Çit Kapısı
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Arnavut kaldırımlı derin kayrak çit kapısı
+
+tile.vxl_mp:prismarine_brick_wall.name=Prizmarin Tuğla Duvar
+tile.vxl_mp:dark_prismarine_wall.name=Karanlık Prizmarin Duvar
+
+tile.vxl_mp:copper_bars.name=Bakır Çubuklar
+tile.vxl_mp:exposed_copper_bars.name=Açık Bakır Çubuklar
+tile.vxl_mp:oxidized_copper_bars.name=Oksitlenmiş Bakır Çubuklar
+tile.vxl_mp:weathered_copper_bars.name=Yıpranmış Bakır Çubuklar
+
+item.vxl_mp:cooked_egg=Pişmiş Yumurta
+
+acm.vxl_mp.pack_name=§3Eksik Parçalar
+acm.vxl_mp.author_name=Donthedev
+acm.vxl_mp.description=Vanilyada olması gereken bir dizi eksik Blok, Öğe ve Tarif.
+
+acm.vxl_mp.guide.title=§l§3Eksik Parçalar Rehberi!§r
+acm.vxl_mp.guide.recipes.title=§5Tarifler
+acm.vxl_mp.guide.recipes.desc=- İşlenebilir Eyerler.
+acm.vxl_mp.guide.items.title=§6Öğeler
+acm.vxl_mp.guide.items.desc=- Pişmiş Yumurta.
+acm.vxl_mp.guide.blocks.title=§4Bloklar§r
+acm.vxl_mp.guide.ac.title=§l§2- Akasya:§r
+acm.vxl_mp.guide.ac.desc=§oAcacia Kitaplık, Akasya Merdiveni, Akasya Kütük Döşeme, Akasya Duvarı.§r
+acm.vxl_mp.guide.bi.title=§l§2- Huş ağacı:§r
+acm.vxl_mp.guide.bi.desc=§oHuş Ağacı Kitaplık, Huş Ağacı Merdiveni, Huş Ağacı Kütük Döşeme, Huş Ağacı Duvarı.§r
+acm.vxl_mp.guide.ch.title=§l§2- Kiraz:§r
+acm.vxl_mp.guide.ch.desc=§oKiraz Kitaplık, Kiraz Merdiveni, Kiraz Kütük Döşeme, Kiraz Duvarı.§r
+acm.vxl_mp.guide.cr.title=§l§2- Kızıl:§r
+acm.vxl_mp.guide.cr.desc=§oKızıl Kitaplık, Kızıl Merdiven, Kızıl Kök Döşeme, Kızıl Duvar.§r
+acm.vxl_mp.guide.do.title=§l§2- Koyu Meşe:§r
+acm.vxl_mp.guide.do.desc=§oKoyu Meşe Kitaplık, Koyu Meşe Merdiveni, Koyu Meşe Kütük Döşeme, Koyu Meşe Duvar.§r
+acm.vxl_mp.guide.ju.title=§l§2- Orman:§r
+acm.vxl_mp.guide.ju.desc=§oJungle Kitaplık, Orman Merdiveni, Orman Kütük Döşeme, Orman Duvarı.§r
+acm.vxl_mp.guide.ma.title=§l§2- Mangrov:§r
+acm.vxl_mp.guide.ma.desc=§oMangrov Kitaplığı, Mangrov Merdiveni, Mangrov Kütük Döşeme, Mangrov Duvarı.§r
+acm.vxl_mp.guide.oak.title=§l§2- Meşe:§r
+acm.vxl_mp.guide.oak.desc=§oMeşe Merdiveni, Meşe Kütük Döşeme, Meşe Duvar.§r
+acm.vxl_mp.guide.po.title=§l§2- Soluk Meşe:§r
+acm.vxl_mp.guide.po.desc=§oSoluk Meşe Kitaplık, Soluk Meşe Merdiveni, Soluk Meşe Kütük Döşeme, Soluk Meşe Duvar.§r
+acm.vxl_mp.guide.sp.title=§l§2- Ladin:§r
+acm.vxl_mp.guide.sp.desc=§oLadin Kitaplık, Ladin Merdiven, Ladin Kütük Döşeme, Ladin Duvar.§r
+acm.vxl_mp.guide.wa.title=§l§2- Çarpık:§r
+acm.vxl_mp.guide.wa.desc=§oÇarpık Kitaplık, Çarpık Merdiven, Çarpık Kök Döşeme, Çarpık Duvar.§r
+acm.vxl_mp.guide.cd.title=§l§2- Arnavut kaldırımlı derin levha:§r
+acm.vxl_mp.guide.cd.desc=§oArnavut kaldırımlı derin levha çit ve çit kapısı.§r
+acm.vxl_mp.guide.cb.title=§l§2- Arnavut Kaldırımı:§r
+acm.vxl_mp.guide.cb.desc=§oArnavut kaldırımlı çit ve çit kapısı.§r
+acm.vxl_mp.guide.mc.title=§l§2- Yosunlu Arnavut Kaldırımı:§r
+acm.vxl_mp.guide.mc.desc=§oYosunlu Arnavut Kaldırımı Çit ve Çit Kapısı.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Koyu Prizmarin:§r
+acm.vxl_mp.guide.da_pr.desc=§oKaranlık Prizmarin Duvarı.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Prizmarin Tuğla:§r
+acm.vxl_mp.guide.pr_br.desc=§oPrismarine Tuğla Duvar.§r
+acm.vxl_mp.guide.co.title=§l§2- Bakır:§r
+acm.vxl_mp.guide.co.desc=§oBakır Çubuklar.§r

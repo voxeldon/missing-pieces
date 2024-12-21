@@ -1,0 +1,126 @@
+pack.name=Липсващи части
+pack.description=Липсващи части
+
+tile.vxl_core:artisan_table.name=Занаятчийска маса
+
+tile.vxl_mp:acacia_log_slab.name=Плоча от акациеви трупи
+tile.vxl_mp:birch_log_slab.name=Плоча от бреза
+tile.vxl_mp:cherry_log_slab.name=Плоча от черешови трупи
+tile.vxl_mp:crimson_stem_slab.name=Червена плоча
+tile.vxl_mp:dark_oak_log_slab.name= Плоча от тъмен дъб 
+tile.vxl_mp:jungle_log_slab.name=Дървена плоча от джунгла 
+tile.vxl_mp:mangrove_log_slab.name=Mangrove Log Slab
+tile.vxl_mp:oak_log_slab.name=Дъбова дървена плоча
+tile.vxl_mp:pale_oak_log_slab.name=Бледа дъбова дървена плоча
+tile.vxl_mp:spruce_log_slab.name=Плоча от смърч
+tile.vxl_mp:warped_stem_slab.name=Изкривена плоча на стеблото
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Оголена акациева дървена плоча
+tile.vxl_mp:stripped_birch_log_slab.name=Оголена брезова дървена плоча
+tile.vxl_mp:stripped_cherry_log_slab.name=Оголена черешова плоча
+tile.vxl_mp:stripped_crimson_stem_slab.name=Оголена пурпурна плоча
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Оголена дървена плоча от тъмен дъб 
+tile.vxl_mp:stripped_jungle_log_slab.name=Оголена дървена плоча от джунгла 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Оголена мангрова дървена плоча
+tile.vxl_mp:stripped_oak_log_slab.name=Оголена дъбова дървена плоча
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Оголена дървена плоча от светъл дъб
+tile.vxl_mp:stripped_spruce_log_slab.name=Оголена плоча от смърч
+tile.vxl_mp:stripped_warped_stem_slab.name=Оголена изкривена плоча на стеблото
+
+tile.vxl_mp:acacia_ladder.name=Стълба от акация
+tile.vxl_mp:birch_ladder.name=Стълба от бреза
+tile.vxl_mp:cherry_ladder.name=Черешова стълба
+tile.vxl_mp:crimson_ladder.name=Червена стълба
+tile.vxl_mp:dark_oak_ladder.name= Стълба от тъмен дъб 
+tile.vxl_mp:jungle_ladder.name=Стълба в джунглата 
+tile.vxl_mp:mangrove_ladder.name=Мангрова стълба
+tile.vxl_mp:oak_ladder.name=Дъбова стълба
+tile.vxl_mp:pale_oak_ladder.name=Стълба от светъл дъб
+tile.vxl_mp:spruce_ladder.name=Стълба от смърч
+tile.vxl_mp:warped_ladder.name=Изкривена стълба
+
+tile.vxl_mp:acacia_bookshelf.name=Рафт за книги от акация
+tile.vxl_mp:birch_bookshelf.name=Рафт за книги Бреза
+tile.vxl_mp:cherry_bookshelf.name=Черешова лавица
+tile.vxl_mp:crimson_bookshelf.name=Пурпурен рафт за книги
+tile.vxl_mp:dark_oak_bookshelf.name= Рафт за книги от тъмен дъб 
+tile.vxl_mp:jungle_bookshelf.name=Рафт за книги в джунглата 
+tile.vxl_mp:mangrove_bookshelf.name=Мангрова лавица
+tile.vxl_mp:pale_oak_bookshelf.name=Рафт за книги от светъл дъб
+tile.vxl_mp:spruce_bookshelf.name=Елавица за книги от смърч
+tile.vxl_mp:warped_bookshelf.name=Изкривена лавица за книги
+
+tile.vxl_mp:acacia_wall.name=Акациева стена
+tile.vxl_mp:birch_wall.name=Стена от бреза
+tile.vxl_mp:cherry_wall.name=Черешова стена
+tile.vxl_mp:crimson_wall.name=Пурпурна стена
+tile.vxl_mp:dark_oak_wall.name= Стена от тъмен дъб 
+tile.vxl_mp:jungle_wall.name=Стената на джунглата 
+tile.vxl_mp:mangrove_wall.name=Мангрова стена
+tile.vxl_mp:oak_wall.name=Дъбова стена
+tile.vxl_mp:pale_oak_wall.name=Стена от светъл дъб
+tile.vxl_mp:spruce_wall.name=Смърчова стена
+tile.vxl_mp:warped_wall.name=Изкривена стена
+
+tile.vxl_mp:cobblestone_fence.name=Калдъръмена ограда
+tile.vxl_mp:mossy_cobblestone_fence.name=Мъхест калдъръмена ограда
+tile.vxl_mp:cobbled_deepslate_fence.name=Калдъръмена ограда Deepslate
+
+tile.vxl_mp:cobblestone_fence_gate.name=Калдъръмена оградна врата
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Мъхест калдъръмена оградна врата
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Калдъръмена оградна врата Deepslate
+
+tile.vxl_mp:prismarine_brick_wall.name=Prismarine Тухлена стена
+tile.vxl_mp:dark_prismarine_wall.name=Стена от тъмен призмарин
+
+tile.vxl_mp:copper_bars.name=Медни пръти
+tile.vxl_mp:exposed_copper_bars.name=Открити медни пръти
+tile.vxl_mp:oxidized_copper_bars.name=Оксидирани медни пръти
+tile.vxl_mp:weathered_copper_bars.name=Изветрени медни пръти
+
+item.vxl_mp:cooked_egg=Варено яйце
+
+acm.vxl_mp.pack_name=§3 Липсващи части
+acm.vxl_mp.author_name=Донтедев
+acm.vxl_mp.description=Поредица от липсващи блокове, предмети и рецепти, които трябва да са във ванилия.
+
+acm.vxl_mp.guide.title=§l§3 Ръководство за липсващи части!§r
+acm.vxl_mp.guide.recipes.title=§5 Рецепти
+acm.vxl_mp.guide.recipes.desc=- Изработваеми седла.
+acm.vxl_mp.guide.items.title=§6 Артикули
+acm.vxl_mp.guide.items.desc=- Варено яйце.
+acm.vxl_mp.guide.blocks.title=§4Блокове§r
+acm.vxl_mp.guide.ac.title=§l§2- Акация:§r
+acm.vxl_mp.guide.ac.desc=§oРафт за книги от акация, стълба от акация, плоча от трупи от акация, стена от акация.§r
+acm.vxl_mp.guide.bi.title=§l§2- Бреза:§r
+acm.vxl_mp.guide.bi.desc=§oРафт за книги от бреза, стълба от бреза, плоча от брезови трупи, стена от бреза.§r
+acm.vxl_mp.guide.ch.title=§l§2- Череша:§r
+acm.vxl_mp.guide.ch.desc=§oРафт за книги от череша, стълба от череша, плоча от трупи от череша, стена от череша.§r
+acm.vxl_mp.guide.cr.title=§l§2- Пурпурен:§r
+acm.vxl_mp.guide.cr.desc=§oПупурна лавица за книги, Пурпурна стълба, Пурпурна плоча от стебло, Пурпурна стена.§r
+acm.vxl_mp.guide.do.title=§l§2- Тъмен дъб:§r
+acm.vxl_mp.guide.do.desc=§oРафт за книги от тъмен дъб, стълба от тъмен дъб, дървена плоча от тъмен дъб, стена от тъмен дъб.§r
+acm.vxl_mp.guide.ju.title=§l§2- Джунгла:§r
+acm.vxl_mp.guide.ju.desc=§oРафт за книги в джунглата, стълба в джунглата, плоча от дървени трупи в джунглата, стена в джунглата.§r
+acm.vxl_mp.guide.ma.title=§l§2- Мангрова гора:§r
+acm.vxl_mp.guide.ma.desc=§oРафт за книги от мангрово дърво, стълба от мангрово дърво, плоча от мангрово дърво, стена от мангрово дърво.§r
+acm.vxl_mp.guide.oak.title=§l§2- Дъб:§r
+acm.vxl_mp.guide.oak.desc=§oДъбова стълба, дъбова дървена плоча, дъбова стена.§r
+acm.vxl_mp.guide.po.title=§l§2- Светъл дъб:§r
+acm.vxl_mp.guide.po.desc=§oРафт за книги от светъл дъб, стълба от светъл дъб, дървена плоча от светъл дъб, стена от светъл дъб.§r
+acm.vxl_mp.guide.sp.title=§l§2- Смърч:§r
+acm.vxl_mp.guide.sp.desc=§oРафт за книги от смърч, стълба от смърч, плоча от смърч, стена от смърч.§r
+acm.vxl_mp.guide.wa.title=§l§2- Изкривени:§r
+acm.vxl_mp.guide.wa.desc=§oИзкривена лавица за книги, изкривена стълба, изкривена плоча на стеблото, изкривена стена.§r
+acm.vxl_mp.guide.cd.title=§l§2- Калдъръмени Deepslate:§r
+acm.vxl_mp.guide.cd.desc=§oКалдъръмена ограда и оградна врата.§r
+acm.vxl_mp.guide.cb.title=§l§2- Калдъръм:§r
+acm.vxl_mp.guide.cb.desc=§oКадъръмена ограда и оградна врата.§r
+acm.vxl_mp.guide.mc.title=§l§2- Мъхест калдъръм:§r
+acm.vxl_mp.guide.mc.desc=§oМосиста калдъръмена ограда и оградна врата.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Тъмен призмарин:§r
+acm.vxl_mp.guide.da_pr.desc=§oDark Prismarine Wall.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Prismarine Brick:§r
+acm.vxl_mp.guide.pr_br.desc=§oPrismarine Тухлена стена.§r
+acm.vxl_mp.guide.co.title=§l§2- Мед:§r
+acm.vxl_mp.guide.co.desc=§oМедни пръти.§r

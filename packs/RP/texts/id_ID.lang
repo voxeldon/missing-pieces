@@ -1,0 +1,126 @@
+pack.name=Potongan yang Hilang
+pack.description=Potongan yang Hilang
+
+tile.vxl_core:artisan_table.name=Meja Pengrajin
+
+tile.vxl_mp:acacia_log_slab.name=Lempengan Kayu Akasia
+tile.vxl_mp:birch_log_slab.name=Lempengan Kayu Birch
+tile.vxl_mp:cherry_log_slab.name=Lempengan Kayu Ceri
+tile.vxl_mp:crimson_stem_slab.name=Lempengan Batang Merah
+tile.vxl_mp:dark_oak_log_slab.name= Lempengan Kayu Ek Gelap 
+tile.vxl_mp:jungle_log_slab.name=Lempengan Kayu Hutan 
+tile.vxl_mp:mangrove_log_slab.name=Lempengan Kayu Bakau
+tile.vxl_mp:oak_log_slab.name=Lempengan Kayu Ek
+tile.vxl_mp:pale_oak_log_slab.name=Lempengan Kayu Ek Pucat
+tile.vxl_mp:spruce_log_slab.name=Lempengan Kayu Cemara
+tile.vxl_mp:warped_stem_slab.name=Lempengan Batang Melengkung
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Lempengan Kayu Akasia yang Dilucuti
+tile.vxl_mp:stripped_birch_log_slab.name=Lempengan Kayu Birch yang Dilucuti
+tile.vxl_mp:stripped_cherry_log_slab.name=Lempengan Kayu Ceri yang Dilucuti
+tile.vxl_mp:stripped_crimson_stem_slab.name=Lempengan Batang Merah yang Dilucuti
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Lempengan Kayu Ek Gelap yang Dilucuti 
+tile.vxl_mp:stripped_jungle_log_slab.name=Lempengan Kayu Hutan yang Dilucuti 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Lempengan Kayu Mangrove yang Dilucuti
+tile.vxl_mp:stripped_oak_log_slab.name=Lempengan Kayu Ek yang Dilucuti
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Lempengan Kayu Ek Pucat yang Dilucuti
+tile.vxl_mp:stripped_spruce_log_slab.name=Lempengan Kayu Cemara yang Dilucuti
+tile.vxl_mp:stripped_warped_stem_slab.name=Lempengan Batang Melengkung yang Dilucuti
+
+tile.vxl_mp:acacia_ladder.name=Tangga Akasia
+tile.vxl_mp:birch_ladder.name=Tangga Birch
+tile.vxl_mp:cherry_ladder.name=Tangga Ceri
+tile.vxl_mp:crimson_ladder.name=Tangga Merah
+tile.vxl_mp:dark_oak_ladder.name= Tangga Kayu Ek Gelap 
+tile.vxl_mp:jungle_ladder.name=Tangga Hutan 
+tile.vxl_mp:mangrove_ladder.name=Tangga Mangrove
+tile.vxl_mp:oak_ladder.name=Tangga Ek
+tile.vxl_mp:pale_oak_ladder.name=Tangga Kayu Ek Pucat
+tile.vxl_mp:spruce_ladder.name=Tangga Cemara
+tile.vxl_mp:warped_ladder.name=Tangga Melengkung
+
+tile.vxl_mp:acacia_bookshelf.name=Rak Buku Akasia
+tile.vxl_mp:birch_bookshelf.name=Rak Buku Birch
+tile.vxl_mp:cherry_bookshelf.name=Rak Buku Ceri
+tile.vxl_mp:crimson_bookshelf.name=Rak Buku Merah
+tile.vxl_mp:dark_oak_bookshelf.name= Rak Buku Kayu Ek Gelap 
+tile.vxl_mp:jungle_bookshelf.name=Rak Buku Hutan 
+tile.vxl_mp:mangrove_bookshelf.name=Rak Buku Mangrove
+tile.vxl_mp:pale_oak_bookshelf.name=Rak Buku Kayu Ek Pucat
+tile.vxl_mp:spruce_bookshelf.name=Rak Buku Cemara
+tile.vxl_mp:warped_bookshelf.name=Rak Buku Melengkung
+
+tile.vxl_mp:acacia_wall.name=Tembok Akasia
+tile.vxl_mp:birch_wall.name=Tembok Birch
+tile.vxl_mp:cherry_wall.name=dinding ceri
+tile.vxl_mp:crimson_wall.name=Tembok Merah
+tile.vxl_mp:dark_oak_wall.name= Tembok Kayu Ek Gelap 
+tile.vxl_mp:jungle_wall.name=Tembok Hutan 
+tile.vxl_mp:mangrove_wall.name=Tembok Mangrove
+tile.vxl_mp:oak_wall.name=Dinding Kayu Ek
+tile.vxl_mp:pale_oak_wall.name=Tembok Kayu Ek Pucat
+tile.vxl_mp:spruce_wall.name=Tembok Cemara
+tile.vxl_mp:warped_wall.name=Tembok Melengkung
+
+tile.vxl_mp:cobblestone_fence.name=Pagar Batu Bulat
+tile.vxl_mp:mossy_cobblestone_fence.name=Pagar Batu Berlumut
+tile.vxl_mp:cobbled_deepslate_fence.name=Pagar Batu Dalam Berbatu
+
+tile.vxl_mp:cobblestone_fence_gate.name=Gerbang Pagar Batu Bulat
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Gerbang Pagar Batu Berlumut
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Gerbang Pagar Batu Dalam Berbatu
+
+tile.vxl_mp:prismarine_brick_wall.name=Dinding Bata Prismarine
+tile.vxl_mp:dark_prismarine_wall.name=Tembok Prismarine Gelap
+
+tile.vxl_mp:copper_bars.name=Batangan Tembaga
+tile.vxl_mp:exposed_copper_bars.name=Batangan Tembaga Terbuka
+tile.vxl_mp:oxidized_copper_bars.name=Batangan Tembaga Teroksidasi
+tile.vxl_mp:weathered_copper_bars.name=Batangan Tembaga Lapuk
+
+item.vxl_mp:cooked_egg=Telur yang Dimasak
+
+acm.vxl_mp.pack_name=§3 Bagian yang Hilang
+acm.vxl_mp.author_name=Donthedev
+acm.vxl_mp.description=Serangkaian Blok, Item & Resep yang hilang yang seharusnya ada di vanilla.
+
+acm.vxl_mp.guide.title=§l§3Panduan Bagian yang Hilang!§r
+acm.vxl_mp.guide.recipes.title=§5Resep
+acm.vxl_mp.guide.recipes.desc=- Pelana yang Dapat Dibuat.
+acm.vxl_mp.guide.items.title=§6Item
+acm.vxl_mp.guide.items.desc=- Telur Masak.
+acm.vxl_mp.guide.blocks.title=§4Blok§r
+acm.vxl_mp.guide.ac.title=§l§2- Akasia:§r
+acm.vxl_mp.guide.ac.desc=§oRak Buku Akasia, Tangga Akasia, Lempengan Kayu Akasia, Dinding Akasia.§r
+acm.vxl_mp.guide.bi.title=§l§2- Birch:§r
+acm.vxl_mp.guide.bi.desc=§oRak Buku Birch, Tangga Birch, Lempengan Kayu Birch, Dinding Birch.§r
+acm.vxl_mp.guide.ch.title=§l§2- Ceri:§r
+acm.vxl_mp.guide.ch.desc=§oRak Buku Ceri, Tangga Ceri, Lempengan Kayu Ceri, Dinding Ceri.§r
+acm.vxl_mp.guide.cr.title=§l§2- Merah tua:§r
+acm.vxl_mp.guide.cr.desc=§oRak Buku Merah Tua, Tangga Merah Tua, Lempengan Batang Merah Tua, Dinding Merah Tua.§r
+acm.vxl_mp.guide.do.title=§l§2- Ek Gelap:§r
+acm.vxl_mp.guide.do.desc=§oRak Buku Kayu Ek Gelap, Tangga Kayu Ek Gelap, Lempengan Kayu Ek Gelap, Dinding Kayu Ek Gelap.§r
+acm.vxl_mp.guide.ju.title=§l§2- Hutan:§r
+acm.vxl_mp.guide.ju.desc=§oRak Buku Hutan, Tangga Hutan, Lempengan Kayu Hutan, Dinding Hutan.§r
+acm.vxl_mp.guide.ma.title=§l§2- Bakau:§r
+acm.vxl_mp.guide.ma.desc=§oRak Buku Bakau, Tangga Bakau, Lempengan Kayu Bakau, Dinding Bakau.§r
+acm.vxl_mp.guide.oak.title=§l§2- Ek:§r
+acm.vxl_mp.guide.oak.desc=§oTangga Kayu Oak, Lempengan Kayu Ek, Dinding Kayu Ek.§r
+acm.vxl_mp.guide.po.title=§l§2- Ek Pucat:§r
+acm.vxl_mp.guide.po.desc=§oRak Buku Kayu Ek Pucat, Tangga Kayu Ek Pucat, Lempengan Kayu Ek Pucat, Dinding Kayu Ek Pucat.§r
+acm.vxl_mp.guide.sp.title=§l§2- Cemara:§r
+acm.vxl_mp.guide.sp.desc=§oRak Buku Cemara, Tangga Cemara, Lempengan Kayu Cemara, Dinding Cemara.§r
+acm.vxl_mp.guide.wa.title=§l§2- Melengkung:§r
+acm.vxl_mp.guide.wa.desc=§oRak Buku Melengkung, Tangga Melengkung, Pelat Batang Melengkung, Dinding Melengkung.§r
+acm.vxl_mp.guide.cd.title=§l§2- Batu Tulis Dalam Berbatu:§r
+acm.vxl_mp.guide.cd.desc=§oPagar Batu Dalam & Gerbang Pagar.§r
+acm.vxl_mp.guide.cb.title=§l§2- Batu bulat:§r
+acm.vxl_mp.guide.cb.desc=§oPagar Batu Bulat & Gerbang Pagar.§r
+acm.vxl_mp.guide.mc.title=§l§2- Batu Besar Berlumut:§r
+acm.vxl_mp.guide.mc.desc=§oPagar Batu Berlumut & Gerbang Pagar.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Prismarine Gelap:§r
+acm.vxl_mp.guide.da_pr.desc=§oDinding Prismarine Gelap.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Bata Prismarine:§r
+acm.vxl_mp.guide.pr_br.desc=§oDinding Bata Prismarine.§r
+acm.vxl_mp.guide.co.title=§l§2- Tembaga:§r
+acm.vxl_mp.guide.co.desc=§oBatang Tembaga.§r

@@ -1,0 +1,126 @@
+pack.name=Pièces manquantes
+pack.description=Pièces manquantes
+
+tile.vxl_core:artisan_table.name=Table Artisanale
+
+tile.vxl_mp:acacia_log_slab.name=Dalle en rondins d'acacia
+tile.vxl_mp:birch_log_slab.name=Dalle de rondins de bouleau
+tile.vxl_mp:cherry_log_slab.name=Dalle de bûches de cerisier
+tile.vxl_mp:crimson_stem_slab.name=Dalle de tige cramoisie
+tile.vxl_mp:dark_oak_log_slab.name= Dalle de rondins de chêne foncé 
+tile.vxl_mp:jungle_log_slab.name=Dalle de bûches de jungle 
+tile.vxl_mp:mangrove_log_slab.name=Dalle de rondins de mangrove
+tile.vxl_mp:oak_log_slab.name=Dalle en rondins de chêne
+tile.vxl_mp:pale_oak_log_slab.name=Dalle de rondins de chêne pâle
+tile.vxl_mp:spruce_log_slab.name=Dalle en rondins d'épicéa
+tile.vxl_mp:warped_stem_slab.name=Dalle de tige déformée
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Dalle de rondins d'acacia dépouillée
+tile.vxl_mp:stripped_birch_log_slab.name=Dalle de rondins de bouleau dépouillé
+tile.vxl_mp:stripped_cherry_log_slab.name=Dalle de bûches de cerisier dénudée
+tile.vxl_mp:stripped_crimson_stem_slab.name=Dalle de tige cramoisie dépouillé
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Dalle de rondins de chêne foncé dépouillé 
+tile.vxl_mp:stripped_jungle_log_slab.name=Dalle de rondins de jungle dépouillée 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Dalle de rondins de mangrove dénudée
+tile.vxl_mp:stripped_oak_log_slab.name=Dalle de rondins de chêne dépouillé
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Dalle de bûches de chêne pâle dénudée
+tile.vxl_mp:stripped_spruce_log_slab.name=Dalle de bûches d'épicéa dénudée
+tile.vxl_mp:stripped_warped_stem_slab.name=Dalle de tige déformée et dénudée
+
+tile.vxl_mp:acacia_ladder.name=Échelle en acacia
+tile.vxl_mp:birch_ladder.name=Échelle de bouleau
+tile.vxl_mp:cherry_ladder.name=Échelle de cerise
+tile.vxl_mp:crimson_ladder.name=Échelle cramoisie
+tile.vxl_mp:dark_oak_ladder.name= Échelle en chêne foncé 
+tile.vxl_mp:jungle_ladder.name=Échelle de la jungle 
+tile.vxl_mp:mangrove_ladder.name=Échelle de mangrove
+tile.vxl_mp:oak_ladder.name=Échelle en chêne
+tile.vxl_mp:pale_oak_ladder.name=Échelle en chêne pâle
+tile.vxl_mp:spruce_ladder.name=Échelle en épicéa
+tile.vxl_mp:warped_ladder.name=Échelle déformée
+
+tile.vxl_mp:acacia_bookshelf.name=Bibliothèque en acacia
+tile.vxl_mp:birch_bookshelf.name=Bibliothèque en bouleau
+tile.vxl_mp:cherry_bookshelf.name=Bibliothèque Cerisier
+tile.vxl_mp:crimson_bookshelf.name=Bibliothèque cramoisie
+tile.vxl_mp:dark_oak_bookshelf.name= Bibliothèque en chêne foncé 
+tile.vxl_mp:jungle_bookshelf.name=Bibliothèque Jungle 
+tile.vxl_mp:mangrove_bookshelf.name=Bibliothèque Mangrove
+tile.vxl_mp:pale_oak_bookshelf.name=Bibliothèque en chêne pâle
+tile.vxl_mp:spruce_bookshelf.name=Bibliothèque en épicéa
+tile.vxl_mp:warped_bookshelf.name=Bibliothèque déformée
+
+tile.vxl_mp:acacia_wall.name=Mur d'acacia
+tile.vxl_mp:birch_wall.name=Mur de bouleau
+tile.vxl_mp:cherry_wall.name=Mur de cerisier
+tile.vxl_mp:crimson_wall.name=Mur cramoisi
+tile.vxl_mp:dark_oak_wall.name= Mur en chêne foncé 
+tile.vxl_mp:jungle_wall.name=Mur de la jungle 
+tile.vxl_mp:mangrove_wall.name=Mur de mangrove
+tile.vxl_mp:oak_wall.name=Mur de chêne
+tile.vxl_mp:pale_oak_wall.name=Mur en chêne pâle
+tile.vxl_mp:spruce_wall.name=Mur en épicéa
+tile.vxl_mp:warped_wall.name=Mur déformé
+
+tile.vxl_mp:cobblestone_fence.name=Clôture Pavée
+tile.vxl_mp:mossy_cobblestone_fence.name=Clôture pavée moussue
+tile.vxl_mp:cobbled_deepslate_fence.name=Clôture pavée en ardoise profonde
+
+tile.vxl_mp:cobblestone_fence_gate.name=Porte de clôture pavée
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Porte de clôture pavée moussue
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Porte de clôture pavée en ardoise profonde
+
+tile.vxl_mp:prismarine_brick_wall.name=Mur de briques prismarine
+tile.vxl_mp:dark_prismarine_wall.name=Mur de prismarine sombre
+
+tile.vxl_mp:copper_bars.name=Barres de cuivre
+tile.vxl_mp:exposed_copper_bars.name=Barres de cuivre exposées
+tile.vxl_mp:oxidized_copper_bars.name=Barres de cuivre oxydées
+tile.vxl_mp:weathered_copper_bars.name=Barres de cuivre patinées
+
+item.vxl_mp:cooked_egg=Oeuf cuit
+
+acm.vxl_mp.pack_name=§3Pièces manquantes
+acm.vxl_mp.author_name=Donthedev
+acm.vxl_mp.description=Une série de blocs, d'objets et de recettes manquants qui devraient être en vanille.
+
+acm.vxl_mp.guide.title=§l§3Guide des pièces manquantes !§r
+acm.vxl_mp.guide.recipes.title=§5Recettes
+acm.vxl_mp.guide.recipes.desc=- Selles pouvant être fabriquées.
+acm.vxl_mp.guide.items.title=§6Articles
+acm.vxl_mp.guide.items.desc=- Oeuf cuit.
+acm.vxl_mp.guide.blocks.title=§4Blocs§r
+acm.vxl_mp.guide.ac.title=§l§2- Acacia :§r
+acm.vxl_mp.guide.ac.desc=§oBibliothèque en acacia, échelle en acacia, dalle en rondins d'acacia, mur en acacia.§r
+acm.vxl_mp.guide.bi.title=§l§2- Bouleau :§r
+acm.vxl_mp.guide.bi.desc=§oBibliothèque en bouleau, échelle en bouleau, dalle en rondins de bouleau, mur en bouleau.§r
+acm.vxl_mp.guide.ch.title=§l§2- Cerise :§r
+acm.vxl_mp.guide.ch.desc=§oÉtagère en cerisier, échelle en cerisier, dalle en rondins de cerisier, mur en cerisier.§r
+acm.vxl_mp.guide.cr.title=§l§2- Pourpre :§r
+acm.vxl_mp.guide.cr.desc=§oÉtagère Crimson, Échelle Crimson, Dalle de tige Crimson, Mur Crimson.§r
+acm.vxl_mp.guide.do.title=§l§2- Chêne Foncé:§r
+acm.vxl_mp.guide.do.desc=§oBibliothèque en chêne foncé, échelle en chêne foncé, dalle en rondins de chêne foncé, mur en chêne foncé.§r
+acm.vxl_mp.guide.ju.title=§l§2- Jungle:§r
+acm.vxl_mp.guide.ju.desc=§oÉtagère Jungle, Échelle Jungle, Dalle en Rondins Jungle, Mur Jungle.§r
+acm.vxl_mp.guide.ma.title=§l§2- Mangrove :§r
+acm.vxl_mp.guide.ma.desc=§oÉtagère Mangrove, échelle Mangrove, dalle en rondins de mangrove, mur de mangrove.§r
+acm.vxl_mp.guide.oak.title=§l§2- Chêne :§r
+acm.vxl_mp.guide.oak.desc=§oÉchelle en chêne, dalle en rondins de chêne, mur en chêne.§r
+acm.vxl_mp.guide.po.title=§l§2- Chêne pâle :§r
+acm.vxl_mp.guide.po.desc=§oBibliothèque en chêne pâle, échelle en chêne pâle, dalle en rondins de chêne pâle, mur en chêne pâle.§r
+acm.vxl_mp.guide.sp.title=§l§2- Epicéa :§r
+acm.vxl_mp.guide.sp.desc=§oBibliothèque en épicéa, échelle en épicéa, dalle en rondins d'épicéa, mur en épicéa.§r
+acm.vxl_mp.guide.wa.title=§l§2- Déformé :§r
+acm.vxl_mp.guide.wa.desc=§oÉtagère déformée, échelle déformée, dalle à tige déformée, mur déformé.§r
+acm.vxl_mp.guide.cd.title=§l§2- Ardoise profonde pavée :§r
+acm.vxl_mp.guide.cd.desc=§oClôture et porte de clôture pavées en ardoise profonde.§r
+acm.vxl_mp.guide.cb.title=§l§2- Pavé :§r
+acm.vxl_mp.guide.cb.desc=§oClôture pavée et porte de clôture.§r
+acm.vxl_mp.guide.mc.title=§l§2- Pavés moussus :§r
+acm.vxl_mp.guide.mc.desc=§oClôture pavée moussue et porte de clôture.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Prismarine Sombre :§r
+acm.vxl_mp.guide.da_pr.desc=§oMur de Prismarine sombre.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Brique Prismarine :§r
+acm.vxl_mp.guide.pr_br.desc=§oMur de briques Prismarine.§r
+acm.vxl_mp.guide.co.title=§l§2- Cuivre :§r
+acm.vxl_mp.guide.co.desc=§oBarres de Cuivre.§r

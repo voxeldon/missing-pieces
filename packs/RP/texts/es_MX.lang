@@ -1,0 +1,126 @@
+pack.name=Piezas faltantes
+pack.description=Piezas faltantes
+
+tile.vxl_core:artisan_table.name=Mesa Artesanal
+
+tile.vxl_mp:acacia_log_slab.name=Losa de troncos de acacia
+tile.vxl_mp:birch_log_slab.name=Losa de troncos de abedul
+tile.vxl_mp:cherry_log_slab.name=Losa de troncos de cerezo
+tile.vxl_mp:crimson_stem_slab.name=Losa de tallo carmesí
+tile.vxl_mp:dark_oak_log_slab.name= Losa de troncos de roble oscuro 
+tile.vxl_mp:jungle_log_slab.name=Losa de troncos de selva 
+tile.vxl_mp:mangrove_log_slab.name=Losa de troncos de manglar
+tile.vxl_mp:oak_log_slab.name=Losa de troncos de roble
+tile.vxl_mp:pale_oak_log_slab.name=Losa de troncos de roble pálido
+tile.vxl_mp:spruce_log_slab.name=Losa de troncos de abeto
+tile.vxl_mp:warped_stem_slab.name=Losa de tallo deformado
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Losa de troncos de acacia despojada
+tile.vxl_mp:stripped_birch_log_slab.name=Losa de troncos de abedul despojado
+tile.vxl_mp:stripped_cherry_log_slab.name=Losa de troncos de cerezo despojados
+tile.vxl_mp:stripped_crimson_stem_slab.name=Losa de tallo carmesí despojado
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Losa de troncos de roble oscuro despojado 
+tile.vxl_mp:stripped_jungle_log_slab.name=Losa de troncos de selva despojada 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Losa de troncos de manglar despojado
+tile.vxl_mp:stripped_oak_log_slab.name=Losa de troncos de roble despojado
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Losa de troncos de roble pálido despojado
+tile.vxl_mp:stripped_spruce_log_slab.name=Losa de troncos de abeto despojado
+tile.vxl_mp:stripped_warped_stem_slab.name=Losa de tallo deformado y despojado
+
+tile.vxl_mp:acacia_ladder.name=Escalera de acacia
+tile.vxl_mp:birch_ladder.name=Escalera de abedul
+tile.vxl_mp:cherry_ladder.name=Escalera de cereza
+tile.vxl_mp:crimson_ladder.name=Escalera carmesí
+tile.vxl_mp:dark_oak_ladder.name= Escalera de roble oscuro 
+tile.vxl_mp:jungle_ladder.name=Escalera de la selva 
+tile.vxl_mp:mangrove_ladder.name=Escalera de manglar
+tile.vxl_mp:oak_ladder.name=Escalera de roble
+tile.vxl_mp:pale_oak_ladder.name=Escalera de roble pálido
+tile.vxl_mp:spruce_ladder.name=Escalera de abeto
+tile.vxl_mp:warped_ladder.name=Escalera deformada
+
+tile.vxl_mp:acacia_bookshelf.name=Estantería de acacia
+tile.vxl_mp:birch_bookshelf.name=Estantería de abedul
+tile.vxl_mp:cherry_bookshelf.name=Estantería de cerezo
+tile.vxl_mp:crimson_bookshelf.name=Estantería carmesí
+tile.vxl_mp:dark_oak_bookshelf.name= Estantería de roble oscuro 
+tile.vxl_mp:jungle_bookshelf.name=Estantería de la selva 
+tile.vxl_mp:mangrove_bookshelf.name=Estantería de manglares
+tile.vxl_mp:pale_oak_bookshelf.name=Estantería de roble pálido
+tile.vxl_mp:spruce_bookshelf.name=Estantería de abeto
+tile.vxl_mp:warped_bookshelf.name=Estantería deformada
+
+tile.vxl_mp:acacia_wall.name=Muro de acacia
+tile.vxl_mp:birch_wall.name=Muro de abedul
+tile.vxl_mp:cherry_wall.name=pared de cerezo
+tile.vxl_mp:crimson_wall.name=Muro carmesí
+tile.vxl_mp:dark_oak_wall.name= Pared de roble oscuro 
+tile.vxl_mp:jungle_wall.name=Muro de la selva 
+tile.vxl_mp:mangrove_wall.name=Muro de manglares
+tile.vxl_mp:oak_wall.name=Pared de roble
+tile.vxl_mp:pale_oak_wall.name=Pared de roble pálido
+tile.vxl_mp:spruce_wall.name=Pared de abeto
+tile.vxl_mp:warped_wall.name=Muro deformado
+
+tile.vxl_mp:cobblestone_fence.name=Valla de adoquines
+tile.vxl_mp:mossy_cobblestone_fence.name=Valla de adoquines cubierta de musgo
+tile.vxl_mp:cobbled_deepslate_fence.name=Valla de pizarra profunda adoquinada
+
+tile.vxl_mp:cobblestone_fence_gate.name=Puerta de valla de adoquines
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Puerta de valla de adoquines cubierta de musgo
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Puerta de valla de pizarra profunda adoquinada
+
+tile.vxl_mp:prismarine_brick_wall.name=Pared de ladrillo Prismarine
+tile.vxl_mp:dark_prismarine_wall.name=Muro Prismarino Oscuro
+
+tile.vxl_mp:copper_bars.name=Barras de cobre
+tile.vxl_mp:exposed_copper_bars.name=Barras de cobre expuestas
+tile.vxl_mp:oxidized_copper_bars.name=Barras de cobre oxidado
+tile.vxl_mp:weathered_copper_bars.name=Barras de cobre desgastadas
+
+item.vxl_mp:cooked_egg=huevo cocido
+
+acm.vxl_mp.pack_name=§3 Piezas faltantes
+acm.vxl_mp.author_name=Donthedev
+acm.vxl_mp.description=Una serie de bloques, elementos y recetas faltantes que deberían estar en color vainilla.
+
+acm.vxl_mp.guide.title=§l§3¡Guía de piezas faltantes!§r
+acm.vxl_mp.guide.recipes.title=§5Recetas
+acm.vxl_mp.guide.recipes.desc=- Sillas de montar fabricables.
+acm.vxl_mp.guide.items.title=§6Artículos
+acm.vxl_mp.guide.items.desc=- Huevo Cocido.
+acm.vxl_mp.guide.blocks.title=§4Bloques§r
+acm.vxl_mp.guide.ac.title=§l§2- Acacia:§r
+acm.vxl_mp.guide.ac.desc=§oEstantería de Acacia, Escalera de Acacia, Losa de troncos de Acacia, Pared de Acacia.§r
+acm.vxl_mp.guide.bi.title=§l§2- Abedul:§r
+acm.vxl_mp.guide.bi.desc=§oEstantería de abedul, escalera de abedul, losa de troncos de abedul, pared de abedul.§r
+acm.vxl_mp.guide.ch.title=§l§2- Cereza:§r
+acm.vxl_mp.guide.ch.desc=§oEstantería de cerezo, escalera de cerezo, losa de troncos de cerezo, pared de cerezo.§r
+acm.vxl_mp.guide.cr.title=§l§2- Carmesí:§r
+acm.vxl_mp.guide.cr.desc=§oEstantería carmesí, escalera carmesí, losa de tallo carmesí, pared carmesí.§r
+acm.vxl_mp.guide.do.title=§l§2- Roble Oscuro:§r
+acm.vxl_mp.guide.do.desc=§oEstantería de roble oscuro, escalera de roble oscuro, losa de troncos de roble oscuro, pared de roble oscuro.§r
+acm.vxl_mp.guide.ju.title=§l§2- Selva:§r
+acm.vxl_mp.guide.ju.desc=§oEstantería de la jungla, escalera de la jungla, losa de troncos de la jungla, pared de la jungla.§r
+acm.vxl_mp.guide.ma.title=§l§2- Manglar:§r
+acm.vxl_mp.guide.ma.desc=§oEstantería de manglar, escalera de manglar, losa de troncos de manglar, pared de manglar.§r
+acm.vxl_mp.guide.oak.title=§l§2- Roble:§r
+acm.vxl_mp.guide.oak.desc=§oEscalera de roble, losa de troncos de roble, pared de roble.§r
+acm.vxl_mp.guide.po.title=§l§2- Roble Pálido:§r
+acm.vxl_mp.guide.po.desc=§oEstantería de roble pálido, escalera de roble pálido, losa de troncos de roble pálido, pared de roble pálido.§r
+acm.vxl_mp.guide.sp.title=§l§2- Abeto:§r
+acm.vxl_mp.guide.sp.desc=§oEstantería de pícea, escalera de pícea, losa de troncos de pícea, pared de pícea.§r
+acm.vxl_mp.guide.wa.title=§l§2- Deformado:§r
+acm.vxl_mp.guide.wa.desc=§oEstantería deformada, Escalera deformada, Losa de tallo deformada, Pared deformada.§r
+acm.vxl_mp.guide.cd.title=§l§2- Pizarra profunda adoquinada:§r
+acm.vxl_mp.guide.cd.desc=§oValla de pizarra profunda adoquinada y puerta de valla.§r
+acm.vxl_mp.guide.cb.title=§l§2- Adoquín:§r
+acm.vxl_mp.guide.cb.desc=§oValla de adoquines y puerta de valla.§r
+acm.vxl_mp.guide.mc.title=§l§2- Adoquines cubiertos de musgo:§r
+acm.vxl_mp.guide.mc.desc=§oValla de adoquines cubierta de musgo y puerta de valla.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Prismarina Oscura:§r
+acm.vxl_mp.guide.da_pr.desc=§oPared Prismarina Oscura.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Ladrillo Prismarine:§r
+acm.vxl_mp.guide.pr_br.desc=§oPared de ladrillo Prismarine.§r
+acm.vxl_mp.guide.co.title=§l§2- Cobre:§r
+acm.vxl_mp.guide.co.desc=§oBarras de cobre.§r

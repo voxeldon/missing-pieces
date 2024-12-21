@@ -1,0 +1,126 @@
+pack.name=Hiányzó darabok
+pack.description=Hiányzó darabok
+
+tile.vxl_core:artisan_table.name=Kézműves asztal
+
+tile.vxl_mp:acacia_log_slab.name=Akác rönk födém
+tile.vxl_mp:birch_log_slab.name=Nyírfa rönk födém
+tile.vxl_mp:cherry_log_slab.name=Cseresznye rönk födém
+tile.vxl_mp:crimson_stem_slab.name=Bíbor Stem Slab
+tile.vxl_mp:dark_oak_log_slab.name= Sötét tölgy rönk födém 
+tile.vxl_mp:jungle_log_slab.name=Jungle Log Slab 
+tile.vxl_mp:mangrove_log_slab.name=Mangrove rönkfödém
+tile.vxl_mp:oak_log_slab.name=Tölgy rönk födém
+tile.vxl_mp:pale_oak_log_slab.name=Halvány tölgy rönk födém
+tile.vxl_mp:spruce_log_slab.name=Luc rönk födém
+tile.vxl_mp:warped_stem_slab.name=Elvetemült szárú födém
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Csupaszított akác rönk födém
+tile.vxl_mp:stripped_birch_log_slab.name=Csupaszított nyír rönk födém
+tile.vxl_mp:stripped_cherry_log_slab.name=Csupaszított cseresznye rönk födém
+tile.vxl_mp:stripped_crimson_stem_slab.name=Csupaszított bíbor szárlemez
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Csupaszított sötét tölgy rönk födém 
+tile.vxl_mp:stripped_jungle_log_slab.name=Csupaszított dzsungel rönkfödém 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Csupaszított mangrove rönkfödém
+tile.vxl_mp:stripped_oak_log_slab.name=Csupaszított tölgy rönk födém
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Csupaszított halvány tölgy rönk födém
+tile.vxl_mp:stripped_spruce_log_slab.name=Csupaszított luc rönk födém
+tile.vxl_mp:stripped_warped_stem_slab.name=Csupaszított vetemedett szárú födém
+
+tile.vxl_mp:acacia_ladder.name=Akác létra
+tile.vxl_mp:birch_ladder.name=Nyírfa létra
+tile.vxl_mp:cherry_ladder.name=Cseresznye létra
+tile.vxl_mp:crimson_ladder.name=Bíbor létra
+tile.vxl_mp:dark_oak_ladder.name= Sötét tölgy létra 
+tile.vxl_mp:jungle_ladder.name=Dzsungel létra 
+tile.vxl_mp:mangrove_ladder.name=Mangrove létra
+tile.vxl_mp:oak_ladder.name=Tölgy létra
+tile.vxl_mp:pale_oak_ladder.name=Halványtölgy létra
+tile.vxl_mp:spruce_ladder.name=Luc létra
+tile.vxl_mp:warped_ladder.name=Elvetemült létra
+
+tile.vxl_mp:acacia_bookshelf.name=Akác könyvespolc
+tile.vxl_mp:birch_bookshelf.name=Nyírfa könyvespolc
+tile.vxl_mp:cherry_bookshelf.name=Cseresznye könyvespolc
+tile.vxl_mp:crimson_bookshelf.name=Bíbor könyvespolc
+tile.vxl_mp:dark_oak_bookshelf.name= Sötét tölgy könyvespolc 
+tile.vxl_mp:jungle_bookshelf.name=Dzsungel könyvespolc 
+tile.vxl_mp:mangrove_bookshelf.name=Mangrove könyvespolc
+tile.vxl_mp:pale_oak_bookshelf.name=Halványtölgy könyvespolc
+tile.vxl_mp:spruce_bookshelf.name=Lucfenyő könyvespolc
+tile.vxl_mp:warped_bookshelf.name=Elvetemült könyvespolc
+
+tile.vxl_mp:acacia_wall.name=Akácfal
+tile.vxl_mp:birch_wall.name=Nyírfal
+tile.vxl_mp:cherry_wall.name=Cseresznyefal
+tile.vxl_mp:crimson_wall.name=Bíbor Fal
+tile.vxl_mp:dark_oak_wall.name= Sötét tölgy fal 
+tile.vxl_mp:jungle_wall.name=Dzsungel fala 
+tile.vxl_mp:mangrove_wall.name=Mangrove fal
+tile.vxl_mp:oak_wall.name=Tölgyfal
+tile.vxl_mp:pale_oak_wall.name=Halvány tölgyfa fal
+tile.vxl_mp:spruce_wall.name=Lucfenyő fal
+tile.vxl_mp:warped_wall.name=Elvetemült fal
+
+tile.vxl_mp:cobblestone_fence.name=Macskaköves kerítés
+tile.vxl_mp:mossy_cobblestone_fence.name=Mohos macskaköves kerítés
+tile.vxl_mp:cobbled_deepslate_fence.name=Macskaköves Deepslate kerítés
+
+tile.vxl_mp:cobblestone_fence_gate.name=Macskaköves kerítéskapu
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Mohos macskaköves kerítéskapu
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Macskaköves Deepslate kerítéskapu
+
+tile.vxl_mp:prismarine_brick_wall.name=Prizmarin téglafal
+tile.vxl_mp:dark_prismarine_wall.name=Sötét Prismarine Fal
+
+tile.vxl_mp:copper_bars.name=Rézrudak
+tile.vxl_mp:exposed_copper_bars.name=Kitett rézrudak
+tile.vxl_mp:oxidized_copper_bars.name=Oxidált rézrudak
+tile.vxl_mp:weathered_copper_bars.name=Viharvert rézrudak
+
+item.vxl_mp:cooked_egg=Főtt tojás
+
+acm.vxl_mp.pack_name=§3 Hiányzó darabok
+acm.vxl_mp.author_name=Donthedev
+acm.vxl_mp.description=Hiányzó blokkok, tételek és receptek sorozata, amelyeknek vanília színben kell lenniük.
+
+acm.vxl_mp.guide.title=§l§3Hiányzó darabok útmutatója!§r
+acm.vxl_mp.guide.recipes.title=§5 Receptek
+acm.vxl_mp.guide.recipes.desc=- Készíthető nyergek.
+acm.vxl_mp.guide.items.title=§6 Elemek
+acm.vxl_mp.guide.items.desc=- Főtt tojás.
+acm.vxl_mp.guide.blocks.title=§4Blocks§r
+acm.vxl_mp.guide.ac.title=§l§2- Akác:§r
+acm.vxl_mp.guide.ac.desc=§oAkác könyvespolc, akác létra, akác rönklap, akácfal.§r
+acm.vxl_mp.guide.bi.title=§l§2- Nyírfa:§r
+acm.vxl_mp.guide.bi.desc=§oNyír könyvespolc, nyírfa létra, nyírfa rönkfödém, nyírfa fal.§r
+acm.vxl_mp.guide.ch.title=§l§2- Cseresznye:§r
+acm.vxl_mp.guide.ch.desc=§oCherry könyvespolc, cseresznye létra, cseresznye rönklap, cseresznyefal.§r
+acm.vxl_mp.guide.cr.title=§l§2- Bíbor:§r
+acm.vxl_mp.guide.cr.desc=§oCrimson könyvespolc, bíbor létra, bíbor szárlemez, bíbor fal.§r
+acm.vxl_mp.guide.do.title=§l§2- Sötét tölgy:§r
+acm.vxl_mp.guide.do.desc=§oSötét tölgy könyvespolc, sötét tölgy létra, sötét tölgy rönklap, sötét tölgy fal.§r
+acm.vxl_mp.guide.ju.title=§l§2- Dzsungel:§r
+acm.vxl_mp.guide.ju.desc=§oJungle könyvespolc, dzsungellétra, dzsungel rönkfödém, dzsungel fala.§r
+acm.vxl_mp.guide.ma.title=§l§2- Mangrove:§r
+acm.vxl_mp.guide.ma.desc=§oMangrove könyvespolc, mangrove létra, mangrove rönklap, mangrove fal.§r
+acm.vxl_mp.guide.oak.title=§l§2- Tölgy:§r
+acm.vxl_mp.guide.oak.desc=§oTölgy létra, Tölgy Rönk Födém, Tölgy Fal.§r
+acm.vxl_mp.guide.po.title=§l§2- Halványtölgy:§r
+acm.vxl_mp.guide.po.desc=§oSápadt tölgyfa könyvespolc, halványtölgy létra, halványtölgy rönkfödém, halványtölgy fal.§r
+acm.vxl_mp.guide.sp.title=§l§2- Lucfenyő:§r
+acm.vxl_mp.guide.sp.desc=§oSpruce könyvespolc, luc létra, lucfenyő rönk födém, lucfal.§r
+acm.vxl_mp.guide.wa.title=§l§2- Elvetemült:§r
+acm.vxl_mp.guide.wa.desc=§oElvetődött könyvespolc, megvetemedett létra, megvetemedett szárlemez, megvetemedett fal.§r
+acm.vxl_mp.guide.cd.title=§l§2- Cobbled Deepslate:§r
+acm.vxl_mp.guide.cd.desc=§oCobbled Deepslate Fence & Fence Gate.§r
+acm.vxl_mp.guide.cb.title=§l§2- Macskakő:§r
+acm.vxl_mp.guide.cb.desc=§oMacskaköves kerítés és kerítéskapu.§r
+acm.vxl_mp.guide.mc.title=§l§2- Mohos macskakő:§r
+acm.vxl_mp.guide.mc.desc=§oMossy Cobblestone Fence & Fence Gate.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Sötét Prismarine:§r
+acm.vxl_mp.guide.da_pr.desc=§oSötét Prismarine Fal.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Prizmarintégla:§r
+acm.vxl_mp.guide.pr_br.desc=§oPrismarine téglafal.§r
+acm.vxl_mp.guide.co.title=§l§2- Réz:§r
+acm.vxl_mp.guide.co.desc=§oRézrudak.§r

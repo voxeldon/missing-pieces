@@ -1,0 +1,126 @@
+pack.name=Fehlende Teile
+pack.description=Fehlende Teile
+
+tile.vxl_core:artisan_table.name=Handwerkertisch
+
+tile.vxl_mp:acacia_log_slab.name=Akazienholzplatte
+tile.vxl_mp:birch_log_slab.name=Birkenstammplatte
+tile.vxl_mp:cherry_log_slab.name=Kirschholzplatte
+tile.vxl_mp:crimson_stem_slab.name=Purpurrote Stammplatte
+tile.vxl_mp:dark_oak_log_slab.name= Blockplatte aus dunkler Eiche 
+tile.vxl_mp:jungle_log_slab.name=Dschungelholzplatte 
+tile.vxl_mp:mangrove_log_slab.name=Mangrovenholzplatte
+tile.vxl_mp:oak_log_slab.name=Eichenholzplatte
+tile.vxl_mp:pale_oak_log_slab.name=Blockplatte aus hellem Eichenholz
+tile.vxl_mp:spruce_log_slab.name=Fichtenstammplatte
+tile.vxl_mp:warped_stem_slab.name=Verzogene Stammplatte
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Abgestreifte Akazienholzplatte
+tile.vxl_mp:stripped_birch_log_slab.name=Abgestreifte Birkenstammplatte
+tile.vxl_mp:stripped_cherry_log_slab.name=Abgestreifte Kirschholzplatte
+tile.vxl_mp:stripped_crimson_stem_slab.name=Abgestreifte purpurrote Stammplatte
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Abgestreifte Blockplatte aus dunkler Eiche 
+tile.vxl_mp:stripped_jungle_log_slab.name=Abgestreifte Dschungelholzplatte 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Abgestreifte Mangrovenholzplatte
+tile.vxl_mp:stripped_oak_log_slab.name=Abgestreifte Eichenholzplatte
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Abgestreifte Blockplatte aus hellem Eichenholz
+tile.vxl_mp:stripped_spruce_log_slab.name=Abgestreifte Fichtenstammplatte
+tile.vxl_mp:stripped_warped_stem_slab.name=Abgezogene, verzogene Stammplatte
+
+tile.vxl_mp:acacia_ladder.name=Akazienleiter
+tile.vxl_mp:birch_ladder.name=Birkenleiter
+tile.vxl_mp:cherry_ladder.name=Kirschleiter
+tile.vxl_mp:crimson_ladder.name=Purpurrote Leiter
+tile.vxl_mp:dark_oak_ladder.name= Dunkle Eichenleiter 
+tile.vxl_mp:jungle_ladder.name=Dschungelleiter 
+tile.vxl_mp:mangrove_ladder.name=Mangrovenleiter
+tile.vxl_mp:oak_ladder.name=Eichenleiter
+tile.vxl_mp:pale_oak_ladder.name=Leiter aus heller Eiche
+tile.vxl_mp:spruce_ladder.name=Fichtenleiter
+tile.vxl_mp:warped_ladder.name=Verzogene Leiter
+
+tile.vxl_mp:acacia_bookshelf.name=Bücherregal aus Akazienholz
+tile.vxl_mp:birch_bookshelf.name=Bücherregal aus Birke
+tile.vxl_mp:cherry_bookshelf.name=Kirsch-Bücherregal
+tile.vxl_mp:crimson_bookshelf.name=Crimson Bücherregal
+tile.vxl_mp:dark_oak_bookshelf.name= Bücherregal aus dunkler Eiche 
+tile.vxl_mp:jungle_bookshelf.name=Dschungel-Bücherregal 
+tile.vxl_mp:mangrove_bookshelf.name=Mangroven-Bücherregal
+tile.vxl_mp:pale_oak_bookshelf.name=Bücherregal aus heller Eiche
+tile.vxl_mp:spruce_bookshelf.name=Bücherregal aus Fichte
+tile.vxl_mp:warped_bookshelf.name=Verzogenes Bücherregal
+
+tile.vxl_mp:acacia_wall.name=Akazienwand
+tile.vxl_mp:birch_wall.name=Birkenwand
+tile.vxl_mp:cherry_wall.name=Kirschwand
+tile.vxl_mp:crimson_wall.name=Crimson Wall
+tile.vxl_mp:dark_oak_wall.name= Dunkle Eichenwand 
+tile.vxl_mp:jungle_wall.name=Dschungelwand 
+tile.vxl_mp:mangrove_wall.name=Mangrovenmauer
+tile.vxl_mp:oak_wall.name=Eichenwand
+tile.vxl_mp:pale_oak_wall.name=Wand aus heller Eiche
+tile.vxl_mp:spruce_wall.name=Fichtenwand
+tile.vxl_mp:warped_wall.name=Verzogene Wand
+
+tile.vxl_mp:cobblestone_fence.name=Kopfsteinpflasterzaun
+tile.vxl_mp:mossy_cobblestone_fence.name=Moosiger Kopfsteinpflasterzaun
+tile.vxl_mp:cobbled_deepslate_fence.name=Gepflasterter Deepslate-Zaun
+
+tile.vxl_mp:cobblestone_fence_gate.name=Kopfsteinpflaster-Zauntor
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Moosiges Kopfsteinpflaster-Zauntor
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Gepflastertes Zauntor aus tiefem Schiefer
+
+tile.vxl_mp:prismarine_brick_wall.name=Prisma-Ziegelmauer
+tile.vxl_mp:dark_prismarine_wall.name=Dunkle Prismenwand
+
+tile.vxl_mp:copper_bars.name=Kupferbarren
+tile.vxl_mp:exposed_copper_bars.name=Freiliegende Kupferstäbe
+tile.vxl_mp:oxidized_copper_bars.name=Oxidierte Kupferstäbe
+tile.vxl_mp:weathered_copper_bars.name=Verwitterte Kupferbarren
+
+item.vxl_mp:cooked_egg=Gekochtes Ei
+
+acm.vxl_mp.pack_name=§3Fehlende Teile
+acm.vxl_mp.author_name=Donthedev
+acm.vxl_mp.description=Eine Reihe fehlender Blöcke, Gegenstände und Rezepte, die in Vanilla enthalten sein sollten.
+
+acm.vxl_mp.guide.title=§l§3Führer zu fehlenden Teilen!§r
+acm.vxl_mp.guide.recipes.title=§5Rezepte
+acm.vxl_mp.guide.recipes.desc=- Herstellbare Sättel.
+acm.vxl_mp.guide.items.title=§6Artikel
+acm.vxl_mp.guide.items.desc=- Gekochtes Ei.
+acm.vxl_mp.guide.blocks.title=§4Sperren§r
+acm.vxl_mp.guide.ac.title=§l§2- Akazie:§r
+acm.vxl_mp.guide.ac.desc=§oBücherregal aus Akazienholz, Akazienleiter, Akazienholzplatte, Akazienwand.§r
+acm.vxl_mp.guide.bi.title=§l§2- Birke:§r
+acm.vxl_mp.guide.bi.desc=§oBücherregal aus Birke, Leiter aus Birke, Platte aus Birkenholz, Wand aus Birke.§r
+acm.vxl_mp.guide.ch.title=§l§2- Kirsche:§r
+acm.vxl_mp.guide.ch.desc=§oKirschbücherregal, Kirschleiter, Kirschholzplatte, Kirschwand.§r
+acm.vxl_mp.guide.cr.title=§l§2- Crimson:§r
+acm.vxl_mp.guide.cr.desc=§oCrimson-Bücherregal, Crimson-Leiter, Crimson-Stielplatte, Crimson-Wand.§r
+acm.vxl_mp.guide.do.title=§l§2- Dunkle Eiche:§r
+acm.vxl_mp.guide.do.desc=§oBücherregal aus dunkler Eiche, Leiter aus dunkler Eiche, Blockplatte aus dunkler Eiche, Wand aus dunkler Eiche.§r
+acm.vxl_mp.guide.ju.title=§l§2- Dschungel:§r
+acm.vxl_mp.guide.ju.desc=§oDschungel-Bücherregal, Dschungelleiter, Dschungelholzplatte, Dschungelwand.§r
+acm.vxl_mp.guide.ma.title=§l§2- Mangrove:§r
+acm.vxl_mp.guide.ma.desc=§oMangroven-Bücherregal, Mangrovenleiter, Mangrovenholzplatte, Mangrovenwand.§r
+acm.vxl_mp.guide.oak.title=§l§2- Eiche:§r
+acm.vxl_mp.guide.oak.desc=§oEichenleiter, Eichenholzplatte, Eichenwand.§r
+acm.vxl_mp.guide.po.title=§l§2- Helle Eiche:§r
+acm.vxl_mp.guide.po.desc=§oBücherregal aus heller Eiche, Leiter aus heller Eiche, Blockplatte aus heller Eiche, Wand aus heller Eiche.§r
+acm.vxl_mp.guide.sp.title=§l§2- Fichte:§r
+acm.vxl_mp.guide.sp.desc=§oBücherregal aus Fichte, Leiter aus Fichte, Platte aus Fichtenholz, Wand aus Fichte.§r
+acm.vxl_mp.guide.wa.title=§l§2- Verzerrt:§r
+acm.vxl_mp.guide.wa.desc=§oVerzogenes Bücherregal, verzogene Leiter, verzogene Stammplatte, verzogene Wand.§r
+acm.vxl_mp.guide.cd.title=§l§2- Cobbled Deepslate:§r
+acm.vxl_mp.guide.cd.desc=§oGepflasterter Deepslate-Zaun und Zauntor.§r
+acm.vxl_mp.guide.cb.title=§l§2- Kopfsteinpflaster:§r
+acm.vxl_mp.guide.cb.desc=§oKopfsteinpflasterzaun und Zauntor.§r
+acm.vxl_mp.guide.mc.title=§l§2 – Moosiges Kopfsteinpflaster:§r
+acm.vxl_mp.guide.mc.desc=§oMoosiger Kopfsteinpflasterzaun und Zauntor.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Dunkles Prisma:§r
+acm.vxl_mp.guide.da_pr.desc=§oDark Prismarine Wall.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Prismarin-Ziegel:§r
+acm.vxl_mp.guide.pr_br.desc=§oPrismarine Backsteinmauer.§r
+acm.vxl_mp.guide.co.title=§l§2- Kupfer:§r
+acm.vxl_mp.guide.co.desc=§oKupferbarren.§r

@@ -12,7 +12,8 @@
           "vxl_mp:connection_type_south":[false, true],
           "vxl_mp:connection_type_east":[false, true],
           "vxl_mp:connection_type_west":[false, true],
-          "vxl_mp:stage":["copper", "exposed_copper", "oxidized_copper", "weathered_copper"]
+          "vxl_mp:stage":["copper", "exposed_copper", "oxidized_copper", "weathered_copper"],
+          "vxl_mp:placed_bit":[false,true]
         }
       },
       "components": {

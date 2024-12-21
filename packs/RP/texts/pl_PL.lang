@@ -1,0 +1,126 @@
+pack.name=Brakujące elementy
+pack.description=Brakujące elementy
+
+tile.vxl_core:artisan_table.name=Stół rzemieślniczy
+
+tile.vxl_mp:acacia_log_slab.name=Płyta z bali akacjowych
+tile.vxl_mp:birch_log_slab.name=Płyta z bali brzozowych
+tile.vxl_mp:cherry_log_slab.name=Płyta z bali wiśniowych
+tile.vxl_mp:crimson_stem_slab.name=Szkarłatna Płyta Łodygi
+tile.vxl_mp:dark_oak_log_slab.name= Płyta z bali ciemnego dębu 
+tile.vxl_mp:jungle_log_slab.name=Płyta z bali dżungli 
+tile.vxl_mp:mangrove_log_slab.name=Płyta z bali namorzynowych
+tile.vxl_mp:oak_log_slab.name=Płyta z bali dębowych
+tile.vxl_mp:pale_oak_log_slab.name=Płyta z bali jasnego dębu
+tile.vxl_mp:spruce_log_slab.name=Płyta z bali świerkowych
+tile.vxl_mp:warped_stem_slab.name=Wypaczona płyta macierzysta
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Płyta z bali akacjowych okrojona
+tile.vxl_mp:stripped_birch_log_slab.name=Płyta z bali brzozowych
+tile.vxl_mp:stripped_cherry_log_slab.name=Płyta z bali wiśniowych
+tile.vxl_mp:stripped_crimson_stem_slab.name=Pozbawiona szkarłatna płyta łodygi
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Płyta z bali z ciemnego dębu 
+tile.vxl_mp:stripped_jungle_log_slab.name=Rozebrana płyta z bali dżungli 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Płyta z bali namorzynowych
+tile.vxl_mp:stripped_oak_log_slab.name=Płyta z bali dębowych, pozbawiona drewna
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Płyta z bali z jasnego dębu, pozbawiona pasków
+tile.vxl_mp:stripped_spruce_log_slab.name=Płyta z rozebranych bali świerkowych
+tile.vxl_mp:stripped_warped_stem_slab.name=Obnażona, wypaczona płyta macierzysta
+
+tile.vxl_mp:acacia_ladder.name=Drabina akacjowa
+tile.vxl_mp:birch_ladder.name=Drabina brzozowa
+tile.vxl_mp:cherry_ladder.name=Wiśniowa drabina
+tile.vxl_mp:crimson_ladder.name=Karmazynowa drabina
+tile.vxl_mp:dark_oak_ladder.name= Drabina z ciemnego dębu 
+tile.vxl_mp:jungle_ladder.name=Drabina w dżungli 
+tile.vxl_mp:mangrove_ladder.name=Drabina namorzynowa
+tile.vxl_mp:oak_ladder.name=Dębowa drabina
+tile.vxl_mp:pale_oak_ladder.name=Drabina z jasnego dębu
+tile.vxl_mp:spruce_ladder.name=Świerkowa drabina
+tile.vxl_mp:warped_ladder.name=Wypaczona drabina
+
+tile.vxl_mp:acacia_bookshelf.name=Akacjowy regał na książki
+tile.vxl_mp:birch_bookshelf.name=Brzozowy regał na książki
+tile.vxl_mp:cherry_bookshelf.name=Wiśniowa półka na książki
+tile.vxl_mp:crimson_bookshelf.name=Karmazynowa półka na książki
+tile.vxl_mp:dark_oak_bookshelf.name= Półka na książki z ciemnego dębu 
+tile.vxl_mp:jungle_bookshelf.name=Półka na książki w dżungli 
+tile.vxl_mp:mangrove_bookshelf.name=Półka na książki namorzynowe
+tile.vxl_mp:pale_oak_bookshelf.name=Półka na książki z jasnego dębu
+tile.vxl_mp:spruce_bookshelf.name=Świerkowa półka na książki
+tile.vxl_mp:warped_bookshelf.name=Wypaczona półka na książki
+
+tile.vxl_mp:acacia_wall.name=Ściana Akacji
+tile.vxl_mp:birch_wall.name=Ściana Brzozowa
+tile.vxl_mp:cherry_wall.name=Wiśniowa ściana
+tile.vxl_mp:crimson_wall.name=Karmazynowa ściana
+tile.vxl_mp:dark_oak_wall.name= Ściana z ciemnego dębu 
+tile.vxl_mp:jungle_wall.name=Ściana dżungli 
+tile.vxl_mp:mangrove_wall.name=Ściana Namorzynowa
+tile.vxl_mp:oak_wall.name=Dębowa ściana
+tile.vxl_mp:pale_oak_wall.name=Ściana z jasnego dębu
+tile.vxl_mp:spruce_wall.name=Ściana świerkowa
+tile.vxl_mp:warped_wall.name=Wypaczona ściana
+
+tile.vxl_mp:cobblestone_fence.name=Ogrodzenie z kostki brukowej
+tile.vxl_mp:mossy_cobblestone_fence.name=Omszały brukowany płot
+tile.vxl_mp:cobbled_deepslate_fence.name=Brukowane ogrodzenie z głębokiego łupka
+
+tile.vxl_mp:cobblestone_fence_gate.name=Brama ogrodzeniowa z kostki brukowej
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Omszała brukowana brama ogrodzeniowa
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Brukowana brama ogrodzeniowa z głębokiego łupka
+
+tile.vxl_mp:prismarine_brick_wall.name=Ściana z cegły pryzmarynowej
+tile.vxl_mp:dark_prismarine_wall.name=Ciemna pryzmatyczna ściana
+
+tile.vxl_mp:copper_bars.name=Sztaby miedziane
+tile.vxl_mp:exposed_copper_bars.name=Odsłonięte pręty miedziane
+tile.vxl_mp:oxidized_copper_bars.name=Utlenione pręty miedziane
+tile.vxl_mp:weathered_copper_bars.name=Wyblakłe pręty miedziane
+
+item.vxl_mp:cooked_egg=Gotowane Jajko
+
+acm.vxl_mp.pack_name=§3Brakujące elementy
+acm.vxl_mp.author_name=Donthedev
+acm.vxl_mp.description=Seria brakujących bloków, przedmiotów i przepisów, które powinny być w wanilii.
+
+acm.vxl_mp.guide.title=§l§3Przewodnik po brakujących elementach!§r
+acm.vxl_mp.guide.recipes.title=§5Przepisy
+acm.vxl_mp.guide.recipes.desc=- Wytwarzane siodła.
+acm.vxl_mp.guide.items.title=§6Poz
+acm.vxl_mp.guide.items.desc=- Gotowane Jajko.
+acm.vxl_mp.guide.blocks.title=§4Bloki§r
+acm.vxl_mp.guide.ac.title=§l§2- Akacja:§r
+acm.vxl_mp.guide.ac.desc=§oAkacjowy regał na książki, akacjowa drabina, akacjowa płyta z bali, akacjowa ściana.§r
+acm.vxl_mp.guide.bi.title=§l§2- Brzoza:§r
+acm.vxl_mp.guide.bi.desc=§oBrzozowy regał na książki, brzozowa drabina, brzozowa płyta z bali, brzozowa ściana.§r
+acm.vxl_mp.guide.ch.title=§l§2- Wiśnia:§r
+acm.vxl_mp.guide.ch.desc=§oWiśniowy regał na książki, Wiśniowa drabina, Wiśniowa płyta z bali, Wiśniowa ściana.§r
+acm.vxl_mp.guide.cr.title=§l§2- Karmazynowy:§r
+acm.vxl_mp.guide.cr.desc=§oSzkarłatna półka na książki, Szkarłatna drabina, Karmazynowa płyta na pniu, Karmazynowa ściana.§r
+acm.vxl_mp.guide.do.title=§l§2- Ciemny Dąb:§r
+acm.vxl_mp.guide.do.desc=§oRegał na książki z ciemnego dębu, drabina z ciemnego dębu, płyta z bali z ciemnego dębu, ściana z ciemnego dębu.§r
+acm.vxl_mp.guide.ju.title=§l§2- Dżungla:§r
+acm.vxl_mp.guide.ju.desc=§oRegał na książki w dżungli, drabina w dżungli, płyta z bali w dżungli, ściana w dżungli.§r
+acm.vxl_mp.guide.ma.title=§l§2- Namorzynowe:§r
+acm.vxl_mp.guide.ma.desc=§oRegał namorzynowy, drabina namorzynowa, płyta z bali namorzynowych, ściana namorzynowa.§r
+acm.vxl_mp.guide.oak.title=§l§2- Dąb:§r
+acm.vxl_mp.guide.oak.desc=§oDrabina dębowa, płyta z bali dębowych, ściana dębowa.§r
+acm.vxl_mp.guide.po.title=§l§2- Dąb jasny:§r
+acm.vxl_mp.guide.po.desc=§oRegał z jasnego dębu, drabina z jasnego dębu, płyta z bali z jasnego dębu, ściana z jasnego dębu.§r
+acm.vxl_mp.guide.sp.title=§l§2- Świerk:§r
+acm.vxl_mp.guide.sp.desc=§oRegał ze świerku, drabina ze świerku, płyta z bali świerkowych, ściana ze świerku.§r
+acm.vxl_mp.guide.wa.title=§l§2- Wypaczony:§r
+acm.vxl_mp.guide.wa.desc=§oWypaczona półka na książki, Wypaczona drabina, Wypaczona płyta macierzysta, Wypaczona ściana.§r
+acm.vxl_mp.guide.cd.title=§l§2- Brukowane łupki głębinowe:§r
+acm.vxl_mp.guide.cd.desc=§oBrutowane ogrodzenie z głębokiego łupka i brama ogrodzeniowa.§r
+acm.vxl_mp.guide.cb.title=§l§2- Bruk:§r
+acm.vxl_mp.guide.cb.desc=§oPłot brukowany i brama ogrodzeniowa.§r
+acm.vxl_mp.guide.mc.title=§l§2- Omszały bruk:§r
+acm.vxl_mp.guide.mc.desc=§oMachany brukowany płot i brama ogrodzeniowa.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Ciemny Prismarine:§r
+acm.vxl_mp.guide.da_pr.desc=§oCiemna ściana pryzmatyczna.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Cegła Prismarine:§r
+acm.vxl_mp.guide.pr_br.desc=§oPrismarynowy mur ceglany.§r
+acm.vxl_mp.guide.co.title=§l§2- Miedź:§r
+acm.vxl_mp.guide.co.desc=§oSztaby miedziane.§r

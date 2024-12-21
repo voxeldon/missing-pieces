@@ -1,0 +1,126 @@
+pack.name=Ontbrekende stukken
+pack.description=Ontbrekende stukken
+
+tile.vxl_core:artisan_table.name=Ambachtelijke tafel
+
+tile.vxl_mp:acacia_log_slab.name=Acaciahoutplaat
+tile.vxl_mp:birch_log_slab.name=Berkenhouten plaat
+tile.vxl_mp:cherry_log_slab.name=Kersenhouten plaat
+tile.vxl_mp:crimson_stem_slab.name=Karmozijnrode stamplaat
+tile.vxl_mp:dark_oak_log_slab.name= Donkere eikenhouten plaat 
+tile.vxl_mp:jungle_log_slab.name=Jungle Log-plaat 
+tile.vxl_mp:mangrove_log_slab.name=Mangrovehoutplaat
+tile.vxl_mp:oak_log_slab.name=Eikenhouten plaat
+tile.vxl_mp:pale_oak_log_slab.name=Bleke eikenhouten plaat
+tile.vxl_mp:spruce_log_slab.name=Sparrenhouten plaat
+tile.vxl_mp:warped_stem_slab.name=Vervormde stamplaat
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Gestripte acaciahoutplaat
+tile.vxl_mp:stripped_birch_log_slab.name=Gestripte berkenhouten plaat
+tile.vxl_mp:stripped_cherry_log_slab.name=Gestripte kersenhouten plaat
+tile.vxl_mp:stripped_crimson_stem_slab.name=Gestripte karmozijnrode stamplaat
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Gestripte donkere eikenhouten plaat 
+tile.vxl_mp:stripped_jungle_log_slab.name=Gestripte Jungle Log-plaat 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Gestripte Mangrove Log Plaat
+tile.vxl_mp:stripped_oak_log_slab.name=Gestripte eikenhouten plaat
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Gestripte bleke eikenhouten plaat
+tile.vxl_mp:stripped_spruce_log_slab.name=Gestripte sparrenhouten plaat
+tile.vxl_mp:stripped_warped_stem_slab.name=Gestripte kromgetrokken stamplaat
+
+tile.vxl_mp:acacia_ladder.name=Acacialadder
+tile.vxl_mp:birch_ladder.name=Berkenladder
+tile.vxl_mp:cherry_ladder.name=Kersenladder
+tile.vxl_mp:crimson_ladder.name=Karmozijnrode ladder
+tile.vxl_mp:dark_oak_ladder.name= Donker eiken ladder 
+tile.vxl_mp:jungle_ladder.name=Jungleladder 
+tile.vxl_mp:mangrove_ladder.name=Mangroveladder
+tile.vxl_mp:oak_ladder.name=Eiken ladder
+tile.vxl_mp:pale_oak_ladder.name=Bleke eiken ladder
+tile.vxl_mp:spruce_ladder.name=Vuren ladder
+tile.vxl_mp:warped_ladder.name=Vervormde ladder
+
+tile.vxl_mp:acacia_bookshelf.name=Acacia boekenplank
+tile.vxl_mp:birch_bookshelf.name=Berken boekenplank
+tile.vxl_mp:cherry_bookshelf.name=Kersenboekenplank
+tile.vxl_mp:crimson_bookshelf.name=Karmozijnrode boekenplank
+tile.vxl_mp:dark_oak_bookshelf.name= Donker eiken boekenplank 
+tile.vxl_mp:jungle_bookshelf.name=Jungle-boekenplank 
+tile.vxl_mp:mangrove_bookshelf.name=Mangrove boekenplank
+tile.vxl_mp:pale_oak_bookshelf.name=Bleke eiken boekenplank
+tile.vxl_mp:spruce_bookshelf.name=Vuren boekenplank
+tile.vxl_mp:warped_bookshelf.name=Vervormde boekenplank
+
+tile.vxl_mp:acacia_wall.name=Acacia-muur
+tile.vxl_mp:birch_wall.name=Berken muur
+tile.vxl_mp:cherry_wall.name=Kersenmuur
+tile.vxl_mp:crimson_wall.name=Karmozijnrode muur
+tile.vxl_mp:dark_oak_wall.name= Donker eiken muur 
+tile.vxl_mp:jungle_wall.name=Jungle-muur 
+tile.vxl_mp:mangrove_wall.name=Mangrovemuur
+tile.vxl_mp:oak_wall.name=Eiken muur
+tile.vxl_mp:pale_oak_wall.name=Bleke eiken muur
+tile.vxl_mp:spruce_wall.name=Vuren muur
+tile.vxl_mp:warped_wall.name=Vervormde muur
+
+tile.vxl_mp:cobblestone_fence.name=Geplaveide hek
+tile.vxl_mp:mossy_cobblestone_fence.name=Bemoste geplaveide omheining
+tile.vxl_mp:cobbled_deepslate_fence.name=Geplaveide diepe leisteen hek
+
+tile.vxl_mp:cobblestone_fence_gate.name=Geplaveide hekpoort
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Bemoste geplaveide hekpoort
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Geplaveide hekpoort met diepe leisteen
+
+tile.vxl_mp:prismarine_brick_wall.name=Prismarien bakstenen muur
+tile.vxl_mp:dark_prismarine_wall.name=Donkere Prismarienmuur
+
+tile.vxl_mp:copper_bars.name=Koperen staven
+tile.vxl_mp:exposed_copper_bars.name=Blootgestelde koperen staven
+tile.vxl_mp:oxidized_copper_bars.name=Geoxideerde koperen staven
+tile.vxl_mp:weathered_copper_bars.name=Verweerde koperen staven
+
+item.vxl_mp:cooked_egg=Gekookt ei
+
+acm.vxl_mp.pack_name=§3Ontbrekende stukken
+acm.vxl_mp.author_name=Donthedev
+acm.vxl_mp.description=Een reeks ontbrekende blokken, items en recepten die in vanille zouden moeten zijn.
+
+acm.vxl_mp.guide.title=§l§3 Gids voor ontbrekende stukjes!§r
+acm.vxl_mp.guide.recipes.title=§5Recepten
+acm.vxl_mp.guide.recipes.desc=- Maakbare zadels.
+acm.vxl_mp.guide.items.title=§6Artikelen
+acm.vxl_mp.guide.items.desc=- Gekookt ei.
+acm.vxl_mp.guide.blocks.title=§4Blokken§r
+acm.vxl_mp.guide.ac.title=§l§2- Acacia:§r
+acm.vxl_mp.guide.ac.desc=§oAcacia boekenplank, acacia ladder, acacia boomstamplaat, acacia muur.§r
+acm.vxl_mp.guide.bi.title=§l§2- Berk:§r
+acm.vxl_mp.guide.bi.desc=§oBerkenboekenplank, berkenladder, berkenhouten plaat, berkenmuur.§r
+acm.vxl_mp.guide.ch.title=§l§2- Kers:§r
+acm.vxl_mp.guide.ch.desc=§oKersenboekenplank, Kersenladder, Kersenhouten plaat, Kersenmuur.§r
+acm.vxl_mp.guide.cr.title=§l§2- Karmozijnrood:§r
+acm.vxl_mp.guide.cr.desc=§oCrimson Bookshelf, Crimson Ladder, Crimson Stem Slab, Crimson Wall.§r
+acm.vxl_mp.guide.do.title=§l§2- Donker eiken:§r
+acm.vxl_mp.guide.do.desc=§oDonker eiken boekenplank, donker eiken ladder, donker eiken boomstamplaat, donker eiken muur.§r
+acm.vxl_mp.guide.ju.title=§l§2- Jungle:§r
+acm.vxl_mp.guide.ju.desc=§oJungle Boekenplank, Jungle Ladder, Jungle Boomstamplaat, Jungle Muur.§r
+acm.vxl_mp.guide.ma.title=§l§2- Mangrove:§r
+acm.vxl_mp.guide.ma.desc=§oMangroveboekenplank, mangroveladder, mangrovehoutplaat, mangrovemuur.§r
+acm.vxl_mp.guide.oak.title=§l§2- Eik:§r
+acm.vxl_mp.guide.oak.desc=§oEiken ladder, eikenhouten plaat, eiken muur.§r
+acm.vxl_mp.guide.po.title=§l§2- Bleke eik:§r
+acm.vxl_mp.guide.po.desc=§oBleke eiken boekenplank, bleke eiken ladder, bleke eiken boomstamplaat, bleke eiken muur.§r
+acm.vxl_mp.guide.sp.title=§l§2- Vuren:§r
+acm.vxl_mp.guide.sp.desc=§oVuren boekenplank, vuren ladder, vurenhouten plaat, vuren muur.§r
+acm.vxl_mp.guide.wa.title=§l§2- Kromgetrokken:§r
+acm.vxl_mp.guide.wa.desc=§oKromgetrokken boekenplank, Kromgetrokken ladder, Kromgetrokken stamplaat, Kromgetrokken muur.§r
+acm.vxl_mp.guide.cd.title=§l§2- Geplaveide dieplei:§r
+acm.vxl_mp.guide.cd.desc=§oGeplaveide leisteenomheining en hekpoort.§r
+acm.vxl_mp.guide.cb.title=§l§2- Kasseien:§r
+acm.vxl_mp.guide.cb.desc=§oGeplaveide omheining en hekpoort.§r
+acm.vxl_mp.guide.mc.title=§l§2- Bemoste kasseien:§r
+acm.vxl_mp.guide.mc.desc=§oBemoste geplaveide omheining en hekpoort.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Donkere Prismarine:§r
+acm.vxl_mp.guide.da_pr.desc=§oDonkere Prismarine-muur.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Prismariensteen:§r
+acm.vxl_mp.guide.pr_br.desc=§oPrismarien bakstenen muur.§r
+acm.vxl_mp.guide.co.title=§l§2- Koper:§r
+acm.vxl_mp.guide.co.desc=§oKoperstaven.§r

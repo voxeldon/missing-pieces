@@ -1,0 +1,126 @@
+pack.name=Недостающие части
+pack.description=Недостающие части
+
+tile.vxl_core:artisan_table.name=Ремесленный стол
+
+tile.vxl_mp:acacia_log_slab.name=Бревенчатая плита из акации
+tile.vxl_mp:birch_log_slab.name=Березовая бревенчатая плита
+tile.vxl_mp:cherry_log_slab.name=Плита из вишневого бревна
+tile.vxl_mp:crimson_stem_slab.name=Багровая плита ствола
+tile.vxl_mp:dark_oak_log_slab.name= Бревенчатая плита из темного дуба 
+tile.vxl_mp:jungle_log_slab.name=Бревенчатая плита из джунглей 
+tile.vxl_mp:mangrove_log_slab.name=Плита из мангрового дерева
+tile.vxl_mp:oak_log_slab.name=Дубовая бревенчатая плита
+tile.vxl_mp:pale_oak_log_slab.name=Бревенчатая плита из бледного дуба
+tile.vxl_mp:spruce_log_slab.name=Плита из елового бревна
+tile.vxl_mp:warped_stem_slab.name=Искривленная плита ствола
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Полосатая бревенчатая плита акации
+tile.vxl_mp:stripped_birch_log_slab.name=Полосатая березовая бревенчатая плита
+tile.vxl_mp:stripped_cherry_log_slab.name=Полосатая плита из вишневого бревна
+tile.vxl_mp:stripped_crimson_stem_slab.name=Раздетая малиновая плита ствола
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Полосатая бревенчатая плита из темного дуба 
+tile.vxl_mp:stripped_jungle_log_slab.name=Раздетая бревенчатая плита из джунглей 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Разобранная плита из мангрового бревна
+tile.vxl_mp:stripped_oak_log_slab.name=Полосатая дубовая бревенчатая плита
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Полосатая бревенчатая плита из светлого дуба
+tile.vxl_mp:stripped_spruce_log_slab.name=Полосатая еловая бревенчатая плита
+tile.vxl_mp:stripped_warped_stem_slab.name=Разобранная деформированная плита ствола
+
+tile.vxl_mp:acacia_ladder.name=Лестница из акации
+tile.vxl_mp:birch_ladder.name=Березовая лестница
+tile.vxl_mp:cherry_ladder.name=Вишневая лестница
+tile.vxl_mp:crimson_ladder.name=Багровая лестница
+tile.vxl_mp:dark_oak_ladder.name= Лестница из темного дуба 
+tile.vxl_mp:jungle_ladder.name=Лестница в джунглях 
+tile.vxl_mp:mangrove_ladder.name=Мангровая лестница
+tile.vxl_mp:oak_ladder.name=Дубовая лестница
+tile.vxl_mp:pale_oak_ladder.name=Лестница из бледного дуба
+tile.vxl_mp:spruce_ladder.name=Еловая лестница
+tile.vxl_mp:warped_ladder.name=Искаженная лестница
+
+tile.vxl_mp:acacia_bookshelf.name=Книжная полка из акации
+tile.vxl_mp:birch_bookshelf.name=Березовая книжная полка
+tile.vxl_mp:cherry_bookshelf.name=Вишневая книжная полка
+tile.vxl_mp:crimson_bookshelf.name=Багровая книжная полка
+tile.vxl_mp:dark_oak_bookshelf.name= Книжная полка из темного дуба 
+tile.vxl_mp:jungle_bookshelf.name=Книжная полка в джунглях 
+tile.vxl_mp:mangrove_bookshelf.name=Мангровая книжная полка
+tile.vxl_mp:pale_oak_bookshelf.name=Книжная полка из бледного дуба
+tile.vxl_mp:spruce_bookshelf.name=Еловая книжная полка
+tile.vxl_mp:warped_bookshelf.name=Искаженная книжная полка
+
+tile.vxl_mp:acacia_wall.name=Стена из акации
+tile.vxl_mp:birch_wall.name=Березовая стена
+tile.vxl_mp:cherry_wall.name=Вишневая стена
+tile.vxl_mp:crimson_wall.name=Багровая стена
+tile.vxl_mp:dark_oak_wall.name= Стена из темного дуба 
+tile.vxl_mp:jungle_wall.name=Стена джунглей 
+tile.vxl_mp:mangrove_wall.name=Мангровая стена
+tile.vxl_mp:oak_wall.name=Дубовая стена
+tile.vxl_mp:pale_oak_wall.name=Стена из бледного дуба
+tile.vxl_mp:spruce_wall.name=Еловая стена
+tile.vxl_mp:warped_wall.name=Искаженная стена
+
+tile.vxl_mp:cobblestone_fence.name=Булыжник Забор
+tile.vxl_mp:mossy_cobblestone_fence.name=Забор из мшистого булыжника
+tile.vxl_mp:cobbled_deepslate_fence.name=Мощеный забор из сланца
+
+tile.vxl_mp:cobblestone_fence_gate.name=Ворота из булыжника
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Заборные ворота из мшистого булыжника
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Мощеные ворота для забора из глубокой сланца
+
+tile.vxl_mp:prismarine_brick_wall.name=Призмариновая кирпичная стена
+tile.vxl_mp:dark_prismarine_wall.name=Темная призмариновая стена
+
+tile.vxl_mp:copper_bars.name=Медные слитки
+tile.vxl_mp:exposed_copper_bars.name=Открытые медные слитки
+tile.vxl_mp:oxidized_copper_bars.name=Окисленные медные слитки
+tile.vxl_mp:weathered_copper_bars.name=Выдержанные медные слитки
+
+item.vxl_mp:cooked_egg=Вареное яйцо
+
+acm.vxl_mp.pack_name=§3Недостающие части
+acm.vxl_mp.author_name=Донтедев
+acm.vxl_mp.description=Серия недостающих блоков, предметов и рецептов, которые должны быть в ванили.
+
+acm.vxl_mp.guide.title=§l§3Руководство по недостающим частям!§r
+acm.vxl_mp.guide.recipes.title=§5Рецепты
+acm.vxl_mp.guide.recipes.desc=- Создаваемые седла.
+acm.vxl_mp.guide.items.title=§6Предметы
+acm.vxl_mp.guide.items.desc=- Вареное яйцо.
+acm.vxl_mp.guide.blocks.title=§4Блоки§r
+acm.vxl_mp.guide.ac.title=§l§2- Акация:§r
+acm.vxl_mp.guide.ac.desc=§oКнижная полка из акации, Лестница из акации, Бревенчатая плита из акации, Стена из акации.§r
+acm.vxl_mp.guide.bi.title=§l§2- Береза:§r
+acm.vxl_mp.guide.bi.desc=§oКнижная полка из березы, Лестница из березы, Плита из березового бревна, Стена из березы.§r
+acm.vxl_mp.guide.ch.title=§l§2- Вишня:§r
+acm.vxl_mp.guide.ch.desc=§oВишнёвая книжная полка, Вишнёвая лестница, Вишнёвая бревенчатая плита, Вишнёвая стена.§r
+acm.vxl_mp.guide.cr.title=§l§2- Багровый:§r
+acm.vxl_mp.guide.cr.desc=§oБагровая книжная полка, Багровая лестница, Багровая плита ствола, Багровая стена.§r
+acm.vxl_mp.guide.do.title=§l§2- Темный дуб:§r
+acm.vxl_mp.guide.do.desc=§oКнижная полка из темного дуба, Лестница из темного дуба, Бревенчатая плита из темного дуба, Стена из темного дуба.§r
+acm.vxl_mp.guide.ju.title=§l§2- Джунгли:§r
+acm.vxl_mp.guide.ju.desc=§oКнижная полка в джунглях, Лестница в джунглях, Бревенчатая плита в джунглях, Стена в джунглях.§r
+acm.vxl_mp.guide.ma.title=§l§2- Мангровые заросли:§r
+acm.vxl_mp.guide.ma.desc=§oКнижная полка из мангрового дерева, Лестница из мангрового дерева, Плита из мангрового дерева, Стена из мангрового дерева.§r
+acm.vxl_mp.guide.oak.title=§l§2- Дуб:§r
+acm.vxl_mp.guide.oak.desc=§oДубовая лестница, Дубовая бревенчатая плита, Дубовая стена.§r
+acm.vxl_mp.guide.po.title=§l§2- Бледный дуб:§r
+acm.vxl_mp.guide.po.desc=§oКнижная полка из бледного дуба, Лестница из бледного дуба, Бревенчатая плита из бледного дуба, Стена из бледного дуба.§r
+acm.vxl_mp.guide.sp.title=§l§2- Ель:§r
+acm.vxl_mp.guide.sp.desc=§oКнижная полка из ели, Лестница из ели, Плита из елового бревна, Стена из ели.§r
+acm.vxl_mp.guide.wa.title=§l§2- Искаженный:§r
+acm.vxl_mp.guide.wa.desc=§oИскаженная книжная полка, Искривленная лестница, Искривленная плита ствола, Искривленная стена.§r
+acm.vxl_mp.guide.cd.title=§l§2- Мощеная глубокая плита:§r
+acm.vxl_mp.guide.cd.desc=§oЗабор из мощеной плитки и ворота из шифера.§r
+acm.vxl_mp.guide.cb.title=§l§2- Булыжник:§r
+acm.vxl_mp.guide.cb.desc=§oЗабор из булыжника и ворота.§r
+acm.vxl_mp.guide.mc.title=§l§2- Мшистый булыжник:§r
+acm.vxl_mp.guide.mc.desc=§oЗабор из мшистого булыжника и ворота.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Темный призмарин:§r
+acm.vxl_mp.guide.da_pr.desc=§oТемная призмариновая стена.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Призмариновый кирпич:§r
+acm.vxl_mp.guide.pr_br.desc=§oПризмариновая кирпичная стена.§r
+acm.vxl_mp.guide.co.title=§l§2- Медь:§r
+acm.vxl_mp.guide.co.desc=§oМедные слитки.§r

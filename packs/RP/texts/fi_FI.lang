@@ -1,0 +1,126 @@
+pack.name=Puuttuvat osat
+pack.description=Puuttuvat osat
+
+tile.vxl_core:artisan_table.name=Käsityöläinen pöytä
+
+tile.vxl_mp:acacia_log_slab.name=Akaasiahirsilaatta
+tile.vxl_mp:birch_log_slab.name=Koivuhirsilaatta
+tile.vxl_mp:cherry_log_slab.name=Kirsikkahirsilaatta
+tile.vxl_mp:crimson_stem_slab.name=Crimson Stem Slab
+tile.vxl_mp:dark_oak_log_slab.name= Tumma tammihirsilaatta 
+tile.vxl_mp:jungle_log_slab.name=Viidakkohirsilaatta 
+tile.vxl_mp:mangrove_log_slab.name=Mangrove-hirsilaatta
+tile.vxl_mp:oak_log_slab.name=Tammihirsilaatta
+tile.vxl_mp:pale_oak_log_slab.name=Vaalea tammihirsilaatta
+tile.vxl_mp:spruce_log_slab.name=Kuusihirsilaatta
+tile.vxl_mp:warped_stem_slab.name=Vääntynyt varsilaatta
+
+tile.vxl_mp:stripped_acacia_log_slab.name=Kuorittu akaasiahirsilaatta
+tile.vxl_mp:stripped_birch_log_slab.name=Kuorittu koivuhirsilaatta
+tile.vxl_mp:stripped_cherry_log_slab.name=Kuorittu kirsikkahirsilaatta
+tile.vxl_mp:stripped_crimson_stem_slab.name=Kuorittu Crimson Stem Slab
+tile.vxl_mp:stripped_dark_oak_log_slab.name=Kuorittu tumma tammihirsilaatta 
+tile.vxl_mp:stripped_jungle_log_slab.name=Kuorittu viidakkohirsilaatta 
+tile.vxl_mp:stripped_mangrove_log_slab.name=Kuorittu mangrovehirsilaatta
+tile.vxl_mp:stripped_oak_log_slab.name=Kuorittu tammihirsilaatta
+tile.vxl_mp:stripped_pale_oak_log_slab.name=Kuorittu vaalea tammihirsilaatta
+tile.vxl_mp:stripped_spruce_log_slab.name=Kuorittu kuusihirsilaatta
+tile.vxl_mp:stripped_warped_stem_slab.name=Kuorittu vääntynyt varsilaatta
+
+tile.vxl_mp:acacia_ladder.name=Akaasia tikkaat
+tile.vxl_mp:birch_ladder.name=Koivu tikkaat
+tile.vxl_mp:cherry_ladder.name=Kirsikka Tikkaat
+tile.vxl_mp:crimson_ladder.name=Crimson tikkaat
+tile.vxl_mp:dark_oak_ladder.name= Tummat tammet tikkaat 
+tile.vxl_mp:jungle_ladder.name=Viidakon tikkaat 
+tile.vxl_mp:mangrove_ladder.name=Mangrove-tikkaat
+tile.vxl_mp:oak_ladder.name=Tammi Tikkaat
+tile.vxl_mp:pale_oak_ladder.name=Vaaleat tammet tikkaat
+tile.vxl_mp:spruce_ladder.name=Kuusen tikkaat
+tile.vxl_mp:warped_ladder.name=Vääntyneet tikkaat
+
+tile.vxl_mp:acacia_bookshelf.name=Acacia kirjahylly
+tile.vxl_mp:birch_bookshelf.name=Koivu kirjahylly
+tile.vxl_mp:cherry_bookshelf.name=Kirsikka kirjahylly
+tile.vxl_mp:crimson_bookshelf.name=Crimson kirjahylly
+tile.vxl_mp:dark_oak_bookshelf.name= Tumma tammi kirjahylly 
+tile.vxl_mp:jungle_bookshelf.name=Viidakon kirjahylly 
+tile.vxl_mp:mangrove_bookshelf.name=Mangrove-kirjahylly
+tile.vxl_mp:pale_oak_bookshelf.name=Vaaleantamminen kirjahylly
+tile.vxl_mp:spruce_bookshelf.name=Kuusi kirjahylly
+tile.vxl_mp:warped_bookshelf.name=Vääntynyt kirjahylly
+
+tile.vxl_mp:acacia_wall.name=Akaasia seinä
+tile.vxl_mp:birch_wall.name=Koivuinen seinä
+tile.vxl_mp:cherry_wall.name=Kirsikka seinä
+tile.vxl_mp:crimson_wall.name=Crimson Wall
+tile.vxl_mp:dark_oak_wall.name= Tumma tammi seinä 
+tile.vxl_mp:jungle_wall.name=Viidakon seinä 
+tile.vxl_mp:mangrove_wall.name=Mangrove-seinä
+tile.vxl_mp:oak_wall.name=Tammi seinä
+tile.vxl_mp:pale_oak_wall.name=Vaalea tamminen seinä
+tile.vxl_mp:spruce_wall.name=Kuusen seinä
+tile.vxl_mp:warped_wall.name=Vääntynyt seinä
+
+tile.vxl_mp:cobblestone_fence.name=Mukulakivi aita
+tile.vxl_mp:mossy_cobblestone_fence.name=Sammaleinen mukulakiviaita
+tile.vxl_mp:cobbled_deepslate_fence.name=Mukulakiviaita Deepslate
+
+tile.vxl_mp:cobblestone_fence_gate.name=Mukulakiviaidan portti
+tile.vxl_mp:mossy_cobblestone_fence_gate.name=Sammaleinen mukulakiviaitaportti
+tile.vxl_mp:cobbled_deepslate_fence_gate.name=Mukulakivipohjainen syväaitaportti
+
+tile.vxl_mp:prismarine_brick_wall.name=Prismariini tiiliseinä
+tile.vxl_mp:dark_prismarine_wall.name=Tumma prismarinseinä
+
+tile.vxl_mp:copper_bars.name=Kuparipalkit
+tile.vxl_mp:exposed_copper_bars.name=Paljaat kuparipalkit
+tile.vxl_mp:oxidized_copper_bars.name=Hapetetut kuparipalkit
+tile.vxl_mp:weathered_copper_bars.name=Haalistuneita kuparitankoja
+
+item.vxl_mp:cooked_egg=Keitetty muna
+
+acm.vxl_mp.pack_name=§3 Puuttuvat osat
+acm.vxl_mp.author_name=Donthedev
+acm.vxl_mp.description=Sarja puuttuvia lohkoja, tuotteita ja reseptejä, joiden pitäisi olla vaniljassa.
+
+acm.vxl_mp.guide.title=§l§3Puuttuvien kappaleiden opas!§r
+acm.vxl_mp.guide.recipes.title=§5 Reseptit
+acm.vxl_mp.guide.recipes.desc=- Muodostettavat satulat.
+acm.vxl_mp.guide.items.title=§6 Kohteet
+acm.vxl_mp.guide.items.desc=- Keitetty muna.
+acm.vxl_mp.guide.blocks.title=§4Blocks§r
+acm.vxl_mp.guide.ac.title=§l§2- Akaasia:§r
+acm.vxl_mp.guide.ac.desc=§oAkaasiakirjahylly, akaasiatikkaat, akaasiahirsilaatta, akaasiaseinä.§r
+acm.vxl_mp.guide.bi.title=§l§2- Koivu:§r
+acm.vxl_mp.guide.bi.desc=§oKoivuinen kirjahylly, koivutikkaat, koivuhirsilaatta, koivuseinä.§r
+acm.vxl_mp.guide.ch.title=§l§2- Kirsikka:§r
+acm.vxl_mp.guide.ch.desc=§oCherry kirjahylly, kirsikkatikkaat, kirsikkahirsilaatta, kirsikkaseinä.§r
+acm.vxl_mp.guide.cr.title=§l§2- Crimson:§r
+acm.vxl_mp.guide.cr.desc=§oCrimson kirjahylly, Crimson Ladder, Crimson Stem Slab, Crimson Wall.§r
+acm.vxl_mp.guide.do.title=§l§2- Tumma tammi:§r
+acm.vxl_mp.guide.do.desc=§oTummantamminen kirjahylly, tumma tamminen tikkaat, tumma tammihirsilaatta, tumma tamminen seinä.§r
+acm.vxl_mp.guide.ju.title=§l§2- Viidakko:§r
+acm.vxl_mp.guide.ju.desc=§oJungle kirjahylly, viidakkotikkaat, viidakkohirsilaatta, viidakkoseinä.§r
+acm.vxl_mp.guide.ma.title=§l§2- Mangrove:§r
+acm.vxl_mp.guide.ma.desc=§oMangrove-kirjahylly, mangrovetikkaat, mangrovehirsilaatta, mangroveseinä.§r
+acm.vxl_mp.guide.oak.title=§l§2- Tammi:§r
+acm.vxl_mp.guide.oak.desc=§oOak Tikkaat, Tammihirsilaatta, Tammi seinä.§r
+acm.vxl_mp.guide.po.title=§l§2- Vaalea tammi:§r
+acm.vxl_mp.guide.po.desc=§o Vaaleantamminen kirjahylly, vaalea tammi tikapuut, vaalea tammihirsilaatta, vaalea tammi seinä.§r
+acm.vxl_mp.guide.sp.title=§l§2- Kuusi:§r
+acm.vxl_mp.guide.sp.desc=§oSpruce kirjahylly, kuusi tikkaat, kuusihirsilaatta, kuusiseinä.§r
+acm.vxl_mp.guide.wa.title=§l§2- Vääntynyt:§r
+acm.vxl_mp.guide.wa.desc=§oKääntynyt kirjahylly, vääntyneet tikkaat, vääntynyt varsilaatta, vääntynyt seinä.§r
+acm.vxl_mp.guide.cd.title=§l§2- Cobbled Deepslate:§r
+acm.vxl_mp.guide.cd.desc=§oMulkukivistä syväkiviaita ja aitaportti.§r
+acm.vxl_mp.guide.cb.title=§l§2- Mukulakivi:§r
+acm.vxl_mp.guide.cb.desc=§o Mukulakiviaita & aitaportti.§r
+acm.vxl_mp.guide.mc.title=§l§2- Mossy Cobblestone:§r
+acm.vxl_mp.guide.mc.desc=§oMossy Cobblestone Fence & Fence Gate.§r
+acm.vxl_mp.guide.da_pr.title=§l§2- Tumma Prismarine:§r
+acm.vxl_mp.guide.da_pr.desc=§oDark Prismarine Wall.§r
+acm.vxl_mp.guide.pr_br.title=§l§2- Prismarine Brick:§r
+acm.vxl_mp.guide.pr_br.desc=§oPrismarine Brick Wall.§r
+acm.vxl_mp.guide.co.title=§l§2- Kupari:§r
+acm.vxl_mp.guide.co.desc=§oKuparitangot.§r
